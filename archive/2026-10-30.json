@@ -1,0 +1,106 @@
+{
+ "date": "2026-10-30",
+ "updatedAt": "2026-10-30T07:36:41+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-10-30T07:36:41+08:00",
+   "window": [
+    "2026-10-29T20:00+08:00",
+    "2026-10-30T07:36+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "Mistral开源1万亿参数Mistral Large 4",
+      "body": "10月29日，Mistral AI发布约1万亿参数的MoE模型Mistral Large 4开放权重，上下文窗口最长100万Token，基于约3800块英伟达Grace Blackwell GPU训练，重点面向网络安全，Cybench解题率93%。API定价为每百万Token输入0.7美元、输出2.1美元。",
+      "source": "Tech Startups",
+      "url": "https://techstartups.com/2026/10/29/mistral-ai-releases-large-4-a-1-trillion-parameter-open-weight-model-with-a-cybersecurity-focus/",
+      "publishedAt": "2026-10-29 22:54"
+     },
+     {
+      "title": "亚马逊AWS三季度收入增39%，积压订单5780亿美元",
+      "body": "亚马逊三季度营收2019.44亿美元，同比增长12%；AWS收入459.84亿美元，同比增长约39%，为五年来最快。CEO称AWS积压订单达5780亿美元，预计2027、2028年AWS增速均超40%；三季度Bedrock处理Token量增长近17倍。",
+      "source": "智通财经",
+      "url": "https://news.futunn.com/post/1002816781/amazon-amznus-reported-a-12-year-on-year-increase-in",
+      "publishedAt": "2026-10-30 06:00"
+     },
+     {
+      "title": "彭博：Anthropic占SpaceX三季度营收34.5%",
+      "body": "据彭博社报道，SpaceX文件显示其“客户B”贡献三季度营收的34.5%，彭博社称该客户为Anthropic，已超过美国政府成为其最大客户。双方均未公开确认客户身份。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
+      "publishedAt": "2026-10-30 04:03"
+     },
+     {
+      "title": "OpenAI重写模型规范，围绕五项价值观",
+      "body": "10月29日，OpenAI发布更新版Model Spec，围绕忠于人类意图、减少伤害、诚实透明、人类能动性和关怀五项价值重写，并将模型称谓由“the assistant”改为“GPT”。OpenAI表示现有模型尚未完全体现新规范。",
+      "source": "OpenAI官方博客",
+      "url": "https://openai.com/index/updated-model-spec/",
+      "publishedAt": "2026-10-30 02:42"
+     },
+     {
+      "title": "Alphabet季报披露9244亿美元采购承诺",
+      "body": "Alphabet于10月29日提交三季度10-Q文件，披露9244亿美元采购承诺、1305亿美元未来数据中心及能源租赁承诺，并首次提示自主智能体可能在预期范围之外采取行动的风险。",
+      "source": "TheNextWeb",
+      "url": "https://thenextweb.com/news/alphabet-commitments-1tn-ai-agents-10-q",
+      "publishedAt": "2026-10-30 02:42"
+     }
+    ],
+    "app": [
+     {
+      "title": "今日宜休发布生理信号大模型与Personal Agent",
+      "body": "10月29日晚间，王腾创立的今日宜休发布自研生理信号大模型与ISHO Personal Agent，后者覆盖255项观测项，并支持通过MCP接入主流AI工具，聚焦睡眠监测、干预与精力恢复。",
+      "source": "新浪科技",
+      "url": "http://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwyas2775600.shtml",
+      "publishedAt": "2026-10-29 21:00"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Cohere完成E轮首次交割，目标估值357亿加元",
+      "body": "10月29日，Cohere宣布完成E轮融资首次交割，本轮目标募资最高70亿加元，对应估值357亿加元。Schwarz集团领投，Bell Ventures、Bullhound Capital及加拿大政府新进，Inovia、英伟达、Prosperity7跟投。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/cohere-closes-initial-series-e-targeting-up-to-cad-7b-at-cad-35-7b-valuation/",
+      "publishedAt": "2026-10-30 00:06"
+     },
+     {
+      "title": "Sebastian Thrun创立的Dulo获1.3亿美元种子轮",
+      "body": "据The Information报道，Sebastian Thrun创立的AI工程初创公司Dulo完成1.3亿美元种子轮融资，致力于开发面向硬件设计的基础模型。",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo",
+      "publishedAt": "2026-10-30 01:02"
+     },
+     {
+      "title": "AI视频分析公司Solink融资逾1亿美元",
+      "body": "10月29日，加拿大AI视频分析公司Solink完成逾1亿美元融资，由Vertu Capital领投，高盛成长股权、Golub Growth和Comcast Ventures参投，累计融资超1.98亿美元。其平台接入35000多个场所约50万个摄像头。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/",
+      "publishedAt": "2026-10-29 23:24"
+     },
+     {
+      "title": "AI财税服务商Collective获4000万美元B轮",
+      "body": "10月29日，面向个体经营者的AI记账与报税平台Collective完成4000万美元B轮融资，由General Catalyst、QED Investors和Gradient Ventures领投，另获General Catalyst客户价值基金6000万美元非稀释资金。",
+      "source": "Axios",
+      "url": "https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai",
+      "publishedAt": "2026-10-30 04:03"
+     },
+     {
+      "title": "AI专家分身平台SuperMe获2000万美元融资",
+      "body": "10月29日，AI专家分身群聊平台SuperMe完成2000万美元融资，由Forerunner Ventures的Kirsten Green领投，Greylock跟投。平台基于专家公开内容构建AI分身，可通过MCP接入Claude和ChatGPT。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "publishedAt": "2026-10-30 02:42"
+     }
+    ]
+   }
+  }
+ ]
+}
