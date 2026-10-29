@@ -1,0 +1,99 @@
+{
+ "date": "2026-10-29",
+ "updatedAt": "2026-10-29T09:45:06+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-10-29T09:45:06+08:00",
+   "window": [
+    "2026-10-28T20:00+08:00",
+    "2026-10-29T09:45+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "Anthropic未发布模型自主构建五大系统漏洞利用链",
+      "body": "据The Hacker News报道，Anthropic前沿红队披露，一款未发布的Claude模型端到端构建了覆盖五个平台的漏洞利用链，包括Linux零点击远程提权（CVSS 9.8）和Chrome一键沙箱逃逸，相关漏洞均在修复前报告给厂商。",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "publishedAt": "2026-10-29 03:45"
+     },
+     {
+      "title": "微软Azure营收增长48%，季度总营收923亿美元",
+      "body": "微软公布截至9月的季度业绩，Azure云业务营收同比增长48%，总营收同比增长19%至923亿美元，均超分析师预期。微软正通过AI办公应用和Azure模型服务推动AI商业化，同时面临大额算力投入的回报压力。",
+      "source": "新浪财经",
+      "url": "http://k.sina.com.cn/article_5952915720_162d24908067052toq.html",
+      "publishedAt": "2026-10-29 06:00"
+     },
+     {
+      "title": "摩尔线程三季度营收增长逾17倍，首次单季盈利",
+      "body": "据彭博社报道，摩尔线程第三季度营收约16亿元，同比增长1774%，单季利润4930万元；前三季度营收32.9亿元，同比增长319%。公司正与京东合作建设10万卡GPU集群。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/moore-threads-sales-surge-nearly-1-800-on-ai-hardware-demand",
+      "publishedAt": "2026-10-29 03:45"
+     },
+     {
+      "title": "英伟达开源语音模型Nemotron 3.5 Transcribe",
+      "body": "英伟达发布开源权重语音模型Nemotron 3.5 Transcribe，采用300亿参数MoE架构（激活40亿），支持40种语言的转写、翻译、说话人识别与问答，在Blackwell上不到3分钟可处理100小时音频；同步开放约46万小时的多语种数据集Granary v2。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/",
+      "publishedAt": "2026-10-29 06:45"
+     },
+     {
+      "title": "智能指数v5发布，DeepSeek V4.1 Flash编码项登顶",
+      "body": "第三方评测机构Artificial Analysis发布Intelligence Index v5，为今年1月v4以来最大改版，60%权重基于私有测试集或隐藏答案，知识工作、编码、科学、通用能力各占25%；开源模型DeepSeek V4.1 Flash在编码项排名第一。",
+      "source": "新浪财经",
+      "url": "http://finance.sina.com.cn/stock/t/2026-10-29/doc-iniwvftk6382453.shtml",
+      "publishedAt": "2026-10-29"
+     }
+    ],
+    "app": [
+     {
+      "title": "GitHub Copilot Fusion正式上线，可编排调度多模型",
+      "body": "GitHub宣布Copilot Fusion正式可用，提供Standard、High、Max三档强度。据介绍，Fusion Max在Artificial Analysis编码智能体指数中得60分，与Claude Code（Opus 5.5 Max）相差两分以内，API成本约为一半；GitHub 9月代码提交量达74亿次，同比增长5倍。",
+      "source": "GitHub官方博客",
+      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
+      "publishedAt": "2026-10-29 07:45"
+     },
+     {
+      "title": "亚马逊发布Echo Show 16，推出Alexa家居3D地图",
+      "body": "亚马逊发布16英寸智能屏Echo Show 16，售价499.99美元起，捆绑Fire TV与Alexa+；同步推出Alexa Home Map，以3D视图展示家中联网设备，1300万像素摄像头可在约5米外识别用户。",
+      "source": "亚马逊官方",
+      "url": "https://www.aboutamazon.com/news/devices/echo-show-16-smart-display",
+      "publishedAt": "2026-10-29 03:45"
+     },
+     {
+      "title": "OpenAI设立选举运营中心，应对美国中期选举",
+      "body": "据Politico报道，OpenAI设立选举运营中心，由Josh Lawson负责，运行至11月3日美国中期选举计票结束；ChatGPT将把选举相关问询引导至Democracy Works和美联社，并对写实类选举图片请求继续采用卡通化处理。",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/10/28/openai-election-war-room-interference-01137690",
+      "publishedAt": "2026-10-29 07:45"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Foundry Robotics完成1亿美元A轮融资",
+      "body": "美国自主工厂公司Foundry Robotics完成1亿美元超额认购A轮融资，由Marlinspike Partners领投，Khosla Ventures、SE Ventures、Wing VC等参投，资金将用于扩建埃默里维尔工厂、在制造环节部署AI模型。",
+      "source": "雅虎财经",
+      "url": "https://finance.yahoo.com/technology/ai/articles/foundry-robotics-raises-100-million-150000783.html",
+      "publishedAt": "2026-10-28 23:00"
+     },
+     {
+      "title": "Cognition获700亿至800亿美元估值融资意向",
+      "body": "据Business Insider报道，AI编程公司Cognition（Devin开发商）获投资方以700亿至800亿美元估值的融资意向，较9月8日完成20亿美元以上融资时的480亿美元估值提升46%至67%，谈判尚处早期。",
+      "source": "Business Insider",
+      "url": "http://k.sina.com.cn/article_5952915720_162d24908067052sti.html",
+      "publishedAt": "2026-10-29"
+     }
+    ]
+   }
+  }
+ ]
+}
