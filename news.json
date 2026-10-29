@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "updatedAt": "2026-10-29T09:45:06+08:00",
+ "updatedAt": "2026-10-29T19:50:54+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,58 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-10-29T19:50:54+08:00",
+   "window": [
+    "2026-10-29T08:00+08:00",
+    "2026-10-29T19:50+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "腾讯称混元大模型Hy4即将发布",
+      "body": "10月29日，在2026腾讯全球数字生态大会上，腾讯集团高级执行副总裁汤道生透露，混元大模型Hy4很快会发布；腾讯云同期发布Buddy One、腾讯网盘等新产品，并提出行为可控、过程可溯、数据可管的“可信AI”治理体系。",
+      "source": "凤凰网科技",
+      "url": "https://original.ifeng.com/c/8xc4so4ZDVF",
+      "publishedAt": "2026-10-29 10:35"
+     },
+     {
+      "title": "智元发布具身基座模型GO-3 Preview，年底开源",
+      "body": "10月29日，智元在2026智元创新日发布新一代具身基座模型GO-3 Preview，采用自研具身原生架构WRAM，计划2026年底全面开源；同日发布具身智能原生操作系统灵渠OS 1.0，同样计划年底开源。",
+      "source": "上观新闻",
+      "url": "https://www.163.com/dy/article/LADM383O055040N3.html",
+      "publishedAt": "2026-10-29 13:21"
+     }
+    ],
+    "app": [
+     {
+      "title": "腾讯发布Buddy One，WorkBuddy覆盖半数500强",
+      "body": "10月29日，腾讯在全球数字生态大会上发布以WorkBuddy为工作台的一体化套件Buddy One。汤道生称，WorkBuddy企业版3月上线以来已落地50多个行业，覆盖中国企业500强中的50%，开放平台伙伴和开发者超5万家，上架Skills超20万。",
+      "source": "央广网",
+      "url": "https://tech.cnr.cn/techgd/20261029/t20261029_527856346.shtml",
+      "publishedAt": "2026-10-29 16:15"
+     },
+     {
+      "title": "智元上半年营收近20亿元，累计下线超2万台",
+      "body": "10月29日，智元联合创始人彭志辉在2026智元创新日公布，通用AI机器人累计下线量突破2万台，2026年上半年营收接近20亿元；智元2025年营收为10.5亿元。",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1161/1161594.htm",
+      "publishedAt": "2026-10-29 14:09"
+     }
+    ],
+    "funding": [
+     {
+      "title": "韩国AI芯片公司FuriosaAI完成8200亿韩元D轮",
+      "body": "10月29日，韩国AI芯片公司FuriosaAI宣布完成8200亿韩元D轮融资，投后估值约3.8万亿韩元；国民成长基金出资3700亿韩元，为最大投资方，美国Infinitum为最大海外投资方。资金将用于第二代芯片RNGD全球商用及第三代产品开发。",
+      "source": "ZDNet Korea",
+      "url": "https://zdnet.co.kr/view/?no=20261029090026",
+      "publishedAt": "2026-10-29 08:21"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
