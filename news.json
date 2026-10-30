@@ -1,6 +1,6 @@
 {
- "date": "2026-10-30",
- "updatedAt": "2026-10-30T19:39:23+08:00",
+ "date": "2026-10-31",
+ "updatedAt": "2026-10-31T07:45:04+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,161 +9,74 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-10-30T19:39:23+08:00",
-   "window": [
-    "2026-10-30T08:00+08:00",
-    "2026-10-30T19:39+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "大晓机器人联合南洋理工发布机器人世界模型Mundo",
-      "body": "10月30日，大晓机器人联合南洋理工大学S-Lab发布机器人世界模型Mundo，可用少量图片或视频重建三维场景并支持自由视角探索，可设置质量、摩擦等物理属性模拟推拉与碰撞，用于机器人训练数据生成和仿真测试。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15272076.html",
-      "publishedAt": "2026-10-30"
-     }
-    ],
-    "app": [
-     {
-      "title": "谷歌将逐步停用AI编程助手Jules，并入Antigravity",
-      "body": "10月30日，谷歌通过Jules官方账号宣布，随着重心转向打造统一体验，AI编程助手Jules将逐步停止运营，相关经验将融入AI编码平台Antigravity。Jules于2024年12月推出，暂未公布具体停服日期。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/019/963.htm",
-      "publishedAt": "2026-10-30 11:10"
-     },
-     {
-      "title": "中证协发布34篇证券业AI应用典型案例",
-      "body": "10月30日，中国证券业协会发布“智汇证券·共创未来”证券行业人工智能应用案例集，共34篇案例入选，覆盖运营提效、体验升级、决策支持、模式创新、研发效能、风险合规、综合七大方向。",
-      "source": "财联社",
-      "url": "https://shishixinwen.news/news/2521013",
-      "publishedAt": "2026-10-30 19:18"
-     }
-    ],
-    "funding": [
-     {
-      "title": "The Information披露DeepSeek第二轮融资1055亿元",
-      "body": "据The Information报道，DeepSeek第二轮融资规模为1055亿元人民币，估值突破6155亿元，近30家机构参投；腾讯本轮出资100亿元，宁德时代及曾毓群合计100亿元，国资占比约27%（首轮约2%）。DeepSeek官方未确认。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/020/121.htm",
-      "publishedAt": "2026-10-30 14:59"
-     },
-     {
-      "title": "零一万物获杭州国资数亿元投资，总部落地临平",
-      "body": "10月30日，零一万物宣布已于10月28日与杭州市、临平区达成合作，获市区两级国资联动投资合计数亿元，总部将落地杭州临平区，建设产业AI转型基地。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/019/877.htm",
-      "publishedAt": "2026-10-30 09:40"
-     },
-     {
-      "title": "英国AI芯片公司Fractile完成5.77亿英镑C轮",
-      "body": "据英国公司注册处文件，AI芯片公司Fractile于9月9日至10月23日间配发5.77亿英镑C轮优先股，约合7.74亿美元，为其迄今最大一笔融资；约五个月前该公司完成2.2亿美元B轮，本轮领投方未披露。",
-      "source": "Tech Funding News",
-      "url": "https://techfundingnews.com/fractile-577m-series-c-nvidia-ai-chips/",
-      "publishedAt": "2026-10-30 14:00"
-     },
-     {
-      "title": "AI电力资产运营商Green Voltis获数千万美元A轮",
-      "body": "10月30日，总部位于瑞典的AI原生电力资产运营商Green Voltis宣布完成数千万美元A轮融资，由宁德时代支持设立的美元基金Lochpine Capital独家投资，资金用于AI电力交易智能体研发与欧洲市场拓展。创始人史耀宏曾任华为副总裁。",
-      "source": "36氪",
-      "url": "https://www.163.com/dy/article/LAFTQ2NM05118DFD.html",
-      "publishedAt": "2026-10-30 10:15"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-10-30T07:36:41+08:00",
+   "fetchedAt": "2026-10-31T07:45:04+08:00",
    "window": [
-    "2026-10-29T20:00+08:00",
-    "2026-10-30T07:36+08:00"
+    "2026-10-30T20:00+08:00",
+    "2026-10-31T07:45+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "Mistral开源1万亿参数Mistral Large 4",
-      "body": "10月29日，Mistral AI发布约1万亿参数的MoE模型Mistral Large 4开放权重，上下文窗口最长100万Token，基于约3800块英伟达Grace Blackwell GPU训练，重点面向网络安全，Cybench解题率93%。API定价为每百万Token输入0.7美元、输出2.1美元。",
-      "source": "Tech Startups",
-      "url": "https://techstartups.com/2026/10/29/mistral-ai-releases-large-4-a-1-trillion-parameter-open-weight-model-with-a-cybersecurity-focus/",
-      "publishedAt": "2026-10-29 22:54"
+      "title": "OpenAI、谷歌、微软、Anthropic支持统一AI训练退出标记",
+      "body": "10月30日，OpenAI、谷歌、微软和Anthropic表示将遵守robots.txt中的统一标记“__usage_ai-training”，网站可借此拒绝内容被用于AI训练。Anthropic已开始实施，OpenAI称将在未来几个月落地，微软目标为2027年2月1日，谷歌目标为2027年。该标记仅约束训练用途，不限制抓取。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "publishedAt": "2026-10-31"
      },
      {
-      "title": "亚马逊AWS三季度收入增39%，积压订单5780亿美元",
-      "body": "亚马逊三季度营收2019.44亿美元，同比增长12%；AWS收入459.84亿美元，同比增长约39%，为五年来最快。CEO称AWS积压订单达5780亿美元，预计2027、2028年AWS增速均超40%；三季度Bedrock处理Token量增长近17倍。",
-      "source": "智通财经",
-      "url": "https://news.futunn.com/post/1002816781/amazon-amznus-reported-a-12-year-on-year-increase-in",
-      "publishedAt": "2026-10-30 06:00"
+      "title": "Anthropic将Max 20x更名为Ultra，取消5小时用量上限",
+      "body": "10月30日，Anthropic调整Claude订阅档位：100美元/月的Max 5x更名为Max，200美元/月的Max 20x更名为Ultra，价格不变；通过验证的Ultra账户将取消5小时用量窗口，每周额度不变，为Pro的10倍。",
+      "source": "Anthropic官方",
+      "url": "https://x.com/claudeai/status/2116220869479428500",
+      "publishedAt": "2026-10-31 04:02"
      },
      {
-      "title": "彭博：Anthropic占SpaceX三季度营收34.5%",
-      "body": "据彭博社报道，SpaceX文件显示其“客户B”贡献三季度营收的34.5%，彭博社称该客户为Anthropic，已超过美国政府成为其最大客户。双方均未公开确认客户身份。",
+      "title": "小米开源0.8B文档理解模型Xiaomi-OCR-0",
+      "body": "10月30日，小米开源轻量级文档理解模型Xiaomi-OCR-0，参数量0.8B，基于Qwen3.5-0.8B-Base、约1.7亿条样本训练，覆盖文档解析、关键信息抽取和OCR视觉问答，在OmniDocBench v1.6得分96.83，权重与推理代码已上线Hugging Face和GitHub。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/346.htm",
+      "publishedAt": "2026-10-30 21:15"
+     },
+     {
+      "title": "亚马逊设立最高800亿美元供应商融资安排支持AI投入",
+      "body": "据彭博社10月30日报道，亚马逊在季度申报文件中披露设立一项最高约800亿美元的供应商融资安排，以所购硬件为担保，可在2027年初至2028年三季度期间动用；截至9月的12个月自由现金流为负424亿美元。",
       "source": "彭博社",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
-      "publishedAt": "2026-10-30 04:03"
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai",
+      "publishedAt": "2026-10-31"
      },
      {
-      "title": "OpenAI重写模型规范，围绕五项价值观",
-      "body": "10月29日，OpenAI发布更新版Model Spec，围绕忠于人类意图、减少伤害、诚实透明、人类能动性和关怀五项价值重写，并将模型称谓由“the assistant”改为“GPT”。OpenAI表示现有模型尚未完全体现新规范。",
-      "source": "OpenAI官方博客",
-      "url": "https://openai.com/index/updated-model-spec/",
-      "publishedAt": "2026-10-30 02:42"
+      "title": "谷歌首颗太空数据中心原型卫星上线，运行Gemma 4",
+      "body": "10月30日，谷歌Suncatcher太空数据中心原型卫星完成约三周调试后上线，搭载一颗TPU、发电功率最高1千瓦，TPU每次只能运行约20分钟，预装的Gemma 4已完成首次推理。谷歌计划2027年再发射两颗搭载TPU的卫星。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "publishedAt": "2026-10-31 01:00"
      },
      {
-      "title": "Alphabet季报披露9244亿美元采购承诺",
-      "body": "Alphabet于10月29日提交三季度10-Q文件，披露9244亿美元采购承诺、1305亿美元未来数据中心及能源租赁承诺，并首次提示自主智能体可能在预期范围之外采取行动的风险。",
-      "source": "TheNextWeb",
-      "url": "https://thenextweb.com/news/alphabet-commitments-1tn-ai-agents-10-q",
-      "publishedAt": "2026-10-30 02:42"
+      "title": "OpenAI收紧ChatGPT青少年武器信息，将发布社区安全报告",
+      "body": "10月30日，OpenAI宣布ChatGPT将限制向18岁以下用户提供武器和安防系统的实用信息，并自动结束执着于暴力话题的对话；公司称三季度向执法部门转介潜在暴力威胁超200次，将每半年发布社区安全报告，首份于2027年初发布。",
+      "source": "路透社",
+      "url": "https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/",
+      "publishedAt": "2026-10-31"
      }
     ],
     "app": [
      {
-      "title": "今日宜休发布生理信号大模型与Personal Agent",
-      "body": "10月29日晚间，王腾创立的今日宜休发布自研生理信号大模型与ISHO Personal Agent，后者覆盖255项观测项，并支持通过MCP接入主流AI工具，聚焦睡眠监测、干预与精力恢复。",
-      "source": "新浪科技",
-      "url": "http://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwyas2775600.shtml",
-      "publishedAt": "2026-10-29 21:00"
+      "title": "京东11.11已售超2000万件AI产品，AIPC等成交额翻倍",
+      "body": "京东10月30日披露，截至当日18点，11.11已产生1.5亿个服务订单、售出超2000万件AI产品；AIPC、AI眼镜、AI工作站、AI相机等成交额同比增长100%，智能人形机器人销量同比增长700%，机械臂、灵巧手等品类成交额增长超10倍。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34371861",
+      "publishedAt": "2026-10-30 22:36"
      }
     ],
     "funding": [
      {
-      "title": "Cohere完成E轮首次交割，目标估值357亿加元",
-      "body": "10月29日，Cohere宣布完成E轮融资首次交割，本轮目标募资最高70亿加元，对应估值357亿加元。Schwarz集团领投，Bell Ventures、Bullhound Capital及加拿大政府新进，Inovia、英伟达、Prosperity7跟投。",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/cohere-closes-initial-series-e-targeting-up-to-cad-7b-at-cad-35-7b-valuation/",
-      "publishedAt": "2026-10-30 00:06"
-     },
-     {
-      "title": "Sebastian Thrun创立的Dulo获1.3亿美元种子轮",
-      "body": "据The Information报道，Sebastian Thrun创立的AI工程初创公司Dulo完成1.3亿美元种子轮融资，致力于开发面向硬件设计的基础模型。",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo",
-      "publishedAt": "2026-10-30 01:02"
-     },
-     {
-      "title": "AI视频分析公司Solink融资逾1亿美元",
-      "body": "10月29日，加拿大AI视频分析公司Solink完成逾1亿美元融资，由Vertu Capital领投，高盛成长股权、Golub Growth和Comcast Ventures参投，累计融资超1.98亿美元。其平台接入35000多个场所约50万个摄像头。",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/29/solink-raises-more-than-100m-to-pull-business-data-from-security-cameras-with-ai/",
-      "publishedAt": "2026-10-29 23:24"
-     },
-     {
-      "title": "AI财税服务商Collective获4000万美元B轮",
-      "body": "10月29日，面向个体经营者的AI记账与报税平台Collective完成4000万美元B轮融资，由General Catalyst、QED Investors和Gradient Ventures领投，另获General Catalyst客户价值基金6000万美元非稀释资金。",
-      "source": "Axios",
-      "url": "https://www.axios.com/pro/fintech-deals/2026/10/29/collective-100m-financial-services-ai",
-      "publishedAt": "2026-10-30 04:03"
-     },
-     {
-      "title": "AI专家分身平台SuperMe获2000万美元融资",
-      "body": "10月29日，AI专家分身群聊平台SuperMe完成2000万美元融资，由Forerunner Ventures的Kirsten Green领投，Greylock跟投。平台基于专家公开内容构建AI分身，可通过MCP接入Claude和ChatGPT。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "publishedAt": "2026-10-30 02:42"
+      "title": "工业人形机器人AI公司Bleu Robotics获500万欧元融资",
+      "body": "10月30日，巴黎初创公司Bleu Robotics完成500万欧元Pre-seed轮融资，由Contrarian Ventures和OVNI Capital联合领投，Kvanted、WEPA Ventures等参投。公司开发工业人形机器人AI模型，称最少10次示范即可学会新任务，目标将部署时间缩短至1小时以内。",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/",
+      "publishedAt": "2026-10-31 06:49"
      }
     ]
    }

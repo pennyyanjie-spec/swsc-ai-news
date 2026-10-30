@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-31",
+ "updatedAt": "2026-10-31T07:45:04+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-10-31T07:45:04+08:00",
+   "window": [
+    "2026-10-30T20:00+08:00",
+    "2026-10-31T07:45+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "OpenAI、谷歌、微软、Anthropic支持统一AI训练退出标记",
+      "body": "10月30日，OpenAI、谷歌、微软和Anthropic表示将遵守robots.txt中的统一标记“__usage_ai-training”，网站可借此拒绝内容被用于AI训练。Anthropic已开始实施，OpenAI称将在未来几个月落地，微软目标为2027年2月1日，谷歌目标为2027年。该标记仅约束训练用途，不限制抓取。",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "publishedAt": "2026-10-31"
+     },
+     {
+      "title": "Anthropic将Max 20x更名为Ultra，取消5小时用量上限",
+      "body": "10月30日，Anthropic调整Claude订阅档位：100美元/月的Max 5x更名为Max，200美元/月的Max 20x更名为Ultra，价格不变；通过验证的Ultra账户将取消5小时用量窗口，每周额度不变，为Pro的10倍。",
+      "source": "Anthropic官方",
+      "url": "https://x.com/claudeai/status/2116220869479428500",
+      "publishedAt": "2026-10-31 04:02"
+     },
+     {
+      "title": "小米开源0.8B文档理解模型Xiaomi-OCR-0",
+      "body": "10月30日，小米开源轻量级文档理解模型Xiaomi-OCR-0，参数量0.8B，基于Qwen3.5-0.8B-Base、约1.7亿条样本训练，覆盖文档解析、关键信息抽取和OCR视觉问答，在OmniDocBench v1.6得分96.83，权重与推理代码已上线Hugging Face和GitHub。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/346.htm",
+      "publishedAt": "2026-10-30 21:15"
+     },
+     {
+      "title": "亚马逊设立最高800亿美元供应商融资安排支持AI投入",
+      "body": "据彭博社10月30日报道，亚马逊在季度申报文件中披露设立一项最高约800亿美元的供应商融资安排，以所购硬件为担保，可在2027年初至2028年三季度期间动用；截至9月的12个月自由现金流为负424亿美元。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai",
+      "publishedAt": "2026-10-31"
+     },
+     {
+      "title": "谷歌首颗太空数据中心原型卫星上线，运行Gemma 4",
+      "body": "10月30日，谷歌Suncatcher太空数据中心原型卫星完成约三周调试后上线，搭载一颗TPU、发电功率最高1千瓦，TPU每次只能运行约20分钟，预装的Gemma 4已完成首次推理。谷歌计划2027年再发射两颗搭载TPU的卫星。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "publishedAt": "2026-10-31 01:00"
+     },
+     {
+      "title": "OpenAI收紧ChatGPT青少年武器信息，将发布社区安全报告",
+      "body": "10月30日，OpenAI宣布ChatGPT将限制向18岁以下用户提供武器和安防系统的实用信息，并自动结束执着于暴力话题的对话；公司称三季度向执法部门转介潜在暴力威胁超200次，将每半年发布社区安全报告，首份于2027年初发布。",
+      "source": "路透社",
+      "url": "https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/",
+      "publishedAt": "2026-10-31"
+     }
+    ],
+    "app": [
+     {
+      "title": "京东11.11已售超2000万件AI产品，AIPC等成交额翻倍",
+      "body": "京东10月30日披露，截至当日18点，11.11已产生1.5亿个服务订单、售出超2000万件AI产品；AIPC、AI眼镜、AI工作站、AI相机等成交额同比增长100%，智能人形机器人销量同比增长700%，机械臂、灵巧手等品类成交额增长超10倍。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34371861",
+      "publishedAt": "2026-10-30 22:36"
+     }
+    ],
+    "funding": [
+     {
+      "title": "工业人形机器人AI公司Bleu Robotics获500万欧元融资",
+      "body": "10月30日，巴黎初创公司Bleu Robotics完成500万欧元Pre-seed轮融资，由Contrarian Ventures和OVNI Capital联合领投，Kvanted、WEPA Ventures等参投。公司开发工业人形机器人AI模型，称最少10次示范即可学会新任务，目标将部署时间缩短至1小时以内。",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/",
+      "publishedAt": "2026-10-31 06:49"
+     }
+    ]
+   }
+  }
+ ]
+}
