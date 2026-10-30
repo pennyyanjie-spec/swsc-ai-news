@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "updatedAt": "2026-10-30T07:36:41+08:00",
+ "updatedAt": "2026-10-30T19:39:23+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,72 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-10-30T19:39:23+08:00",
+   "window": [
+    "2026-10-30T08:00+08:00",
+    "2026-10-30T19:39+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "大晓机器人联合南洋理工发布机器人世界模型Mundo",
+      "body": "10月30日，大晓机器人联合南洋理工大学S-Lab发布机器人世界模型Mundo，可用少量图片或视频重建三维场景并支持自由视角探索，可设置质量、摩擦等物理属性模拟推拉与碰撞，用于机器人训练数据生成和仿真测试。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15272076.html",
+      "publishedAt": "2026-10-30"
+     }
+    ],
+    "app": [
+     {
+      "title": "谷歌将逐步停用AI编程助手Jules，并入Antigravity",
+      "body": "10月30日，谷歌通过Jules官方账号宣布，随着重心转向打造统一体验，AI编程助手Jules将逐步停止运营，相关经验将融入AI编码平台Antigravity。Jules于2024年12月推出，暂未公布具体停服日期。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/963.htm",
+      "publishedAt": "2026-10-30 11:10"
+     },
+     {
+      "title": "中证协发布34篇证券业AI应用典型案例",
+      "body": "10月30日，中国证券业协会发布“智汇证券·共创未来”证券行业人工智能应用案例集，共34篇案例入选，覆盖运营提效、体验升级、决策支持、模式创新、研发效能、风险合规、综合七大方向。",
+      "source": "财联社",
+      "url": "https://shishixinwen.news/news/2521013",
+      "publishedAt": "2026-10-30 19:18"
+     }
+    ],
+    "funding": [
+     {
+      "title": "The Information披露DeepSeek第二轮融资1055亿元",
+      "body": "据The Information报道，DeepSeek第二轮融资规模为1055亿元人民币，估值突破6155亿元，近30家机构参投；腾讯本轮出资100亿元，宁德时代及曾毓群合计100亿元，国资占比约27%（首轮约2%）。DeepSeek官方未确认。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/020/121.htm",
+      "publishedAt": "2026-10-30 14:59"
+     },
+     {
+      "title": "零一万物获杭州国资数亿元投资，总部落地临平",
+      "body": "10月30日，零一万物宣布已于10月28日与杭州市、临平区达成合作，获市区两级国资联动投资合计数亿元，总部将落地杭州临平区，建设产业AI转型基地。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/019/877.htm",
+      "publishedAt": "2026-10-30 09:40"
+     },
+     {
+      "title": "英国AI芯片公司Fractile完成5.77亿英镑C轮",
+      "body": "据英国公司注册处文件，AI芯片公司Fractile于9月9日至10月23日间配发5.77亿英镑C轮优先股，约合7.74亿美元，为其迄今最大一笔融资；约五个月前该公司完成2.2亿美元B轮，本轮领投方未披露。",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/fractile-577m-series-c-nvidia-ai-chips/",
+      "publishedAt": "2026-10-30 14:00"
+     },
+     {
+      "title": "AI电力资产运营商Green Voltis获数千万美元A轮",
+      "body": "10月30日，总部位于瑞典的AI原生电力资产运营商Green Voltis宣布完成数千万美元A轮融资，由宁德时代支持设立的美元基金Lochpine Capital独家投资，资金用于AI电力交易智能体研发与欧洲市场拓展。创始人史耀宏曾任华为副总裁。",
+      "source": "36氪",
+      "url": "https://www.163.com/dy/article/LAFTQ2NM05118DFD.html",
+      "publishedAt": "2026-10-30 10:15"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
