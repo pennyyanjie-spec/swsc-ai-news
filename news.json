@@ -1,6 +1,6 @@
 {
- "date": "2026-11-02",
- "updatedAt": "2026-11-02T19:42:26+08:00",
+ "date": "2026-11-03",
+ "updatedAt": "2026-11-03T07:35:34+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,67 +9,88 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-02T19:42:26+08:00",
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-03T07:35:34+08:00",
    "window": [
-    "2026-11-02T08:00+08:00",
-    "2026-11-02T19:42+08:00"
+    "2026-11-02T20:00+08:00",
+    "2026-11-03T07:35+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "阿布扎比国家石油公司、G42与OpenAI签署AI合作协议",
-      "body": "11月2日，阿布扎比国家石油公司（ADNOC）与G42同OpenAI签署协议，推进在各自业务中整合先进AI技术。据阿布扎比媒体办公室消息，OpenAI首席执行官Sam Altman当天在阿布扎比会见阿布扎比王储，并出席ADIPEC能源展。",
-      "source": "格隆汇",
-      "url": "http://finance.sina.com.cn/stock/bxjj/2026-11-02/doc-inixipwv2266145.shtml",
+      "title": "腾讯混元发布AI科研系统Hyra 2.0",
+      "body": "11月2日，腾讯混元发布AI科研系统Hyra 2.0，将重点从直接用AI攻克科学难题，转向让通用Agent参与科学模型、研究工作流及软件工具的研发与升级，使研发成果可在后续研究中反复复用。此前Hyra 1.0曾驱动开源模型解决加法组合学中悬置五十余年的开放问题。",
+      "source": "IT之家",
+      "url": "http://finance.sina.com.cn/tech/digi/2026-11-02/doc-inixkeus7127382.shtml",
       "publishedAt": "2026-11-02"
      },
      {
-      "title": "SemiAnalysis推出GDPx基准，最佳模型得分仅12%",
-      "body": "11月2日，SemiAnalysis发布覆盖11个领域的前沿模型能力基准GDPx。Claude Opus 5.5以12.0%居首，Gemini 4 Carbon为10.9%，GPT-6 Astra为9.6%；金融与法律领域所有模型得分均为0%。",
-      "source": "SemiAnalysis",
-      "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+      "title": "远景800V高压直流供电系统在AI数据中心贯通",
+      "body": "11月2日，远景科技集团宣布其一体化800V高压直流供电系统在远景乌兰察布星河基地实现端到端贯通，称是全球首套在大型AI数据中心投入商业化运行的同类系统。该基地今年8月投产，规划容量3GW，绿电直连比例将超过80%。",
+      "source": "能源日参",
+      "url": "http://k.sina.com.cn/article_5952915705_162d248f906703sbqc.html",
       "publishedAt": "2026-11-02"
      }
     ],
     "app": [
      {
-      "title": "爱奇艺上海AI影视棚启用，首个项目已开拍",
-      "body": "11月2日，爱奇艺宣布在其上海创意中心启用AI影视摄制棚，将实景拍摄与自有的NadouPro AI后期制作管线结合，公司称其为国内首个AI电影棚。首个项目《Cop in Trouble》已于10月28日开机。",
-      "source": "美通社",
-      "url": "https://www.prnewswire.com/news-releases/iqiyi-launches-chinas-first-ai-film-studio-in-shanghai-with-inaugural-title-cop-in-trouble-in-production-302925881.html",
+      "title": "李佳琦直播间开卖千问办公Token，半小时售出约2万亿",
+      "body": "11月2日晚，李佳琦直播间首次上架AI算力类商品，0.01元的千问办公个人会员月卡开卖10分钟售出5万份，半小时累计售出近10万份，对应AI算力额度约2万亿Token。阿里巴巴集团副总裁、千问办公CEO陈宇森现身直播间。",
+      "source": "新京报贝壳财经",
+      "url": "http://finance.sina.com.cn/jjxw/2026-11-03/doc-inixkrkn6967519.shtml",
+      "publishedAt": "2026-11-03"
+     },
+     {
+      "title": "高盛限制交易员和银行家使用AI编程工具",
+      "body": "据彭博社报道，高盛10月更新的内部指引显示，此前允许银行家使用的Anthropic Claude Code和微软GitHub等AI编程工具，今后仅限工程师使用。知情人士称，部分交易员此前用这些工具监控客户交易流、对市场和头寸建模，禁令引发不满。",
+      "source": "彭博社",
+      "url": "http://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkeus7150452.shtml",
       "publishedAt": "2026-11-02"
      },
      {
-      "title": "360在乌镇峰会展示纳米Work安全AI办公平台",
-      "body": "11月2日，2026世界互联网大会乌镇峰会开幕，360集团展示纳米Work安全AI办公平台及图龙锋AI安全攻防系统，集团副总裁卜思南介绍了“AI+安全”创新成果。峰会会期为11月2日至5日。",
-      "source": "环球网",
-      "url": "http://finance.sina.com.cn/roll/2026-11-02/doc-inixipxc9387866.shtml",
+      "title": "优必选发布具身智能仿真平台Thinker-Sim",
+      "body": "11月2日，优必选科技发布具身智能仿真平台Thinker-Sim，覆盖真实场景数字化、规模化仿真数据合成和机器人能力评测，通过真实场景三维重建与多资产仿真，支持多模态感知、导航及操作仿真，服务工业制造、商业服务等场景下机器人的落地验证。",
+      "source": "北京商报",
+      "url": "http://k.sina.com.cn/article_5953190046_162d6789e06703w5tm.html",
       "publishedAt": "2026-11-02"
      }
     ],
     "funding": [
      {
-      "title": "GenRobot AI完成1亿美元A+轮融资",
-      "body": "11月2日，北京机器人训练数据公司GenRobot AI披露已于三季度完成1亿美元A+轮融资，投资方包括上汽集团、百度、马来西亚Eastworlds、首程控股和银河通用机器人，以及多家财务投资机构。",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding/",
+      "title": "Anthropic修订招股书：三季度营收约170亿美元",
+      "body": "11月2日，Anthropic向美国SEC提交修订版S-1文件，披露第三季度营收约170亿美元，同比增长约1127%；前九个月营收332.4亿美元。文件显示其采购承诺与租赁合计约8954亿美元。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
       "publishedAt": "2026-11-02"
      },
      {
-      "title": "机器科学完成数亿元A2轮融资",
-      "body": "11月2日，机器科学（RoboScience）宣布完成数亿元A2轮融资，由琥珀资本、鸿瑞达投资、上海半导体产投领投，爽资本、360战投、国联通宝、金鼎资本等跟投，资金将用于具身智能与大模型迭代及商业化落地。",
-      "source": "新京报贝壳财经",
-      "url": "http://news.sina.com.cn/o/2026-11-02/doc-inixiiqx2341600.shtml",
+      "title": "Marvell拟以1150亿美元全股票收购Lumentum",
+      "body": "11月2日，Marvell确认以全股票方式收购光器件厂商Lumentum，隐含企业价值1150亿美元，每股约1132美元，较10月28日收盘价溢价23.9%。交易完成后Marvell股东将持有合并后公司约67%股份，预计2028年上半年完成。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html",
       "publishedAt": "2026-11-02"
      },
      {
-      "title": "高速互联芯片厂商奕泰智能完成超2亿元A轮融资",
-      "body": "11月2日，高速互联芯片厂商奕泰智能宣布完成超2亿元A轮融资，其中A3轮由锡创投领投，金投致源、洪山资本跟投。本轮资金将用于端侧交换芯片的量产交付及人才梯队建设。",
-      "source": "界面新闻",
-      "url": "https://finance.sina.cn/stock/jdts/2026-11-02/detail-inixichz2374818.d.html?vt=4",
-      "publishedAt": "2026-11-02 10:25"
+      "title": "甲骨文拟发股发债融资200亿美元投向AI",
+      "body": "11月2日，甲骨文提交文件，拟通过发行约100亿美元普通股和100亿美元优先票据合计融资200亿美元，为AI基础设施建设提供资金，公司股价当日下跌约6%。截至8月31日，其债务规模约1253.4亿美元。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "publishedAt": "2026-11-02"
+     },
+     {
+      "title": "仓储机器人公司Tutor Intelligence完成7500万美元B轮融资",
+      "body": "11月2日，开发仓储机器人模型的Tutor Intelligence宣布完成7500万美元B轮融资，由a16z领投，公司累计融资额达到1.17亿美元。",
+      "source": "福布斯",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/",
+      "publishedAt": "2026-11-02"
+     },
+     {
+      "title": "预测人类行为的世界模型公司42AI获6250万美元种子资金",
+      "body": "11月2日，AI初创公司42AI结束隐身状态，披露三年间获得创始人及Infinity Group提供的6250万美元种子资金，其世界模型用于预测人类行为，公司称在交易区间预测上准确率达98%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "publishedAt": "2026-11-02"
      }
     ]
    }
