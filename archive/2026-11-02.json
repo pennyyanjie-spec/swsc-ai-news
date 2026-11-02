@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-02",
+ "updatedAt": "2026-11-02T19:42:26+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-02T19:42:26+08:00",
+   "window": [
+    "2026-11-02T08:00+08:00",
+    "2026-11-02T19:42+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "阿布扎比国家石油公司、G42与OpenAI签署AI合作协议",
+      "body": "11月2日，阿布扎比国家石油公司（ADNOC）与G42同OpenAI签署协议，推进在各自业务中整合先进AI技术。据阿布扎比媒体办公室消息，OpenAI首席执行官Sam Altman当天在阿布扎比会见阿布扎比王储，并出席ADIPEC能源展。",
+      "source": "格隆汇",
+      "url": "http://finance.sina.com.cn/stock/bxjj/2026-11-02/doc-inixipwv2266145.shtml",
+      "publishedAt": "2026-11-02"
+     },
+     {
+      "title": "SemiAnalysis推出GDPx基准，最佳模型得分仅12%",
+      "body": "11月2日，SemiAnalysis发布覆盖11个领域的前沿模型能力基准GDPx。Claude Opus 5.5以12.0%居首，Gemini 4 Carbon为10.9%，GPT-6 Astra为9.6%；金融与法律领域所有模型得分均为0%。",
+      "source": "SemiAnalysis",
+      "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+      "publishedAt": "2026-11-02"
+     }
+    ],
+    "app": [
+     {
+      "title": "爱奇艺上海AI影视棚启用，首个项目已开拍",
+      "body": "11月2日，爱奇艺宣布在其上海创意中心启用AI影视摄制棚，将实景拍摄与自有的NadouPro AI后期制作管线结合，公司称其为国内首个AI电影棚。首个项目《Cop in Trouble》已于10月28日开机。",
+      "source": "美通社",
+      "url": "https://www.prnewswire.com/news-releases/iqiyi-launches-chinas-first-ai-film-studio-in-shanghai-with-inaugural-title-cop-in-trouble-in-production-302925881.html",
+      "publishedAt": "2026-11-02"
+     },
+     {
+      "title": "360在乌镇峰会展示纳米Work安全AI办公平台",
+      "body": "11月2日，2026世界互联网大会乌镇峰会开幕，360集团展示纳米Work安全AI办公平台及图龙锋AI安全攻防系统，集团副总裁卜思南介绍了“AI+安全”创新成果。峰会会期为11月2日至5日。",
+      "source": "环球网",
+      "url": "http://finance.sina.com.cn/roll/2026-11-02/doc-inixipxc9387866.shtml",
+      "publishedAt": "2026-11-02"
+     }
+    ],
+    "funding": [
+     {
+      "title": "GenRobot AI完成1亿美元A+轮融资",
+      "body": "11月2日，北京机器人训练数据公司GenRobot AI披露已于三季度完成1亿美元A+轮融资，投资方包括上汽集团、百度、马来西亚Eastworlds、首程控股和银河通用机器人，以及多家财务投资机构。",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding/",
+      "publishedAt": "2026-11-02"
+     },
+     {
+      "title": "机器科学完成数亿元A2轮融资",
+      "body": "11月2日，机器科学（RoboScience）宣布完成数亿元A2轮融资，由琥珀资本、鸿瑞达投资、上海半导体产投领投，爽资本、360战投、国联通宝、金鼎资本等跟投，资金将用于具身智能与大模型迭代及商业化落地。",
+      "source": "新京报贝壳财经",
+      "url": "http://news.sina.com.cn/o/2026-11-02/doc-inixiiqx2341600.shtml",
+      "publishedAt": "2026-11-02"
+     },
+     {
+      "title": "高速互联芯片厂商奕泰智能完成超2亿元A轮融资",
+      "body": "11月2日，高速互联芯片厂商奕泰智能宣布完成超2亿元A轮融资，其中A3轮由锡创投领投，金投致源、洪山资本跟投。本轮资金将用于端侧交换芯片的量产交付及人才梯队建设。",
+      "source": "界面新闻",
+      "url": "https://finance.sina.cn/stock/jdts/2026-11-02/detail-inixichz2374818.d.html?vt=4",
+      "publishedAt": "2026-11-02 10:25"
+     }
+    ]
+   }
+  }
+ ]
+}
