@@ -1,6 +1,6 @@
 {
- "date": "2026-11-03",
- "updatedAt": "2026-11-03T19:39:39+08:00",
+ "date": "2026-11-04",
+ "updatedAt": "2026-11-04T07:35:09+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,154 +9,67 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-03T19:39:39+08:00",
-   "window": [
-    "2026-11-03T08:00+08:00",
-    "2026-11-03T19:39+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "蔡崇信：千问已开源超470款模型，下载量超40亿",
-      "body": "11月3日，阿里巴巴董事会主席蔡崇信在2026年世界互联网大会乌镇峰会开幕式上表示，只有开源才能推动AI普及。千问已开源超过470款模型，全球累计下载量超40亿次，衍生模型超33万个。",
-      "source": "界面新闻",
-      "url": "https://finance.sina.cn/2026-11-03/detail-inixmnqf8797130.d.html",
-      "publishedAt": "2026-11-03 10:50"
-     }
-    ],
-    "app": [
-     {
-      "title": "腾讯AI管家Marvis上架统信应用商店",
-      "body": "11月3日，腾讯AI管家Marvis正式上架统信UOS应用商店，提供X86-64与ARM64版本，成为继鸿蒙、银河麒麟之后适配的第三个国产操作系统；新老用户每天可获1000万免费Token。",
-      "source": "澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34394716",
-      "publishedAt": "2026-11-03 13:17"
-     },
-     {
-      "title": "原百度副总裁吴甜加入三一集团，任耘AI总院院长",
-      "body": "11月3日，原百度集团副总裁吴甜在朋友圈宣布加入三一集团，出任集团副总裁、耘AI总院院长，兼任人工智能研究院院长。吴甜在百度任职约20年，百度此前已于10月29日确认其离职。",
-      "source": "网易科技",
-      "url": "https://www.163.com/tech/article/LAQNPNDD00098IEO.html",
-      "publishedAt": "2026-11-03 15:01"
-     }
-    ],
-    "funding": [
-     {
-      "title": "墨芯人工智能完成近10亿元C+轮融资",
-      "body": "11月3日，稀疏计算推理芯片公司墨芯人工智能宣布完成近10亿元C+轮融资，投资方包括仁爱资本、海棠基金、东恒石油、比丘资本、派拉资本、中财资本等，距上一轮约五个月，两轮累计近20亿元，资金用于稀疏推理芯片升级及下一代芯片预研。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571246.shtml",
-      "publishedAt": "2026-11-03 09:08"
-     },
-     {
-      "title": "光计算芯片公司智子光垣完成数亿元种子轮融资",
-      "body": "11月3日，成立于2026年5月的光计算芯片公司智子光垣完成数亿元种子轮融资，为成立以来第5轮，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本、上海交通大学AI未来基金；公司已有两款芯片流片。",
-      "source": "36氪",
-      "url": "https://www.163.com/dy/article/LAQ3V95K05118DFD.html",
-      "publishedAt": "2026-11-03 09:15"
-     },
-     {
-      "title": "意大利AI运维安全公司CyberKord获270万欧元融资",
-      "body": "11月3日，米兰AI网络安全初创公司CyberKord完成270万欧元Pre-seed轮融资，由360 Capital领投，Plus Partners、Addendum Capital、Vento跟投。其平台通过企业IT基础设施的数字孪生分析、模拟并修复IT与安全问题。",
-      "source": "Tech.eu",
-      "url": "https://tech.eu/2026/11/03/cyberkord-raises-eur27m-to-automate-it-and-cybersecurity-operations-with-ai",
-      "publishedAt": "2026-11-03 18:47"
-     },
-     {
-      "title": "葡萄牙AI公共资金申请平台Granter获160万欧元融资",
-      "body": "11月3日，葡萄牙初创公司Granter获160万欧元融资，由3XP Global旗下影响力创新基金领投，Celtis Venture Partners、Gateway Ventures、Deel等参投，累计融资达200万欧元，将拓展西班牙、德国、意大利市场。",
-      "source": "Tech.eu",
-      "url": "https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe",
-      "publishedAt": "2026-11-03 16:00"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-03T07:35:34+08:00",
+   "fetchedAt": "2026-11-04T07:35:09+08:00",
    "window": [
-    "2026-11-02T20:00+08:00",
-    "2026-11-03T07:35+08:00"
+    "2026-11-03T20:00+08:00",
+    "2026-11-04T07:35+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "腾讯混元发布AI科研系统Hyra 2.0",
-      "body": "11月2日，腾讯混元发布AI科研系统Hyra 2.0，将重点从直接用AI攻克科学难题，转向让通用Agent参与科学模型、研究工作流及软件工具的研发与升级，使研发成果可在后续研究中反复复用。此前Hyra 1.0曾驱动开源模型解决加法组合学中悬置五十余年的开放问题。",
-      "source": "IT之家",
-      "url": "http://finance.sina.com.cn/tech/digi/2026-11-02/doc-inixkeus7127382.shtml",
-      "publishedAt": "2026-11-02"
+      "title": "ChatGPT周活跃用户达12亿",
+      "body": "据Big Technology报道，OpenAI高管Adam Fry透露，ChatGPT周活跃用户已达12亿，两个月内增加2亿；其搜索量约为谷歌的20%，语音功能周活约2.5亿，每周生成图片约15亿张。",
+      "source": "Big Technology",
+      "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+      "publishedAt": "2026-11-04"
      },
      {
-      "title": "远景800V高压直流供电系统在AI数据中心贯通",
-      "body": "11月2日，远景科技集团宣布其一体化800V高压直流供电系统在远景乌兰察布星河基地实现端到端贯通，称是全球首套在大型AI数据中心投入商业化运行的同类系统。该基地今年8月投产，规划容量3GW，绿电直连比例将超过80%。",
-      "source": "能源日参",
-      "url": "http://k.sina.com.cn/article_5952915705_162d248f906703sbqc.html",
-      "publishedAt": "2026-11-02"
-     }
-    ],
-    "app": [
+      "title": "AMD三季度数据中心收入同比增97%至85亿美元",
+      "body": "11月3日，AMD公布2026年三季度财报，营收134亿美元，同比增长45%；数据中心业务收入85亿美元，同比增长97%，MI450已开始出货。公司预计四季度营收约170亿美元（上下浮动3%）。",
+      "source": "AMD官方",
+      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394824/0/en/amd-reports-third-quarter-2026-financial-results.html",
+      "publishedAt": "2026-11-04"
+     },
      {
-      "title": "李佳琦直播间开卖千问办公Token，半小时售出约2万亿",
-      "body": "11月2日晚，李佳琦直播间首次上架AI算力类商品，0.01元的千问办公个人会员月卡开卖10分钟售出5万份，半小时累计售出近10万份，对应AI算力额度约2万亿Token。阿里巴巴集团副总裁、千问办公CEO陈宇森现身直播间。",
-      "source": "新京报贝壳财经",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-03/doc-inixkrkn6967519.shtml",
+      "title": "OpenAI聘请Uber总裁Jill Hazelbaker任首席企业事务官",
+      "body": "据彭博社报道，Uber总裁Jill Hazelbaker将加入OpenAI，出任首席企业事务官，向总裁Greg Brockman汇报；她将于11月30日离开Uber。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai",
       "publishedAt": "2026-11-03"
      },
      {
-      "title": "高盛限制交易员和银行家使用AI编程工具",
-      "body": "据彭博社报道，高盛10月更新的内部指引显示，此前允许银行家使用的Anthropic Claude Code和微软GitHub等AI编程工具，今后仅限工程师使用。知情人士称，部分交易员此前用这些工具监控客户交易流、对市场和头寸建模，禁令引发不满。",
-      "source": "彭博社",
-      "url": "http://finance.sina.com.cn/stock/usstock/c/2026-11-02/doc-inixkeus7150452.shtml",
-      "publishedAt": "2026-11-02"
-     },
+      "title": "Anthropic向IPO投资者称Claude参与设计自研芯片",
+      "body": "据The Information报道，Anthropic在面向IPO投资者的推介中表示，Claude已参与公司芯片设计工作，公司内部芯片团队约15人。",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors",
+      "publishedAt": "2026-11-04"
+     }
+    ],
+    "app": [
      {
-      "title": "优必选发布具身智能仿真平台Thinker-Sim",
-      "body": "11月2日，优必选科技发布具身智能仿真平台Thinker-Sim，覆盖真实场景数字化、规模化仿真数据合成和机器人能力评测，通过真实场景三维重建与多资产仿真，支持多模态感知、导航及操作仿真，服务工业制造、商业服务等场景下机器人的落地验证。",
-      "source": "北京商报",
-      "url": "http://k.sina.com.cn/article_5953190046_162d6789e06703w5tm.html",
-      "publishedAt": "2026-11-02"
+      "title": "苹果向第三方开发者开放Siri AI应用技能",
+      "body": "据IT之家援引9to5Mac报道，苹果向第三方开发者开放Siri AI“应用技能”，Siri可调用第三方应用跨应用执行多步骤任务；该功能随iOS 27.3与macOS 27.3推出，目前处于开发者测试阶段。",
+      "source": "IT之家",
+      "url": "http://finance.sina.com.cn/tech/digi/2026-11-04/doc-inixpexe9533247.shtml",
+      "publishedAt": "2026-11-04"
      }
     ],
     "funding": [
      {
-      "title": "Anthropic修订招股书：三季度营收约170亿美元",
-      "body": "11月2日，Anthropic向美国SEC提交修订版S-1文件，披露第三季度营收约170亿美元，同比增长约1127%；前九个月营收332.4亿美元。文件显示其采购承诺与租赁合计约8954亿美元。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "publishedAt": "2026-11-02"
-     },
-     {
-      "title": "Marvell拟以1150亿美元全股票收购Lumentum",
-      "body": "11月2日，Marvell确认以全股票方式收购光器件厂商Lumentum，隐含企业价值1150亿美元，每股约1132美元，较10月28日收盘价溢价23.9%。交易完成后Marvell股东将持有合并后公司约67%股份，预计2028年上半年完成。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html",
-      "publishedAt": "2026-11-02"
-     },
-     {
-      "title": "甲骨文拟发股发债融资200亿美元投向AI",
-      "body": "11月2日，甲骨文提交文件，拟通过发行约100亿美元普通股和100亿美元优先票据合计融资200亿美元，为AI基础设施建设提供资金，公司股价当日下跌约6%。截至8月31日，其债务规模约1253.4亿美元。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "publishedAt": "2026-11-02"
-     },
-     {
-      "title": "仓储机器人公司Tutor Intelligence完成7500万美元B轮融资",
-      "body": "11月2日，开发仓储机器人模型的Tutor Intelligence宣布完成7500万美元B轮融资，由a16z领投，公司累计融资额达到1.17亿美元。",
-      "source": "福布斯",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves/",
-      "publishedAt": "2026-11-02"
-     },
-     {
-      "title": "预测人类行为的世界模型公司42AI获6250万美元种子资金",
-      "body": "11月2日，AI初创公司42AI结束隐身状态，披露三年间获得创始人及Infinity Group提供的6250万美元种子资金，其世界模型用于预测人类行为，公司称在交易区间预测上准确率达98%。",
+      "title": "AI推理平台Fal完成13亿美元F轮融资，估值160亿美元",
+      "body": "据TechCrunch报道，AI推理公司Fal完成13亿美元F轮融资，Bessemer Venture Partners领投，英伟达、Sound Ventures、T. Rowe Price参投，估值160亿美元，较今年4月的80亿美元翻倍；E轮由红杉资本领投，E、F两轮合计16.5亿美元。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "publishedAt": "2026-11-02"
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "publishedAt": "2026-11-04 03:36"
+     },
+     {
+      "title": "AI运维公司Traversal完成1.2亿美元B轮融资，估值10亿美元",
+      "body": "11月3日，纽约AI站点可靠性工程平台Traversal宣布完成1.2亿美元B轮融资，估值10亿美元，Kleiner Perkins、Redpoint、Khosla联合领投，红杉与Battery跟投。客户包括DigitalOcean、百事等，公司称今年以来收入增长9倍。",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/169321-traversal-raises-120m-at-1b-valuation-to-automate-incident-response/",
+      "publishedAt": "2026-11-04 01:35"
      }
     ]
    }

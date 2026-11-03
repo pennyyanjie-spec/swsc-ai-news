@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-04",
+ "updatedAt": "2026-11-04T07:35:09+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-04T07:35:09+08:00",
+   "window": [
+    "2026-11-03T20:00+08:00",
+    "2026-11-04T07:35+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "ChatGPT周活跃用户达12亿",
+      "body": "据Big Technology报道，OpenAI高管Adam Fry透露，ChatGPT周活跃用户已达12亿，两个月内增加2亿；其搜索量约为谷歌的20%，语音功能周活约2.5亿，每周生成图片约15亿张。",
+      "source": "Big Technology",
+      "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+      "publishedAt": "2026-11-04"
+     },
+     {
+      "title": "AMD三季度数据中心收入同比增97%至85亿美元",
+      "body": "11月3日，AMD公布2026年三季度财报，营收134亿美元，同比增长45%；数据中心业务收入85亿美元，同比增长97%，MI450已开始出货。公司预计四季度营收约170亿美元（上下浮动3%）。",
+      "source": "AMD官方",
+      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394824/0/en/amd-reports-third-quarter-2026-financial-results.html",
+      "publishedAt": "2026-11-04"
+     },
+     {
+      "title": "OpenAI聘请Uber总裁Jill Hazelbaker任首席企业事务官",
+      "body": "据彭博社报道，Uber总裁Jill Hazelbaker将加入OpenAI，出任首席企业事务官，向总裁Greg Brockman汇报；她将于11月30日离开Uber。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai",
+      "publishedAt": "2026-11-03"
+     },
+     {
+      "title": "Anthropic向IPO投资者称Claude参与设计自研芯片",
+      "body": "据The Information报道，Anthropic在面向IPO投资者的推介中表示，Claude已参与公司芯片设计工作，公司内部芯片团队约15人。",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors",
+      "publishedAt": "2026-11-04"
+     }
+    ],
+    "app": [
+     {
+      "title": "苹果向第三方开发者开放Siri AI应用技能",
+      "body": "据IT之家援引9to5Mac报道，苹果向第三方开发者开放Siri AI“应用技能”，Siri可调用第三方应用跨应用执行多步骤任务；该功能随iOS 27.3与macOS 27.3推出，目前处于开发者测试阶段。",
+      "source": "IT之家",
+      "url": "http://finance.sina.com.cn/tech/digi/2026-11-04/doc-inixpexe9533247.shtml",
+      "publishedAt": "2026-11-04"
+     }
+    ],
+    "funding": [
+     {
+      "title": "AI推理平台Fal完成13亿美元F轮融资，估值160亿美元",
+      "body": "据TechCrunch报道，AI推理公司Fal完成13亿美元F轮融资，Bessemer Venture Partners领投，英伟达、Sound Ventures、T. Rowe Price参投，估值160亿美元，较今年4月的80亿美元翻倍；E轮由红杉资本领投，E、F两轮合计16.5亿美元。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "publishedAt": "2026-11-04 03:36"
+     },
+     {
+      "title": "AI运维公司Traversal完成1.2亿美元B轮融资，估值10亿美元",
+      "body": "11月3日，纽约AI站点可靠性工程平台Traversal宣布完成1.2亿美元B轮融资，估值10亿美元，Kleiner Perkins、Redpoint、Khosla联合领投，红杉与Battery跟投。客户包括DigitalOcean、百事等，公司称今年以来收入增长9倍。",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/169321-traversal-raises-120m-at-1b-valuation-to-automate-incident-response/",
+      "publishedAt": "2026-11-04 01:35"
+     }
+    ]
+   }
+  }
+ ]
+}
