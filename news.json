@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "updatedAt": "2026-11-03T07:35:34+08:00",
+ "updatedAt": "2026-11-03T19:39:39+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,72 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-03T19:39:39+08:00",
+   "window": [
+    "2026-11-03T08:00+08:00",
+    "2026-11-03T19:39+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "蔡崇信：千问已开源超470款模型，下载量超40亿",
+      "body": "11月3日，阿里巴巴董事会主席蔡崇信在2026年世界互联网大会乌镇峰会开幕式上表示，只有开源才能推动AI普及。千问已开源超过470款模型，全球累计下载量超40亿次，衍生模型超33万个。",
+      "source": "界面新闻",
+      "url": "https://finance.sina.cn/2026-11-03/detail-inixmnqf8797130.d.html",
+      "publishedAt": "2026-11-03 10:50"
+     }
+    ],
+    "app": [
+     {
+      "title": "腾讯AI管家Marvis上架统信应用商店",
+      "body": "11月3日，腾讯AI管家Marvis正式上架统信UOS应用商店，提供X86-64与ARM64版本，成为继鸿蒙、银河麒麟之后适配的第三个国产操作系统；新老用户每天可获1000万免费Token。",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34394716",
+      "publishedAt": "2026-11-03 13:17"
+     },
+     {
+      "title": "原百度副总裁吴甜加入三一集团，任耘AI总院院长",
+      "body": "11月3日，原百度集团副总裁吴甜在朋友圈宣布加入三一集团，出任集团副总裁、耘AI总院院长，兼任人工智能研究院院长。吴甜在百度任职约20年，百度此前已于10月29日确认其离职。",
+      "source": "网易科技",
+      "url": "https://www.163.com/tech/article/LAQNPNDD00098IEO.html",
+      "publishedAt": "2026-11-03 15:01"
+     }
+    ],
+    "funding": [
+     {
+      "title": "墨芯人工智能完成近10亿元C+轮融资",
+      "body": "11月3日，稀疏计算推理芯片公司墨芯人工智能宣布完成近10亿元C+轮融资，投资方包括仁爱资本、海棠基金、东恒石油、比丘资本、派拉资本、中财资本等，距上一轮约五个月，两轮累计近20亿元，资金用于稀疏推理芯片升级及下一代芯片预研。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571246.shtml",
+      "publishedAt": "2026-11-03 09:08"
+     },
+     {
+      "title": "光计算芯片公司智子光垣完成数亿元种子轮融资",
+      "body": "11月3日，成立于2026年5月的光计算芯片公司智子光垣完成数亿元种子轮融资，为成立以来第5轮，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本、上海交通大学AI未来基金；公司已有两款芯片流片。",
+      "source": "36氪",
+      "url": "https://www.163.com/dy/article/LAQ3V95K05118DFD.html",
+      "publishedAt": "2026-11-03 09:15"
+     },
+     {
+      "title": "意大利AI运维安全公司CyberKord获270万欧元融资",
+      "body": "11月3日，米兰AI网络安全初创公司CyberKord完成270万欧元Pre-seed轮融资，由360 Capital领投，Plus Partners、Addendum Capital、Vento跟投。其平台通过企业IT基础设施的数字孪生分析、模拟并修复IT与安全问题。",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/11/03/cyberkord-raises-eur27m-to-automate-it-and-cybersecurity-operations-with-ai",
+      "publishedAt": "2026-11-03 18:47"
+     },
+     {
+      "title": "葡萄牙AI公共资金申请平台Granter获160万欧元融资",
+      "body": "11月3日，葡萄牙初创公司Granter获160万欧元融资，由3XP Global旗下影响力创新基金领投，Celtis Venture Partners、Gateway Ventures、Deel等参投，累计融资达200万欧元，将拓展西班牙、德国、意大利市场。",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe",
+      "publishedAt": "2026-11-03 16:00"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
