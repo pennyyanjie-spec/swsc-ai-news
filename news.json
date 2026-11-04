@@ -1,6 +1,6 @@
 {
- "date": "2026-11-04",
- "updatedAt": "2026-11-04T19:42:55+08:00",
+ "date": "2026-11-05",
+ "updatedAt": "2026-11-05T07:35:36+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,111 +9,88 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-04T19:42:55+08:00",
-   "window": [
-    "2026-11-04T08:00+08:00",
-    "2026-11-04T19:42+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "腾讯混元发布Hy4正式版，首次支持视觉与电脑操作",
-      "body": "11月4日，腾讯混元发布新一代大语言模型Hy4正式版，首次引入视觉理解并支持电脑操作，官方称其首次跻身最强开源模型之列。Hy4已上线腾讯云与OpenRouter，API价格与preview版持平，模型权重将于近期开源。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/022/035.htm",
-      "publishedAt": "2026-11-04 12:59"
-     },
-     {
-      "title": "据报甲骨文取消与腾讯约70亿美元AI芯片租赁协议",
-      "body": "11月4日，据外媒报道，甲骨文在特朗普政府压力下取消与腾讯的AI芯片租赁协议，交易价值约70亿美元（约546亿港元）。该五年期协议原涉及东南亚多个数据中心、多达10万枚先进AI芯片。",
-      "source": "东网",
-      "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261104/bkn-20261104135116059-1104_00842_001.html",
-      "publishedAt": "2026-11-04 13:51"
-     }
-    ],
-    "app": [],
-    "funding": [
-     {
-      "title": "AI推理芯片公司墨芯完成近10亿元C+轮融资",
-      "body": "墨芯宣布完成近10亿元C+轮融资，距上一轮约5个月，两轮累计近20亿元。投资方包括仁爱资本、海棠基金、东恒石油等，老股东凯旋创投、盛景嘉成、岩山科技追加投资；公司称2026年三季度营收实现数倍增长。",
-      "source": "科创板日报",
-      "url": "https://www.chaincatcher.com/article/2301505",
-      "publishedAt": "2026-11-04 09:12"
-     },
-     {
-      "title": "砺思星深基金规模达75.2亿元，40名LP完成实缴",
-      "body": "11月4日，据科创板日报报道，砺思资本旗下星深基金规模由26.4亿元增至75.2亿元并完成实缴，共有40名LP，其中13家上市公司及关联方合计出资34.95亿元、占比约46.48%。知情人士称该基金或主要投向DeepSeek，砺思未予回应。",
-      "source": "科创板日报",
-      "url": "https://www.chaincatcher.com/article/2301716",
-      "publishedAt": "2026-11-04 19:02"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-04T07:35:09+08:00",
+   "fetchedAt": "2026-11-05T07:35:36+08:00",
    "window": [
-    "2026-11-03T20:00+08:00",
-    "2026-11-04T07:35+08:00"
+    "2026-11-04T20:00+08:00",
+    "2026-11-05T07:35+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "ChatGPT周活跃用户达12亿",
-      "body": "据Big Technology报道，OpenAI高管Adam Fry透露，ChatGPT周活跃用户已达12亿，两个月内增加2亿；其搜索量约为谷歌的20%，语音功能周活约2.5亿，每周生成图片约15亿张。",
-      "source": "Big Technology",
-      "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
-      "publishedAt": "2026-11-04"
+      "title": "月之暗面开源Kimi K3.1 Pro模型权重",
+      "body": "11月4日，月之暗面在Hugging Face发布Kimi K3.1 Pro模型权重，采用Kimi专用许可证。该模型总参数2.8万亿、激活参数1040亿，支持100万Token上下文。",
+      "source": "Runtimewire",
+      "url": "https://runtimewire.com/article/moonshot-ai-kimi-k3-1-pro-weights",
+      "publishedAt": "2026-11-05 00:36"
      },
      {
-      "title": "AMD三季度数据中心收入同比增97%至85亿美元",
-      "body": "11月3日，AMD公布2026年三季度财报，营收134亿美元，同比增长45%；数据中心业务收入85亿美元，同比增长97%，MI450已开始出货。公司预计四季度营收约170亿美元（上下浮动3%）。",
-      "source": "AMD官方",
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394824/0/en/amd-reports-third-quarter-2026-financial-results.html",
-      "publishedAt": "2026-11-04"
+      "title": "TeraWulf获谷歌信用担保，支撑190亿美元Anthropic租约",
+      "body": "11月4日，TeraWulf宣布与谷歌签署信用支持协议，为其肯塔基州Hawesville数据中心园区与Anthropic约190亿美元的租赁承诺提供项目融资担保，并与Fluor签署三栋数据中心建筑的EPC总包协议，预计2027年底起分期交付。",
+      "source": "TeraWulf官方公告",
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395277/0/en/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement.html",
+      "publishedAt": "2026-11-04 21:15"
      },
      {
-      "title": "OpenAI聘请Uber总裁Jill Hazelbaker任首席企业事务官",
-      "body": "据彭博社报道，Uber总裁Jill Hazelbaker将加入OpenAI，出任首席企业事务官，向总裁Greg Brockman汇报；她将于11月30日离开Uber。",
-      "source": "彭博社",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai",
-      "publishedAt": "2026-11-03"
-     },
-     {
-      "title": "Anthropic向IPO投资者称Claude参与设计自研芯片",
-      "body": "据The Information报道，Anthropic在面向IPO投资者的推介中表示，Claude已参与公司芯片设计工作，公司内部芯片团队约15人。",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors",
-      "publishedAt": "2026-11-04"
+      "title": "Ricursive发布开源编程模型Ripple-65B预览版",
+      "body": "11月4日，AI芯片设计公司Ricursive Intelligence发布650亿参数稠密开源模型Ripple-65B Preview，公司称其在TerminalBench 2.1得分80.5，训练成本约3200万美元，是其芯片设计专有模型的通用版本。",
+      "source": "Runtimewire",
+      "url": "https://runtimewire.com/article/ricursive-ripple-65b-preview-open-weight-coding-model",
+      "publishedAt": "2026-11-05 03:23"
      }
     ],
     "app": [
      {
-      "title": "苹果向第三方开发者开放Siri AI应用技能",
-      "body": "据IT之家援引9to5Mac报道，苹果向第三方开发者开放Siri AI“应用技能”，Siri可调用第三方应用跨应用执行多步骤任务；该功能随iOS 27.3与macOS 27.3推出，目前处于开发者测试阶段。",
-      "source": "IT之家",
-      "url": "http://finance.sina.com.cn/tech/digi/2026-11-04/doc-inixpexe9533247.shtml",
-      "publishedAt": "2026-11-04"
+      "title": "苹果下调工程师每日AI使用预算至200美元",
+      "body": "据彭博社11月4日报道，苹果10月起将部分工程师每日AI支出上限从300美元降至200美元，部分团队可能进一步降至100美元；工程部门以外的部分团队上限或降至25美元，并被要求改用更便宜的模型或端侧AI。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
+      "publishedAt": "2026-11-05 04:20"
      }
     ],
     "funding": [
      {
-      "title": "AI推理平台Fal完成13亿美元F轮融资，估值160亿美元",
-      "body": "据TechCrunch报道，AI推理公司Fal完成13亿美元F轮融资，Bessemer Venture Partners领投，英伟达、Sound Ventures、T. Rowe Price参投，估值160亿美元，较今年4月的80亿美元翻倍；E轮由红杉资本领投，E、F两轮合计16.5亿美元。",
+      "title": "红杉资本募集约100亿美元新基金并收缩架构",
+      "body": "11月4日，红杉资本发布内部备忘录称已募集约100亿美元新基金，同时关闭伦敦办公室，停止Arc加速器和Scouts项目，合并早期与成长期团队，结束约20年的扩张阶段。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "publishedAt": "2026-11-04 03:36"
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "publishedAt": "2026-11-05 01:11"
      },
      {
-      "title": "AI运维公司Traversal完成1.2亿美元B轮融资，估值10亿美元",
-      "body": "11月3日，纽约AI站点可靠性工程平台Traversal宣布完成1.2亿美元B轮融资，估值10亿美元，Kleiner Perkins、Redpoint、Khosla联合领投，红杉与Battery跟投。客户包括DigitalOcean、百事等，公司称今年以来收入增长9倍。",
-      "source": "Dealroom",
-      "url": "https://dealroom.co/news/169321-traversal-raises-120m-at-1b-valuation-to-automate-incident-response/",
-      "publishedAt": "2026-11-04 01:35"
+      "title": "Meta收购AI编程智能体公司Conductor",
+      "body": "11月4日，Meta收购可并行运行多个AI编程智能体的初创公司Conductor，交易条款未披露。CEO Charlie Holtz与CTO Jackson de Campos将加入Meta超级智能实验室，Conductor云服务将于11月20日关闭。",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com/meta-buys-ai-coding-startup-conductor-as-wall-street-questions-its-ai-bill/",
+      "publishedAt": "2026-11-05 06:54"
+     },
+     {
+      "title": "OpenAI将收购开发者工具公司Pierre Computer",
+      "body": "据Axios 11月4日报道，OpenAI将收购开发者工具初创公司Pierre Computer，计划将其Code Storage产品整合进Codex，其开源项目将继续开源；Code Storage支持最大32TB代码仓库，客户包括Lovable、Bolt等。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/openai-to-acquire-pierre-computer-and-bring-code-storage-to-codex/",
+      "publishedAt": "2026-11-04 20:20"
+     },
+     {
+      "title": "AI销售平台Nooks获General Catalyst 5亿美元资金",
+      "body": "11月4日，AI销售智能体平台Nooks宣布获得General Catalyst旗下Customer Value Fund提供的5亿美元非稀释性资金，并发布销售AI个人助理Node。公司客户超2000家，净收入留存率135%。",
+      "source": "美通社",
+      "url": "https://www.prnewswire.com/news-releases/nooks-secures-500-million-from-general-catalyst-and-launches-node-the-first-ai-personal-assistant-for-sales-302928795.html",
+      "publishedAt": "2026-11-04 22:00"
+     },
+     {
+      "title": "企业支付公司Pliant完成8000万美元C轮融资",
+      "body": "11月4日，柏林金融科技公司Pliant完成8000万美元C轮融资，由Seaya Nova和Speedinvest领投，Illuminate Financial、Motive Partners等参投，将向AI智能体开放B2B支付能力。公司年度经常性收入已超1亿美元。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest",
+      "publishedAt": "2026-11-05 01:39"
+     },
+     {
+      "title": "AI智能体数据安全公司Sentra获1.5亿美元融资",
+      "body": "11月4日，以色列网络安全公司Sentra完成1.5亿美元战略融资，由Capital One Ventures领投，Bessemer等老股东参投，累计融资超2.5亿美元。CEO称估值较上轮增长两倍，但尚未达到10亿美元。",
+      "source": "Calcalist",
+      "url": "https://calcalistech.com/ctechnews/article/s1jextotml",
+      "publishedAt": "2026-11-04 20:00"
      }
     ]
    }

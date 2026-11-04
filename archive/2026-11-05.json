@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-05",
+ "updatedAt": "2026-11-05T07:35:36+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-05T07:35:36+08:00",
+   "window": [
+    "2026-11-04T20:00+08:00",
+    "2026-11-05T07:35+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "月之暗面开源Kimi K3.1 Pro模型权重",
+      "body": "11月4日，月之暗面在Hugging Face发布Kimi K3.1 Pro模型权重，采用Kimi专用许可证。该模型总参数2.8万亿、激活参数1040亿，支持100万Token上下文。",
+      "source": "Runtimewire",
+      "url": "https://runtimewire.com/article/moonshot-ai-kimi-k3-1-pro-weights",
+      "publishedAt": "2026-11-05 00:36"
+     },
+     {
+      "title": "TeraWulf获谷歌信用担保，支撑190亿美元Anthropic租约",
+      "body": "11月4日，TeraWulf宣布与谷歌签署信用支持协议，为其肯塔基州Hawesville数据中心园区与Anthropic约190亿美元的租赁承诺提供项目融资担保，并与Fluor签署三栋数据中心建筑的EPC总包协议，预计2027年底起分期交付。",
+      "source": "TeraWulf官方公告",
+      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395277/0/en/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement.html",
+      "publishedAt": "2026-11-04 21:15"
+     },
+     {
+      "title": "Ricursive发布开源编程模型Ripple-65B预览版",
+      "body": "11月4日，AI芯片设计公司Ricursive Intelligence发布650亿参数稠密开源模型Ripple-65B Preview，公司称其在TerminalBench 2.1得分80.5，训练成本约3200万美元，是其芯片设计专有模型的通用版本。",
+      "source": "Runtimewire",
+      "url": "https://runtimewire.com/article/ricursive-ripple-65b-preview-open-weight-coding-model",
+      "publishedAt": "2026-11-05 03:23"
+     }
+    ],
+    "app": [
+     {
+      "title": "苹果下调工程师每日AI使用预算至200美元",
+      "body": "据彭博社11月4日报道，苹果10月起将部分工程师每日AI支出上限从300美元降至200美元，部分团队可能进一步降至100美元；工程部门以外的部分团队上限或降至25美元，并被要求改用更便宜的模型或端侧AI。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
+      "publishedAt": "2026-11-05 04:20"
+     }
+    ],
+    "funding": [
+     {
+      "title": "红杉资本募集约100亿美元新基金并收缩架构",
+      "body": "11月4日，红杉资本发布内部备忘录称已募集约100亿美元新基金，同时关闭伦敦办公室，停止Arc加速器和Scouts项目，合并早期与成长期团队，结束约20年的扩张阶段。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+      "publishedAt": "2026-11-05 01:11"
+     },
+     {
+      "title": "Meta收购AI编程智能体公司Conductor",
+      "body": "11月4日，Meta收购可并行运行多个AI编程智能体的初创公司Conductor，交易条款未披露。CEO Charlie Holtz与CTO Jackson de Campos将加入Meta超级智能实验室，Conductor云服务将于11月20日关闭。",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com/meta-buys-ai-coding-startup-conductor-as-wall-street-questions-its-ai-bill/",
+      "publishedAt": "2026-11-05 06:54"
+     },
+     {
+      "title": "OpenAI将收购开发者工具公司Pierre Computer",
+      "body": "据Axios 11月4日报道，OpenAI将收购开发者工具初创公司Pierre Computer，计划将其Code Storage产品整合进Codex，其开源项目将继续开源；Code Storage支持最大32TB代码仓库，客户包括Lovable、Bolt等。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/openai-to-acquire-pierre-computer-and-bring-code-storage-to-codex/",
+      "publishedAt": "2026-11-04 20:20"
+     },
+     {
+      "title": "AI销售平台Nooks获General Catalyst 5亿美元资金",
+      "body": "11月4日，AI销售智能体平台Nooks宣布获得General Catalyst旗下Customer Value Fund提供的5亿美元非稀释性资金，并发布销售AI个人助理Node。公司客户超2000家，净收入留存率135%。",
+      "source": "美通社",
+      "url": "https://www.prnewswire.com/news-releases/nooks-secures-500-million-from-general-catalyst-and-launches-node-the-first-ai-personal-assistant-for-sales-302928795.html",
+      "publishedAt": "2026-11-04 22:00"
+     },
+     {
+      "title": "企业支付公司Pliant完成8000万美元C轮融资",
+      "body": "11月4日，柏林金融科技公司Pliant完成8000万美元C轮融资，由Seaya Nova和Speedinvest领投，Illuminate Financial、Motive Partners等参投，将向AI智能体开放B2B支付能力。公司年度经常性收入已超1亿美元。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest",
+      "publishedAt": "2026-11-05 01:39"
+     },
+     {
+      "title": "AI智能体数据安全公司Sentra获1.5亿美元融资",
+      "body": "11月4日，以色列网络安全公司Sentra完成1.5亿美元战略融资，由Capital One Ventures领投，Bessemer等老股东参投，累计融资超2.5亿美元。CEO称估值较上轮增长两倍，但尚未达到10亿美元。",
+      "source": "Calcalist",
+      "url": "https://calcalistech.com/ctechnews/article/s1jextotml",
+      "publishedAt": "2026-11-04 20:00"
+     }
+    ]
+   }
+  }
+ ]
+}
