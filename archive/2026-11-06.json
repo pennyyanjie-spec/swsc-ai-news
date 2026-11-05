@@ -1,0 +1,106 @@
+{
+ "date": "2026-11-06",
+ "updatedAt": "2026-11-06T07:36:45+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-06T07:36:45+08:00",
+   "window": [
+    "2026-11-05T20:00+08:00",
+    "2026-11-06T07:36+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "OpenAI发布网络安全模型GPT-6 Cyber",
+      "body": "11月5日，OpenAI发布GPT-6 Cyber，在多数网络安全任务上优于通用模型GPT-6 Astra，先向部分获批的Daybreak Red客户开放，未来几周扩展至全部Red客户。研究人员用其发现81个此前未知的Firefox高危漏洞，并为948个Linux内核漏洞开发出可用利用程序。",
+      "source": "财富杂志",
+      "url": "https://fortune.com/2026/11/05/openai-debuts-new-cybersecurity-focused-ai-model-amid-growing-alarm-about-ai-driven-cyber-attacks/",
+      "publishedAt": "2026-11-06 01:01"
+     },
+     {
+      "title": "谷歌Gemini Omni 1.2 Flash全面可用，价格降30%",
+      "body": "11月5日，谷歌发布视频生成模型Gemini Omni 1.2 Flash，单段原生生成时长由10秒提升至15秒，720p视频价格降30%至每秒0.07美元；模型已在Gemini API和Google Cloud全面可用，并接入Google Vids、Flow、Google Ads及Gemini应用。",
+      "source": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "publishedAt": "2026-11-06 01:00"
+     },
+     {
+      "title": "谷歌投资170亿美元建怀俄明州首个数据中心",
+      "body": "11月5日，谷歌宣布投资170亿美元在怀俄明州拉勒米县建设其在该州的首个数据中心，合作方包括Tallgrass Energy、AEP等；并与AEP签约702兆瓦带碳捕集与封存的燃料电池项目，燃料电池由Bloom Energy供应。",
+      "source": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "publishedAt": "2026-11-06 01:00"
+     },
+     {
+      "title": "布罗克曼称OpenAI或于2027年具备IPO条件",
+      "body": "OpenAI总裁Greg Brockman在《华尔街日报》科技大会上表示，公司2027年将具备IPO条件；他称2026年一、二季度“相当艰难”，三季度年化收入环比增长70%，企业业务翻倍，目前企业收入已占多数。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+      "publishedAt": "2026-11-06 02:02"
+     },
+     {
+      "title": "OpenAI发布数据中心社区公约，承担电网升级成本",
+      "body": "11月5日，OpenAI推出“全国社区公约”，承诺其自有自营的算力园区全额支付用电及所需电网升级费用，逐站公布用水用电数据，并不再要求地方官员签署保密协议。此举发生在美国中期选举多项限制数据中心的投票议案获通过之后。",
+      "source": "纽约时报",
+      "url": "https://gvwire.com/2026/11/05/after-midterm-rebuke-openai-pledges-to-give-data-center-towns-more-say/",
+      "publishedAt": "2026-11-06 06:36"
+     }
+    ],
+    "app": [
+     {
+      "title": "DeepSeek Harness日活达154万，将建插件市场",
+      "body": "11月5日晚，DeepSeek Harness团队披露，截至11月4日，以官方API用户统计，其日活跃用户达154万，日消耗Token约92万亿；第三方插件约3.5万个，约60%活跃用户制作或安装过第三方插件，官方将建设插件市场并筹备插件作者支持计划。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/011.htm",
+      "publishedAt": "2026-11-05 22:48"
+     },
+     {
+      "title": "Claude上线个人理财功能，可只读连接银行账户",
+      "body": "11月5日，Anthropic为Claude推出Personal Finance测试版，用户可通过Plaid只读连接银行和信用卡账户，Claude可读取最多两年交易记录，用于追踪消费、账单和订阅，但不能转移或投资资金；目前面向美国Pro、Max和Ultra用户。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
+      "publishedAt": "2026-11-06 06:47"
+     },
+     {
+      "title": "Meta向全美用户开放Muse AI形象视频通话",
+      "body": "11月5日，Meta宣布Muse Voice向全美用户开放，用户可与其消费级AI智能体Muse语音及视频通话，功能基于新模型Muse Realtime Avatar和Muse Realtime Voice，支持手机、网页和Mac，后续将登陆AI眼镜和Muse Charm设备。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "publishedAt": "2026-11-06 03:48"
+     },
+     {
+      "title": "Cursor支持云端智能体构建并上线Web应用",
+      "body": "11月5日，Cursor推出Build Live Apps功能，用户可通过云端智能体搭建、部署和分享Web应用，Cursor自动配置Postgres数据库、SSO认证和托管，发布前需通过安全检查；功能已向开启云端智能体的全部付费计划开放。",
+      "source": "Cursor官方",
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "publishedAt": "2026-11-06"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Shield AI以53亿美元收购Echodyne，估值288亿",
+      "body": "11月5日，国防AI公司Shield AI宣布以53亿美元收购雷达公司Echodyne，并融资25亿美元，其中10亿美元H轮投后估值288亿美元，另有黑石旗下基金10亿美元结构化股权及摩根大通牵头的5亿美元债务融资；交易预计2027年初完成。",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
+      "publishedAt": "2026-11-06 00:30"
+     },
+     {
+      "title": "AI数据分析公司Ocient完成1亿美元C轮融资",
+      "body": "11月5日，芝加哥数据分析公司Ocient宣布完成1亿美元C轮融资，由Boka Capital和OCA Ventures联合领投，In-Q-Tel、Greycroft等老股东跟投，累计融资2.6亿美元；公司预计本财年收入增长超两倍，资金用于拓展智能体AI分析业务。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
+      "publishedAt": "2026-11-05 20:00"
+     }
+    ]
+   }
+  }
+ ]
+}

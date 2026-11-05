@@ -1,6 +1,6 @@
 {
- "date": "2026-11-05",
- "updatedAt": "2026-11-05T19:38:05+08:00",
+ "date": "2026-11-06",
+ "updatedAt": "2026-11-06T07:36:45+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,132 +9,95 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-05T19:38:05+08:00",
-   "window": [
-    "2026-11-05T08:00+08:00",
-    "2026-11-05T19:38+08:00"
-   ],
-   "categories": {
-    "model": [],
-    "app": [
-     {
-      "title": "雷军展示小米机器人做家务，长程任务超50项",
-      "body": "11月5日，雷军在社交平台发布视频，展示小米机器人在小米青年公寓试运营做家务。机器人依托Xiaomi-Robotics-1具身基座模型，实测连续工作超30分钟、覆盖3个房间、完成50余项任务。文中称家用机器人尚未达到进入普通家庭的标准，公司正采集真实家庭数据迭代模型。",
-      "source": "快科技",
-      "url": "http://finance.sina.com.cn/tech/roll/2026-11-05/doc-inixrumy8912855.shtml",
-      "publishedAt": "2026-11-05 08:22"
-     }
-    ],
-    "funding": [
-     {
-      "title": "视频大模型公司Sand.ai完成2亿美元A+轮融资",
-      "body": "11月5日，视频生成模型公司Sand.ai（三呆科技）宣布完成2亿美元A+轮融资，由基石资本、网宿科技联合领投，浦东创投、上海国方等机构加入。这是其今年第三轮融资，10个月累计融资3亿美元，本轮后估值达到独角兽门槛，资金将用于模型研发、基础设施及海外市场拓展。",
-      "source": "澎湃新闻",
-      "url": "https://thepaper.cn/newsDetail_forward_34410374",
-      "publishedAt": "2026-11-05 11:40"
-     },
-     {
-      "title": "中国禁止软银54亿美元收购ABB机器人业务",
-      "body": "11月5日，ABB确认已获软银告知，中国外商投资安全审查工作机制办公室禁止软银收购ABB机器人业务在华部分；该交易企业价值为53.75亿美元。据金融时报报道，审查关注中国资产与数据转移至日本、可能被用于训练AI模型等问题。",
-      "source": "Silicon Republic",
-      "url": "https://www.siliconrepublic.com/business/china-softbank-abb-robotics-japan-data-ai-investment",
-      "publishedAt": "2026-11-05 19:15"
-     },
-     {
-      "title": "智元机器人关联公司入股原动力智能",
-      "body": "11月5日，企查查信息显示，原动力（深圳）智能有限公司发生工商变更，新增智元机器人关联公司智元创新（上海）科技股份有限公司为股东，注册资本增至114.44万元。原动力智能成立于2026年5月，经营范围含智能机器人研发、人工智能行业应用系统集成等。",
-      "source": "人民财讯",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-05/doc-inixsmka6086840.shtml",
-      "publishedAt": "2026-11-05"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-05T07:35:36+08:00",
+   "fetchedAt": "2026-11-06T07:36:45+08:00",
    "window": [
-    "2026-11-04T20:00+08:00",
-    "2026-11-05T07:35+08:00"
+    "2026-11-05T20:00+08:00",
+    "2026-11-06T07:36+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "月之暗面开源Kimi K3.1 Pro模型权重",
-      "body": "11月4日，月之暗面在Hugging Face发布Kimi K3.1 Pro模型权重，采用Kimi专用许可证。该模型总参数2.8万亿、激活参数1040亿，支持100万Token上下文。",
-      "source": "Runtimewire",
-      "url": "https://runtimewire.com/article/moonshot-ai-kimi-k3-1-pro-weights",
-      "publishedAt": "2026-11-05 00:36"
+      "title": "OpenAI发布网络安全模型GPT-6 Cyber",
+      "body": "11月5日，OpenAI发布GPT-6 Cyber，在多数网络安全任务上优于通用模型GPT-6 Astra，先向部分获批的Daybreak Red客户开放，未来几周扩展至全部Red客户。研究人员用其发现81个此前未知的Firefox高危漏洞，并为948个Linux内核漏洞开发出可用利用程序。",
+      "source": "财富杂志",
+      "url": "https://fortune.com/2026/11/05/openai-debuts-new-cybersecurity-focused-ai-model-amid-growing-alarm-about-ai-driven-cyber-attacks/",
+      "publishedAt": "2026-11-06 01:01"
      },
      {
-      "title": "TeraWulf获谷歌信用担保，支撑190亿美元Anthropic租约",
-      "body": "11月4日，TeraWulf宣布与谷歌签署信用支持协议，为其肯塔基州Hawesville数据中心园区与Anthropic约190亿美元的租赁承诺提供项目融资担保，并与Fluor签署三栋数据中心建筑的EPC总包协议，预计2027年底起分期交付。",
-      "source": "TeraWulf官方公告",
-      "url": "https://www.globenewswire.com/news-release/2026/11/04/3395277/0/en/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement.html",
-      "publishedAt": "2026-11-04 21:15"
+      "title": "谷歌Gemini Omni 1.2 Flash全面可用，价格降30%",
+      "body": "11月5日，谷歌发布视频生成模型Gemini Omni 1.2 Flash，单段原生生成时长由10秒提升至15秒，720p视频价格降30%至每秒0.07美元；模型已在Gemini API和Google Cloud全面可用，并接入Google Vids、Flow、Google Ads及Gemini应用。",
+      "source": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "publishedAt": "2026-11-06 01:00"
      },
      {
-      "title": "Ricursive发布开源编程模型Ripple-65B预览版",
-      "body": "11月4日，AI芯片设计公司Ricursive Intelligence发布650亿参数稠密开源模型Ripple-65B Preview，公司称其在TerminalBench 2.1得分80.5，训练成本约3200万美元，是其芯片设计专有模型的通用版本。",
-      "source": "Runtimewire",
-      "url": "https://runtimewire.com/article/ricursive-ripple-65b-preview-open-weight-coding-model",
-      "publishedAt": "2026-11-05 03:23"
+      "title": "谷歌投资170亿美元建怀俄明州首个数据中心",
+      "body": "11月5日，谷歌宣布投资170亿美元在怀俄明州拉勒米县建设其在该州的首个数据中心，合作方包括Tallgrass Energy、AEP等；并与AEP签约702兆瓦带碳捕集与封存的燃料电池项目，燃料电池由Bloom Energy供应。",
+      "source": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "publishedAt": "2026-11-06 01:00"
+     },
+     {
+      "title": "布罗克曼称OpenAI或于2027年具备IPO条件",
+      "body": "OpenAI总裁Greg Brockman在《华尔街日报》科技大会上表示，公司2027年将具备IPO条件；他称2026年一、二季度“相当艰难”，三季度年化收入环比增长70%，企业业务翻倍，目前企业收入已占多数。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+      "publishedAt": "2026-11-06 02:02"
+     },
+     {
+      "title": "OpenAI发布数据中心社区公约，承担电网升级成本",
+      "body": "11月5日，OpenAI推出“全国社区公约”，承诺其自有自营的算力园区全额支付用电及所需电网升级费用，逐站公布用水用电数据，并不再要求地方官员签署保密协议。此举发生在美国中期选举多项限制数据中心的投票议案获通过之后。",
+      "source": "纽约时报",
+      "url": "https://gvwire.com/2026/11/05/after-midterm-rebuke-openai-pledges-to-give-data-center-towns-more-say/",
+      "publishedAt": "2026-11-06 06:36"
      }
     ],
     "app": [
      {
-      "title": "苹果下调工程师每日AI使用预算至200美元",
-      "body": "据彭博社11月4日报道，苹果10月起将部分工程师每日AI支出上限从300美元降至200美元，部分团队可能进一步降至100美元；工程部门以外的部分团队上限或降至25美元，并被要求改用更便宜的模型或端侧AI。",
+      "title": "DeepSeek Harness日活达154万，将建插件市场",
+      "body": "11月5日晚，DeepSeek Harness团队披露，截至11月4日，以官方API用户统计，其日活跃用户达154万，日消耗Token约92万亿；第三方插件约3.5万个，约60%活跃用户制作或安装过第三方插件，官方将建设插件市场并筹备插件作者支持计划。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/023/011.htm",
+      "publishedAt": "2026-11-05 22:48"
+     },
+     {
+      "title": "Claude上线个人理财功能，可只读连接银行账户",
+      "body": "11月5日，Anthropic为Claude推出Personal Finance测试版，用户可通过Plaid只读连接银行和信用卡账户，Claude可读取最多两年交易记录，用于追踪消费、账单和订阅，但不能转移或投资资金；目前面向美国Pro、Max和Ultra用户。",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
-      "publishedAt": "2026-11-05 04:20"
+      "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
+      "publishedAt": "2026-11-06 06:47"
+     },
+     {
+      "title": "Meta向全美用户开放Muse AI形象视频通话",
+      "body": "11月5日，Meta宣布Muse Voice向全美用户开放，用户可与其消费级AI智能体Muse语音及视频通话，功能基于新模型Muse Realtime Avatar和Muse Realtime Voice，支持手机、网页和Mac，后续将登陆AI眼镜和Muse Charm设备。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "publishedAt": "2026-11-06 03:48"
+     },
+     {
+      "title": "Cursor支持云端智能体构建并上线Web应用",
+      "body": "11月5日，Cursor推出Build Live Apps功能，用户可通过云端智能体搭建、部署和分享Web应用，Cursor自动配置Postgres数据库、SSO认证和托管，发布前需通过安全检查；功能已向开启云端智能体的全部付费计划开放。",
+      "source": "Cursor官方",
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "publishedAt": "2026-11-06"
      }
     ],
     "funding": [
      {
-      "title": "红杉资本募集约100亿美元新基金并收缩架构",
-      "body": "11月4日，红杉资本发布内部备忘录称已募集约100亿美元新基金，同时关闭伦敦办公室，停止Arc加速器和Scouts项目，合并早期与成长期团队，结束约20年的扩张阶段。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "publishedAt": "2026-11-05 01:11"
+      "title": "Shield AI以53亿美元收购Echodyne，估值288亿",
+      "body": "11月5日，国防AI公司Shield AI宣布以53亿美元收购雷达公司Echodyne，并融资25亿美元，其中10亿美元H轮投后估值288亿美元，另有黑石旗下基金10亿美元结构化股权及摩根大通牵头的5亿美元债务融资；交易预计2027年初完成。",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
+      "publishedAt": "2026-11-06 00:30"
      },
      {
-      "title": "Meta收购AI编程智能体公司Conductor",
-      "body": "11月4日，Meta收购可并行运行多个AI编程智能体的初创公司Conductor，交易条款未披露。CEO Charlie Holtz与CTO Jackson de Campos将加入Meta超级智能实验室，Conductor云服务将于11月20日关闭。",
-      "source": "Startup Fortune",
-      "url": "https://startupfortune.com/meta-buys-ai-coding-startup-conductor-as-wall-street-questions-its-ai-bill/",
-      "publishedAt": "2026-11-05 06:54"
-     },
-     {
-      "title": "OpenAI将收购开发者工具公司Pierre Computer",
-      "body": "据Axios 11月4日报道，OpenAI将收购开发者工具初创公司Pierre Computer，计划将其Code Storage产品整合进Codex，其开源项目将继续开源；Code Storage支持最大32TB代码仓库，客户包括Lovable、Bolt等。",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/openai-to-acquire-pierre-computer-and-bring-code-storage-to-codex/",
-      "publishedAt": "2026-11-04 20:20"
-     },
-     {
-      "title": "AI销售平台Nooks获General Catalyst 5亿美元资金",
-      "body": "11月4日，AI销售智能体平台Nooks宣布获得General Catalyst旗下Customer Value Fund提供的5亿美元非稀释性资金，并发布销售AI个人助理Node。公司客户超2000家，净收入留存率135%。",
-      "source": "美通社",
-      "url": "https://www.prnewswire.com/news-releases/nooks-secures-500-million-from-general-catalyst-and-launches-node-the-first-ai-personal-assistant-for-sales-302928795.html",
-      "publishedAt": "2026-11-04 22:00"
-     },
-     {
-      "title": "企业支付公司Pliant完成8000万美元C轮融资",
-      "body": "11月4日，柏林金融科技公司Pliant完成8000万美元C轮融资，由Seaya Nova和Speedinvest领投，Illuminate Financial、Motive Partners等参投，将向AI智能体开放B2B支付能力。公司年度经常性收入已超1亿美元。",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest",
-      "publishedAt": "2026-11-05 01:39"
-     },
-     {
-      "title": "AI智能体数据安全公司Sentra获1.5亿美元融资",
-      "body": "11月4日，以色列网络安全公司Sentra完成1.5亿美元战略融资，由Capital One Ventures领投，Bessemer等老股东参投，累计融资超2.5亿美元。CEO称估值较上轮增长两倍，但尚未达到10亿美元。",
-      "source": "Calcalist",
-      "url": "https://calcalistech.com/ctechnews/article/s1jextotml",
-      "publishedAt": "2026-11-04 20:00"
+      "title": "AI数据分析公司Ocient完成1亿美元C轮融资",
+      "body": "11月5日，芝加哥数据分析公司Ocient宣布完成1亿美元C轮融资，由Boka Capital和OCA Ventures联合领投，In-Q-Tel、Greycroft等老股东跟投，累计融资2.6亿美元；公司预计本财年收入增长超两倍，资金用于拓展智能体AI分析业务。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
+      "publishedAt": "2026-11-05 20:00"
      }
     ]
    }
