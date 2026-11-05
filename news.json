@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "updatedAt": "2026-11-05T07:35:36+08:00",
+ "updatedAt": "2026-11-05T19:38:05+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,50 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-05T19:38:05+08:00",
+   "window": [
+    "2026-11-05T08:00+08:00",
+    "2026-11-05T19:38+08:00"
+   ],
+   "categories": {
+    "model": [],
+    "app": [
+     {
+      "title": "雷军展示小米机器人做家务，长程任务超50项",
+      "body": "11月5日，雷军在社交平台发布视频，展示小米机器人在小米青年公寓试运营做家务。机器人依托Xiaomi-Robotics-1具身基座模型，实测连续工作超30分钟、覆盖3个房间、完成50余项任务。文中称家用机器人尚未达到进入普通家庭的标准，公司正采集真实家庭数据迭代模型。",
+      "source": "快科技",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-11-05/doc-inixrumy8912855.shtml",
+      "publishedAt": "2026-11-05 08:22"
+     }
+    ],
+    "funding": [
+     {
+      "title": "视频大模型公司Sand.ai完成2亿美元A+轮融资",
+      "body": "11月5日，视频生成模型公司Sand.ai（三呆科技）宣布完成2亿美元A+轮融资，由基石资本、网宿科技联合领投，浦东创投、上海国方等机构加入。这是其今年第三轮融资，10个月累计融资3亿美元，本轮后估值达到独角兽门槛，资金将用于模型研发、基础设施及海外市场拓展。",
+      "source": "澎湃新闻",
+      "url": "https://thepaper.cn/newsDetail_forward_34410374",
+      "publishedAt": "2026-11-05 11:40"
+     },
+     {
+      "title": "中国禁止软银54亿美元收购ABB机器人业务",
+      "body": "11月5日，ABB确认已获软银告知，中国外商投资安全审查工作机制办公室禁止软银收购ABB机器人业务在华部分；该交易企业价值为53.75亿美元。据金融时报报道，审查关注中国资产与数据转移至日本、可能被用于训练AI模型等问题。",
+      "source": "Silicon Republic",
+      "url": "https://www.siliconrepublic.com/business/china-softbank-abb-robotics-japan-data-ai-investment",
+      "publishedAt": "2026-11-05 19:15"
+     },
+     {
+      "title": "智元机器人关联公司入股原动力智能",
+      "body": "11月5日，企查查信息显示，原动力（深圳）智能有限公司发生工商变更，新增智元机器人关联公司智元创新（上海）科技股份有限公司为股东，注册资本增至114.44万元。原动力智能成立于2026年5月，经营范围含智能机器人研发、人工智能行业应用系统集成等。",
+      "source": "人民财讯",
+      "url": "http://finance.sina.com.cn/jjxw/2026-11-05/doc-inixsmka6086840.shtml",
+      "publishedAt": "2026-11-05"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
