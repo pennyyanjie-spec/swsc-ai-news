@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updatedAt": "2026-11-06T07:36:45+08:00",
+ "updatedAt": "2026-11-06T19:37:15+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,43 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-06T19:37:15+08:00",
+   "window": [
+    "2026-11-06T08:00+08:00",
+    "2026-11-06T19:37+08:00"
+   ],
+   "categories": {
+    "model": [],
+    "app": [
+     {
+      "title": "工信部发文加强智能体终端设备进网管理",
+      "body": "11月6日消息，工业和信息化部办公厅印发《关于加强智能体终端设备进网管理的通知》，将预置智能体的手机、平板、可穿戴设备等界定为智能体终端，提出逐步建立相关监管规则，并部署四方面工作。",
+      "source": "快科技",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-11-06/doc-inixuura8885803.shtml",
+      "publishedAt": "2026-11-06"
+     },
+     {
+      "title": "六部门：推进大语言模型、具身智能在养老领域应用",
+      "body": "11月6日，民政部等6部门印发《关于培育多元场景 促进适老用品产品消费的若干措施》，提出加快推进具身智能、大语言模型、脑机接口、外骨骼等前沿技术在养老领域的应用。",
+      "source": "财联社",
+      "url": "http://finance.sina.com.cn/roll/2026-11-06/doc-inixuqia5456131.shtml",
+      "publishedAt": "2026-11-06"
+     }
+    ],
+    "funding": [
+     {
+      "title": "投资者质疑Anthropic 1.5万亿美元IPO估值",
+      "body": "据《华尔街日报》，美股科技股大跌后，三名大型投资者认为Anthropic约1.5万亿美元的IPO估值可能需下调，其中一人建议接近1万亿美元。Anthropic计划最多融资1000亿美元，原定11月9日当周启动路演；有投资者建议将融资额降至约800亿美元。",
+      "source": "华尔街日报",
+      "url": "https://www.business-standard.com/amp/world-news/is-anthropic-mega-ipo-at-risk-over-its-1-5-trillion-valuation-126110600665_1.html",
+      "publishedAt": "2026-11-06 14:26"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
