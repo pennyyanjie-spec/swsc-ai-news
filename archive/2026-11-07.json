@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-07",
+ "updatedAt": "2026-11-07T07:37:38+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-07T07:37:38+08:00",
+   "window": [
+    "2026-11-06T20:00+08:00",
+    "2026-11-07T07:37+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "微软据报逐步终止向甲骨文租用AI算力",
+      "body": "11月6日，据彭博社报道，微软正逐步结束向甲骨文租用AI云算力的安排，这是其对数十亿美元云合作进行更大范围重新评估的一部分；消息援引知情人士，微软与甲骨文未在报道中确认。",
+      "source": "路透社",
+      "url": "https://live.euronext.com/en/financial-news/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-reports",
+      "publishedAt": "2026-11-07"
+     },
+     {
+      "title": "Meta为Muse和Meta AI上线专用模型",
+      "body": "11月6日，Meta超级智能实验室宣布，用Muse Wonder训练的专用模型向Muse和Meta AI用户推出；新Muse模型遗忘关键信息的概率降低2.4倍，在出现意外情况的日常任务中完成能力提升67%，个人超级智能指数由38%升至47%。",
+      "source": "Meta官方博客",
+      "url": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
+      "publishedAt": "2026-11-07 02:08"
+     },
+     {
+      "title": "OpenAI CFO称将继续投资数据中心",
+      "body": "11月6日，OpenAI首席财务官Sarah Friar在花旗TMT领导力峰会上接受CNBC采访时表示，尽管中期选举中选民反对数据中心，公司仍将继续投资AI基础设施并融资，并称公司仍在考虑2027年上市。",
+      "source": "Investing.com",
+      "url": "https://ca.finance.yahoo.com/news/openai-keep-investing-data-centers-191926602.html",
+      "publishedAt": "2026-11-07 03:19"
+     },
+     {
+      "title": "OpenAI与Hacktron合作排查系统漏洞",
+      "body": "11月6日，OpenAI宣布与安全公司Hacktron合作，双方研究人员共同确定测试重点，聚焦AI智能体连接第三方服务、身份系统与基础设施时的安全风险，并通过Daybreak Red扩大其前沿模型访问权限。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/openai-partners-with-hacktron-to-test-third-party-service-connections/",
+      "publishedAt": "2026-11-07 02:41"
+     }
+    ],
+    "app": [
+     {
+      "title": "Meta为Muse智能体推出Spaces功能",
+      "body": "11月6日，Meta为Muse智能体推出Spaces，用户在对话中描述想法即可由Muse生成围绕单一主题的定制空间，如旅行规划、礼物清单、婚礼筹备等，可连接第三方应用并在后台自动更新。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "2026-11-07 02:44"
+     }
+    ],
+    "funding": [
+     {
+      "title": "OpenAI据报新一轮已融110亿美元，估值1.25万亿",
+      "body": "11月6日，据彭博社援引知情人士报道，OpenAI新一轮融资已筹得约110亿美元，估值1.25万亿美元；本轮尚未完成，预计未来几周结束，总额或达约200亿美元，低于此前以1.4万亿美元估值融资300亿美元的目标。OpenAI未予置评。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "2026-11-07 06:53"
+     }
+    ]
+   }
+  }
+ ]
+}

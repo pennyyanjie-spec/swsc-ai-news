@@ -1,6 +1,6 @@
 {
- "date": "2026-11-06",
- "updatedAt": "2026-11-06T19:37:15+08:00",
+ "date": "2026-11-07",
+ "updatedAt": "2026-11-07T07:37:38+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,132 +9,60 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-06T19:37:15+08:00",
-   "window": [
-    "2026-11-06T08:00+08:00",
-    "2026-11-06T19:37+08:00"
-   ],
-   "categories": {
-    "model": [],
-    "app": [
-     {
-      "title": "工信部发文加强智能体终端设备进网管理",
-      "body": "11月6日消息，工业和信息化部办公厅印发《关于加强智能体终端设备进网管理的通知》，将预置智能体的手机、平板、可穿戴设备等界定为智能体终端，提出逐步建立相关监管规则，并部署四方面工作。",
-      "source": "快科技",
-      "url": "http://finance.sina.com.cn/tech/roll/2026-11-06/doc-inixuura8885803.shtml",
-      "publishedAt": "2026-11-06"
-     },
-     {
-      "title": "六部门：推进大语言模型、具身智能在养老领域应用",
-      "body": "11月6日，民政部等6部门印发《关于培育多元场景 促进适老用品产品消费的若干措施》，提出加快推进具身智能、大语言模型、脑机接口、外骨骼等前沿技术在养老领域的应用。",
-      "source": "财联社",
-      "url": "http://finance.sina.com.cn/roll/2026-11-06/doc-inixuqia5456131.shtml",
-      "publishedAt": "2026-11-06"
-     }
-    ],
-    "funding": [
-     {
-      "title": "投资者质疑Anthropic 1.5万亿美元IPO估值",
-      "body": "据《华尔街日报》，美股科技股大跌后，三名大型投资者认为Anthropic约1.5万亿美元的IPO估值可能需下调，其中一人建议接近1万亿美元。Anthropic计划最多融资1000亿美元，原定11月9日当周启动路演；有投资者建议将融资额降至约800亿美元。",
-      "source": "华尔街日报",
-      "url": "https://www.business-standard.com/amp/world-news/is-anthropic-mega-ipo-at-risk-over-its-1-5-trillion-valuation-126110600665_1.html",
-      "publishedAt": "2026-11-06 14:26"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-06T07:36:45+08:00",
+   "fetchedAt": "2026-11-07T07:37:38+08:00",
    "window": [
-    "2026-11-05T20:00+08:00",
-    "2026-11-06T07:36+08:00"
+    "2026-11-06T20:00+08:00",
+    "2026-11-07T07:37+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "OpenAI发布网络安全模型GPT-6 Cyber",
-      "body": "11月5日，OpenAI发布GPT-6 Cyber，在多数网络安全任务上优于通用模型GPT-6 Astra，先向部分获批的Daybreak Red客户开放，未来几周扩展至全部Red客户。研究人员用其发现81个此前未知的Firefox高危漏洞，并为948个Linux内核漏洞开发出可用利用程序。",
-      "source": "财富杂志",
-      "url": "https://fortune.com/2026/11/05/openai-debuts-new-cybersecurity-focused-ai-model-amid-growing-alarm-about-ai-driven-cyber-attacks/",
-      "publishedAt": "2026-11-06 01:01"
+      "title": "微软据报逐步终止向甲骨文租用AI算力",
+      "body": "11月6日，据彭博社报道，微软正逐步结束向甲骨文租用AI云算力的安排，这是其对数十亿美元云合作进行更大范围重新评估的一部分；消息援引知情人士，微软与甲骨文未在报道中确认。",
+      "source": "路透社",
+      "url": "https://live.euronext.com/en/financial-news/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-reports",
+      "publishedAt": "2026-11-07"
      },
      {
-      "title": "谷歌Gemini Omni 1.2 Flash全面可用，价格降30%",
-      "body": "11月5日，谷歌发布视频生成模型Gemini Omni 1.2 Flash，单段原生生成时长由10秒提升至15秒，720p视频价格降30%至每秒0.07美元；模型已在Gemini API和Google Cloud全面可用，并接入Google Vids、Flow、Google Ads及Gemini应用。",
-      "source": "谷歌官方博客",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "publishedAt": "2026-11-06 01:00"
+      "title": "Meta为Muse和Meta AI上线专用模型",
+      "body": "11月6日，Meta超级智能实验室宣布，用Muse Wonder训练的专用模型向Muse和Meta AI用户推出；新Muse模型遗忘关键信息的概率降低2.4倍，在出现意外情况的日常任务中完成能力提升67%，个人超级智能指数由38%升至47%。",
+      "source": "Meta官方博客",
+      "url": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
+      "publishedAt": "2026-11-07 02:08"
      },
      {
-      "title": "谷歌投资170亿美元建怀俄明州首个数据中心",
-      "body": "11月5日，谷歌宣布投资170亿美元在怀俄明州拉勒米县建设其在该州的首个数据中心，合作方包括Tallgrass Energy、AEP等；并与AEP签约702兆瓦带碳捕集与封存的燃料电池项目，燃料电池由Bloom Energy供应。",
-      "source": "谷歌官方博客",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-      "publishedAt": "2026-11-06 01:00"
+      "title": "OpenAI CFO称将继续投资数据中心",
+      "body": "11月6日，OpenAI首席财务官Sarah Friar在花旗TMT领导力峰会上接受CNBC采访时表示，尽管中期选举中选民反对数据中心，公司仍将继续投资AI基础设施并融资，并称公司仍在考虑2027年上市。",
+      "source": "Investing.com",
+      "url": "https://ca.finance.yahoo.com/news/openai-keep-investing-data-centers-191926602.html",
+      "publishedAt": "2026-11-07 03:19"
      },
      {
-      "title": "布罗克曼称OpenAI或于2027年具备IPO条件",
-      "body": "OpenAI总裁Greg Brockman在《华尔街日报》科技大会上表示，公司2027年将具备IPO条件；他称2026年一、二季度“相当艰难”，三季度年化收入环比增长70%，企业业务翻倍，目前企业收入已占多数。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
-      "publishedAt": "2026-11-06 02:02"
-     },
-     {
-      "title": "OpenAI发布数据中心社区公约，承担电网升级成本",
-      "body": "11月5日，OpenAI推出“全国社区公约”，承诺其自有自营的算力园区全额支付用电及所需电网升级费用，逐站公布用水用电数据，并不再要求地方官员签署保密协议。此举发生在美国中期选举多项限制数据中心的投票议案获通过之后。",
-      "source": "纽约时报",
-      "url": "https://gvwire.com/2026/11/05/after-midterm-rebuke-openai-pledges-to-give-data-center-towns-more-say/",
-      "publishedAt": "2026-11-06 06:36"
+      "title": "OpenAI与Hacktron合作排查系统漏洞",
+      "body": "11月6日，OpenAI宣布与安全公司Hacktron合作，双方研究人员共同确定测试重点，聚焦AI智能体连接第三方服务、身份系统与基础设施时的安全风险，并通过Daybreak Red扩大其前沿模型访问权限。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/openai-partners-with-hacktron-to-test-third-party-service-connections/",
+      "publishedAt": "2026-11-07 02:41"
      }
     ],
     "app": [
      {
-      "title": "DeepSeek Harness日活达154万，将建插件市场",
-      "body": "11月5日晚，DeepSeek Harness团队披露，截至11月4日，以官方API用户统计，其日活跃用户达154万，日消耗Token约92万亿；第三方插件约3.5万个，约60%活跃用户制作或安装过第三方插件，官方将建设插件市场并筹备插件作者支持计划。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/023/011.htm",
-      "publishedAt": "2026-11-05 22:48"
-     },
-     {
-      "title": "Claude上线个人理财功能，可只读连接银行账户",
-      "body": "11月5日，Anthropic为Claude推出Personal Finance测试版，用户可通过Plaid只读连接银行和信用卡账户，Claude可读取最多两年交易记录，用于追踪消费、账单和订阅，但不能转移或投资资金；目前面向美国Pro、Max和Ultra用户。",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
-      "publishedAt": "2026-11-06 06:47"
-     },
-     {
-      "title": "Meta向全美用户开放Muse AI形象视频通话",
-      "body": "11月5日，Meta宣布Muse Voice向全美用户开放，用户可与其消费级AI智能体Muse语音及视频通话，功能基于新模型Muse Realtime Avatar和Muse Realtime Voice，支持手机、网页和Mac，后续将登陆AI眼镜和Muse Charm设备。",
+      "title": "Meta为Muse智能体推出Spaces功能",
+      "body": "11月6日，Meta为Muse智能体推出Spaces，用户在对话中描述想法即可由Muse生成围绕单一主题的定制空间，如旅行规划、礼物清单、婚礼筹备等，可连接第三方应用并在后台自动更新。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "publishedAt": "2026-11-06 03:48"
-     },
-     {
-      "title": "Cursor支持云端智能体构建并上线Web应用",
-      "body": "11月5日，Cursor推出Build Live Apps功能，用户可通过云端智能体搭建、部署和分享Web应用，Cursor自动配置Postgres数据库、SSO认证和托管，发布前需通过安全检查；功能已向开启云端智能体的全部付费计划开放。",
-      "source": "Cursor官方",
-      "url": "https://cursor.com/changelog/build-live-apps",
-      "publishedAt": "2026-11-06"
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "2026-11-07 02:44"
      }
     ],
     "funding": [
      {
-      "title": "Shield AI以53亿美元收购Echodyne，估值288亿",
-      "body": "11月5日，国防AI公司Shield AI宣布以53亿美元收购雷达公司Echodyne，并融资25亿美元，其中10亿美元H轮投后估值288亿美元，另有黑石旗下基金10亿美元结构化股权及摩根大通牵头的5亿美元债务融资；交易预计2027年初完成。",
-      "source": "Breaking Defense",
-      "url": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
-      "publishedAt": "2026-11-06 00:30"
-     },
-     {
-      "title": "AI数据分析公司Ocient完成1亿美元C轮融资",
-      "body": "11月5日，芝加哥数据分析公司Ocient宣布完成1亿美元C轮融资，由Boka Capital和OCA Ventures联合领投，In-Q-Tel、Greycroft等老股东跟投，累计融资2.6亿美元；公司预计本财年收入增长超两倍，资金用于拓展智能体AI分析业务。",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
-      "publishedAt": "2026-11-05 20:00"
+      "title": "OpenAI据报新一轮已融110亿美元，估值1.25万亿",
+      "body": "11月6日，据彭博社援引知情人士报道，OpenAI新一轮融资已筹得约110亿美元，估值1.25万亿美元；本轮尚未完成，预计未来几周结束，总额或达约200亿美元，低于此前以1.4万亿美元估值融资300亿美元的目标。OpenAI未予置评。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "2026-11-07 06:53"
      }
     ]
    }
