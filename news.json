@@ -1,6 +1,6 @@
 {
- "date": "2026-11-07",
- "updatedAt": "2026-11-07T19:36:11+08:00",
+ "date": "2026-11-09",
+ "updatedAt": "2026-11-09T07:34:45+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,113 +9,40 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-07T19:36:11+08:00",
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-09T07:34:45+08:00",
    "window": [
-    "2026-11-07T08:00+08:00",
-    "2026-11-07T19:36+08:00"
+    "2026-11-08T20:00+08:00",
+    "2026-11-09T07:34+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "中国移动2027年算力投资预计超1000亿元",
-      "body": "据科创板日报11月7日报道，中国移动2027年投资计划预计总采购额超5000亿元，其中算力投资超1000亿元。董事长陈忠岳11月6日表示，算力是公司最大的增量投资，未来两年算力规模将实现翻番。",
-      "source": "科创板日报",
-      "url": "http://k.sina.com.cn/article_5953190046_162d6789e06703wn3o.html",
-      "publishedAt": "2026-11-07"
-     },
-     {
-      "title": "通用具身大脑产业创新联合体在进博会启动",
-      "body": "11月7日，通用具身大脑产业创新联合体在进博会眸深智能战略发布活动上正式启动，首批包括眸深智能、复旦大学未来信息创新学院、国家地方共建人形机器人创新中心、宇树科技、优必选等42家企业及机构。",
-      "source": "财联社",
-      "url": "http://finance.sina.com.cn/roll/2026-11-07/doc-inixwxpw8079450.shtml",
-      "publishedAt": "2026-11-07"
+      "title": "英伟达董事会启动对CEO黄仁勋的独立调查",
+      "body": "美国时间11月8日，英伟达董事会宣布启动独立调查，由独立董事联合外部法律顾问开展，此前有报道称CEO黄仁勋成为中国情报行动目标；董事会表示没有理由认为国家安全或公司机密受损，并对黄仁勋及其管理团队保持信心。黄仁勋在致员工信中承认对妻子不忠并致歉。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "publishedAt": "2026-11-09 05:00"
      }
     ],
     "app": [
      {
-      "title": "DeepSeek Harness插件兼容性遭吐槽，负责人承诺升级",
-      "body": "11月7日消息，DeepSeek官方Agent客户端DeepSeek Harness（DSH）开放插件系统后，用户反馈插件与DSH版本兼容性差，官方源码页面提示将有破坏性更新，升级可能导致插件失效甚至DSH无法启动；项目负责人承诺将升级改进。",
-      "source": "快科技",
-      "url": "http://finance.sina.com.cn/tech/roll/2026-11-07/doc-inixwnyh8396200.shtml",
-      "publishedAt": "2026-11-07"
+      "title": "彭博：苹果CEO要求加快AI软件路线图",
+      "body": "据彭博社11月8日报道，苹果CEO John Ternus在近期一次闭门会议中要求软件主管Craig Federighi加快软件路线图，不止于对Siri做必要改进；报道称苹果最快明年可能让Siri更像智能体，具体方案尚未确定。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "publishedAt": "2026-11-09 01:24"
      },
      {
-      "title": "达飞集团已部署超55个人工智能项目",
-      "body": "11月7日，澎湃新闻记者从进博会获悉，连续九年参展的法国航运企业达飞集团已部署超过55个人工智能项目，梳理出200余项AI应用场景；目前其在华运营约90条直达海运航线。",
-      "source": "澎湃新闻",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-07/doc-inixxcvw4633803.shtml",
-      "publishedAt": "2026-11-07"
-     },
-     {
-      "title": "普华永道：中国内地职场迈入AI人机协同期",
-      "body": "11月7日，普华永道在第九届进博会发布《2026年期待与忐忑全球职场调研》中国内地报告，调研覆盖全球近5万名员工、中国内地约2400名受访者，认为中国内地职场正从AI“工具引入期”迈入“人机协同期”。",
-      "source": "中新社",
-      "url": "http://finance.sina.com.cn/roll/2026-11-07/doc-inixxcvw4619653.shtml",
-      "publishedAt": "2026-11-07"
+      "title": "安永ESG智能工作平台进博会全球首发",
+      "body": "11月8日，安永大中华区在第九届进博会全球首发ESG智能工作平台“ESG Pro”，基于7000余家中国上市公司可持续发展报告数据，由多个AI智能体协同完成数据整合、披露合规、评级分析与报告撰写，平均约15分钟可生成一份4万字报告。",
+      "source": "新民晚报",
+      "url": "https://www.sohu.com/a/1098854650_122014422",
+      "publishedAt": "2026-11-08 20:56"
      }
     ],
     "funding": []
-   }
-  },
-  {
-   "slot": "morning",
-   "label": "早间 08:00",
-   "fetchedAt": "2026-11-07T07:37:38+08:00",
-   "window": [
-    "2026-11-06T20:00+08:00",
-    "2026-11-07T07:37+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "微软据报逐步终止向甲骨文租用AI算力",
-      "body": "11月6日，据彭博社报道，微软正逐步结束向甲骨文租用AI云算力的安排，这是其对数十亿美元云合作进行更大范围重新评估的一部分；消息援引知情人士，微软与甲骨文未在报道中确认。",
-      "source": "路透社",
-      "url": "https://live.euronext.com/en/financial-news/microsoft-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-reports",
-      "publishedAt": "2026-11-07"
-     },
-     {
-      "title": "Meta为Muse和Meta AI上线专用模型",
-      "body": "11月6日，Meta超级智能实验室宣布，用Muse Wonder训练的专用模型向Muse和Meta AI用户推出；新Muse模型遗忘关键信息的概率降低2.4倍，在出现意外情况的日常任务中完成能力提升67%，个人超级智能指数由38%升至47%。",
-      "source": "Meta官方博客",
-      "url": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
-      "publishedAt": "2026-11-07 02:08"
-     },
-     {
-      "title": "OpenAI CFO称将继续投资数据中心",
-      "body": "11月6日，OpenAI首席财务官Sarah Friar在花旗TMT领导力峰会上接受CNBC采访时表示，尽管中期选举中选民反对数据中心，公司仍将继续投资AI基础设施并融资，并称公司仍在考虑2027年上市。",
-      "source": "Investing.com",
-      "url": "https://ca.finance.yahoo.com/news/openai-keep-investing-data-centers-191926602.html",
-      "publishedAt": "2026-11-07 03:19"
-     },
-     {
-      "title": "OpenAI与Hacktron合作排查系统漏洞",
-      "body": "11月6日，OpenAI宣布与安全公司Hacktron合作，双方研究人员共同确定测试重点，聚焦AI智能体连接第三方服务、身份系统与基础设施时的安全风险，并通过Daybreak Red扩大其前沿模型访问权限。",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/openai-partners-with-hacktron-to-test-third-party-service-connections/",
-      "publishedAt": "2026-11-07 02:41"
-     }
-    ],
-    "app": [
-     {
-      "title": "Meta为Muse智能体推出Spaces功能",
-      "body": "11月6日，Meta为Muse智能体推出Spaces，用户在对话中描述想法即可由Muse生成围绕单一主题的定制空间，如旅行规划、礼物清单、婚礼筹备等，可连接第三方应用并在后台自动更新。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "publishedAt": "2026-11-07 02:44"
-     }
-    ],
-    "funding": [
-     {
-      "title": "OpenAI据报新一轮已融110亿美元，估值1.25万亿",
-      "body": "11月6日，据彭博社援引知情人士报道，OpenAI新一轮融资已筹得约110亿美元，估值1.25万亿美元；本轮尚未完成，预计未来几周结束，总额或达约200亿美元，低于此前以1.4万亿美元估值融资300亿美元的目标。OpenAI未予置评。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "publishedAt": "2026-11-07 06:53"
-     }
-    ]
    }
   }
  ]

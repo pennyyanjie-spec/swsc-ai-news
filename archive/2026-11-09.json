@@ -1,0 +1,49 @@
+{
+ "date": "2026-11-09",
+ "updatedAt": "2026-11-09T07:34:45+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-09T07:34:45+08:00",
+   "window": [
+    "2026-11-08T20:00+08:00",
+    "2026-11-09T07:34+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "英伟达董事会启动对CEO黄仁勋的独立调查",
+      "body": "美国时间11月8日，英伟达董事会宣布启动独立调查，由独立董事联合外部法律顾问开展，此前有报道称CEO黄仁勋成为中国情报行动目标；董事会表示没有理由认为国家安全或公司机密受损，并对黄仁勋及其管理团队保持信心。黄仁勋在致员工信中承认对妻子不忠并致歉。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "publishedAt": "2026-11-09 05:00"
+     }
+    ],
+    "app": [
+     {
+      "title": "彭博：苹果CEO要求加快AI软件路线图",
+      "body": "据彭博社11月8日报道，苹果CEO John Ternus在近期一次闭门会议中要求软件主管Craig Federighi加快软件路线图，不止于对Siri做必要改进；报道称苹果最快明年可能让Siri更像智能体，具体方案尚未确定。",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "publishedAt": "2026-11-09 01:24"
+     },
+     {
+      "title": "安永ESG智能工作平台进博会全球首发",
+      "body": "11月8日，安永大中华区在第九届进博会全球首发ESG智能工作平台“ESG Pro”，基于7000余家中国上市公司可持续发展报告数据，由多个AI智能体协同完成数据整合、披露合规、评级分析与报告撰写，平均约15分钟可生成一份4万字报告。",
+      "source": "新民晚报",
+      "url": "https://www.sohu.com/a/1098854650_122014422",
+      "publishedAt": "2026-11-08 20:56"
+     }
+    ],
+    "funding": []
+   }
+  }
+ ]
+}
