@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updatedAt": "2026-11-09T07:34:45+08:00",
+ "updatedAt": "2026-11-09T19:36:15+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,114 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-09T19:36:15+08:00",
+   "window": [
+    "2026-11-09T08:00+08:00",
+    "2026-11-09T19:36+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "OpenRouter周榜：中国模型调用量连续28周超美国",
+      "body": "据OpenRouter数据，11月2日至8日全球AI大模型总调用量210万亿Token，环比增长8.25%；中国模型116.18万亿Token，环比增长16.71%，美国13.98万亿Token，环比下滑32.4%。全球前五中四席为中国模型，DeepSeek V4.1 Flash 1017以56万亿Token居首。",
+      "source": "快科技",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-11-09/doc-iniycfmy2968846.shtml",
+      "publishedAt": "2026-11-09 11:42"
+     },
+     {
+      "title": "英伟达首尔AI Day联手韩国四家基础模型厂商",
+      "body": "11月9日，英伟达在首尔举办AI Day，与韩国科学信息通信技术部扩大主权AI合作，并与SK电信、Rebellions推进主权AI基础设施。英伟达将与SK Telecom A.X K2、LG K-EXAONE 2.0、Upstage Solar Open 2、Motif-3四家韩国基础模型合作，用NVIDIA Dynamo优化推理。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/217.htm",
+      "publishedAt": "2026-11-09 13:59"
+     },
+     {
+      "title": "基元律动发布Agent原生模型NeoHorse-1.5-Flash",
+      "body": "基元律动近日发布Agent原生模型NeoHorse-1.5-Flash Preview，基于Qwen3.8-Flash训练，总参数180B、激活参数6B，重点提升Agent任务执行与软件工程能力，目前限量内测。公司称这是NeoHorse系列递归自我改进的第二轮迭代。",
+      "source": "新京报",
+      "url": "https://www.bjnews.com.cn/detail/1794204720129400.html",
+      "publishedAt": "2026-11-09 14:20"
+     },
+     {
+      "title": "网信办新技术新应用备案系统上线，覆盖生成式AI",
+      "body": "据国家网信办，“互联网新技术新应用信息服务备案系统”于11月9日正式上线运行，一体化办理生成式人工智能、算法、深度合成、区块链等备案；原算法备案系统和区块链信息服务备案管理系统同步停止使用。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15311170.html",
+      "publishedAt": "2026-11-09"
+     }
+    ],
+    "app": [
+     {
+      "title": "阿里千问办公2.0发布，支持多人与Agent协作",
+      "body": "11月9日，阿里千问办公2.0正式发布，定位为面向个人与组织协作的Team Agent，新增可把数字员工带进钉钉群聊的多人与Agent“协作”功能，以及自动任务、人机共创、资料空间、三端互联等，已在客户端全量上线。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/350.htm",
+      "publishedAt": "2026-11-09 16:15"
+     },
+     {
+      "title": "天翼电信终端与优必选签署全面战略合作协议",
+      "body": "11月9日，中国电信旗下天翼电信终端与优必选签署全面战略合作协议。据优必选介绍，未来三年双方将推动家庭陪伴机器人终端行业规模突破百万台，超仿生人形、轮式人形机器人等终端行业规模突破十万台。",
+      "source": "界面新闻",
+      "url": "https://k.sina.cn/article_5952915720_162d24908067054v4w.html",
+      "publishedAt": "2026-11-09 15:33"
+     },
+     {
+      "title": "Sakana AI开发首款移动应用，招募Beta测试用户",
+      "body": "11月9日，日本AI独角兽Sakana AI宣布正在开发首款移动应用“Sakana AI App”（暂定名），并开始招募Beta测试用户。CEO David Ha表示，这将成为公司新的发展方向。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/216.htm",
+      "publishedAt": "2026-11-09 13:58"
+     }
+    ],
+    "funding": [
+     {
+      "title": "英伟达投资韩国AI互连创企Point2，拟再投三家",
+      "body": "11月9日，英伟达声明称高管与韩国科学技术信息通信部副部长会见超20家韩国初创企业，宣布投资AI互连技术创企Point2，并计划进一步投资AI实验室Motif Technologies、物理AI创企RLWRLD和企业级AI公司Upstage，未披露金额。",
+      "source": "界面新闻",
+      "url": "https://k.sina.cn/article_6192937794_17120bb4202002wasm.html",
+      "publishedAt": "2026-11-09 16:37"
+     },
+     {
+      "title": "优理奇机器人完成5亿元Pre-A轮融资",
+      "body": "11月9日，具身智能公司优理奇机器人（UniX AI）完成5亿元Pre-A轮融资，老股东谢诺投资、涌铧投资超额追加，新进机构包括绿地集团、柯力传感、华工创投等。公司自2025年底起稳定月出货超100台，峰值超300台/月。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571541.shtml",
+      "publishedAt": "2026-11-09 14:49"
+     },
+     {
+      "title": "日经：Sakana AI最早2027年秋IPO，聘高盛为顾问",
+      "body": "据《日经亚洲》11月9日报道，Sakana AI最早将于2027年秋季IPO，已委任高盛为IPO顾问，有望成为首家上市的日本生成式AI开发企业，募资将用于模型开发、人才招聘和销售。该公司2025年11月完成B轮融资时估值4000亿日元。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/024/383.htm",
+      "publishedAt": "2026-11-09 17:46"
+     },
+     {
+      "title": "物理AI数据公司刻行时空完成近亿元新一轮融资",
+      "body": "11月9日，上海刻行时空完成新一轮近亿元融资，咏归基金领投，天机TIANJI、常州智融跟投。公司预部署现场数据覆盖200多个场景、600种任务，资金将投向预部署环境、姿态追踪标注模型及数据基建。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571534.shtml",
+      "publishedAt": "2026-11-09 13:52"
+     },
+     {
+      "title": "AI销售平台Nooks获General Catalyst 5亿美元资金承诺",
+      "body": "11月9日，AI销售自动化公司Nooks获得General Catalyst客户价值基金5亿美元资金承诺，General Catalyst不取得股权，而是分享资金产生的回报。Nooks客户超过2000家，净收入留存率135%。",
+      "source": "The AI Insider",
+      "url": "https://theaiinsider.tech/2026/11/09/nooks-secures-500m-commitment-from-general-catalyst-to-scale-ai-sales-platform/",
+      "publishedAt": "2026-11-09 16:12"
+     },
+     {
+      "title": "机构投资AI平台Finpilot完成1000万美元A轮融资",
+      "body": "11月9日，西雅图AI原生机构投资操作系统Finpilot完成1000万美元A轮融资，由Lobby Capital领投，Madrona参投，资金将用于扩充团队和AI智能体能力。",
+      "source": "The AI Insider",
+      "url": "https://theaiinsider.tech/2026/11/09/finpilot-raises-10m-series-a-led-by-lobby-capital-to-bring-ai-agents-to-institutional-investors/",
+      "publishedAt": "2026-11-09 16:20"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
