@@ -1,6 +1,6 @@
 {
- "date": "2026-11-09",
- "updatedAt": "2026-11-09T19:36:15+08:00",
+ "date": "2026-11-10",
+ "updatedAt": "2026-11-10T07:36:27+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,148 +9,76 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-09T19:36:15+08:00",
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-10T07:36:27+08:00",
    "window": [
-    "2026-11-09T08:00+08:00",
-    "2026-11-09T19:36+08:00"
+    "2026-11-09T20:00+08:00",
+    "2026-11-10T07:36+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "OpenRouter周榜：中国模型调用量连续28周超美国",
-      "body": "据OpenRouter数据，11月2日至8日全球AI大模型总调用量210万亿Token，环比增长8.25%；中国模型116.18万亿Token，环比增长16.71%，美国13.98万亿Token，环比下滑32.4%。全球前五中四席为中国模型，DeepSeek V4.1 Flash 1017以56万亿Token居首。",
-      "source": "快科技",
-      "url": "https://finance.sina.com.cn/tech/discovery/2026-11-09/doc-iniycfmy2968846.shtml",
-      "publishedAt": "2026-11-09 11:42"
+      "title": "Anthropic发布Claude Fable 5.2与Mythos 5.2",
+      "body": "11月9日，Anthropic发布Mythos 5.2和Fable 5.2。Fable输入价格由每百万Token 10美元降至8美元，各推理档位响应速度提升约30%，并可通过企业前沿安全防护体系支持零数据留存。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "publishedAt": "2026-11-10 03:24"
      },
      {
-      "title": "英伟达首尔AI Day联手韩国四家基础模型厂商",
-      "body": "11月9日，英伟达在首尔举办AI Day，与韩国科学信息通信技术部扩大主权AI合作，并与SK电信、Rebellions推进主权AI基础设施。英伟达将与SK Telecom A.X K2、LG K-EXAONE 2.0、Upstage Solar Open 2、Motif-3四家韩国基础模型合作，用NVIDIA Dynamo优化推理。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/024/217.htm",
-      "publishedAt": "2026-11-09 13:59"
+      "title": "Meta发布轻量模型Muse Ember，主打智能体执行",
+      "body": "11月9日，Meta超级智能实验室发布Muse Ember，称其为最轻量、成本效率最高的模型，输入价格为每百万Token 0.10美元，支持文本、图像和音频输入，定位与大模型Muse Wonder搭配使用，是Muse系列第四款模型。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "publishedAt": "2026-11-10 02:00"
      },
      {
-      "title": "基元律动发布Agent原生模型NeoHorse-1.5-Flash",
-      "body": "基元律动近日发布Agent原生模型NeoHorse-1.5-Flash Preview，基于Qwen3.8-Flash训练，总参数180B、激活参数6B，重点提升Agent任务执行与软件工程能力，目前限量内测。公司称这是NeoHorse系列递归自我改进的第二轮迭代。",
-      "source": "新京报",
-      "url": "https://www.bjnews.com.cn/detail/1794204720129400.html",
-      "publishedAt": "2026-11-09 14:20"
-     },
-     {
-      "title": "网信办新技术新应用备案系统上线，覆盖生成式AI",
-      "body": "据国家网信办，“互联网新技术新应用信息服务备案系统”于11月9日正式上线运行，一体化办理生成式人工智能、算法、深度合成、区块链等备案；原算法备案系统和区块链信息服务备案管理系统同步停止使用。",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15311170.html",
-      "publishedAt": "2026-11-09"
+      "title": "谷歌发布TPU 8tx和8i Max，第八代扩至四款",
+      "body": "11月9日，谷歌发布TPU 8tx与TPU 8i Max两款新品，前者面向机密计算并搭配AMD CPU，后者将两颗TPU裸片封装在一起，面向长上下文任务，明年开售。谷歌称目前可用TPU已全部被客户预订。",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/stock/t/2026-11-09/doc-iniyearv3232786.shtml",
+      "publishedAt": "2026-11-09 22:39"
      }
     ],
     "app": [
      {
-      "title": "阿里千问办公2.0发布，支持多人与Agent协作",
-      "body": "11月9日，阿里千问办公2.0正式发布，定位为面向个人与组织协作的Team Agent，新增可把数字员工带进钉钉群聊的多人与Agent“协作”功能，以及自动任务、人机共创、资料空间、三端互联等，已在客户端全量上线。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/024/350.htm",
-      "publishedAt": "2026-11-09 16:15"
+      "title": "思科将Claude Mythos纳入AI Defense红队测试",
+      "body": "11月10日，思科在Cisco Live APJC宣布将Anthropic的Claude Mythos纳入AI Defense，用于对AI应用和智能体进行自适应红队测试，仅针对客户注册并拥有的目标，即将面向部分企业开放；Splunk Tokenomics将于12月开启私测。",
+      "source": "思科官方新闻稿",
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise.html",
+      "publishedAt": "2026-11-10 04:00"
      },
      {
-      "title": "天翼电信终端与优必选签署全面战略合作协议",
-      "body": "11月9日，中国电信旗下天翼电信终端与优必选签署全面战略合作协议。据优必选介绍，未来三年双方将推动家庭陪伴机器人终端行业规模突破百万台，超仿生人形、轮式人形机器人等终端行业规模突破十万台。",
-      "source": "界面新闻",
-      "url": "https://k.sina.cn/article_5952915720_162d24908067054v4w.html",
-      "publishedAt": "2026-11-09 15:33"
-     },
-     {
-      "title": "Sakana AI开发首款移动应用，招募Beta测试用户",
-      "body": "11月9日，日本AI独角兽Sakana AI宣布正在开发首款移动应用“Sakana AI App”（暂定名），并开始招募Beta测试用户。CEO David Ha表示，这将成为公司新的发展方向。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/024/216.htm",
-      "publishedAt": "2026-11-09 13:58"
+      "title": "迪士尼与Adobe结成多年AI联盟，定制Firefly模型",
+      "body": "11月9日，Adobe在Adobe MAX上宣布与迪士尼达成多年战略联盟，成为其“官方AI创新合作伙伴”，将基于迪士尼IP训练定制Firefly Foundry模型，迪士尼可提前使用Firefly、Premiere和Photoshop等工具，合作覆盖幻想工程、StudioLAB和ESPN Edge。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/disney-and-adobe-announce-ai-alliance-with-custom-firefly-models/",
+      "publishedAt": "2026-11-10 01:13"
      }
     ],
     "funding": [
      {
-      "title": "英伟达投资韩国AI互连创企Point2，拟再投三家",
-      "body": "11月9日，英伟达声明称高管与韩国科学技术信息通信部副部长会见超20家韩国初创企业，宣布投资AI互连技术创企Point2，并计划进一步投资AI实验室Motif Technologies、物理AI创企RLWRLD和企业级AI公司Upstage，未披露金额。",
-      "source": "界面新闻",
-      "url": "https://k.sina.cn/article_6192937794_17120bb4202002wasm.html",
-      "publishedAt": "2026-11-09 16:37"
+      "title": "AI硬件测试平台Nominal获2.4亿美元C轮融资",
+      "body": "11月9日，奥斯汀AI硬件工程测试平台Nominal宣布完成2.4亿美元C轮融资，估值30亿美元，由Lightspeed领投、Insight Partners联合领投；其3月B轮扩展融资时估值为10亿美元，8个月估值约翻三倍。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "publishedAt": "2026-11-10 03:21"
      },
      {
-      "title": "优理奇机器人完成5亿元Pre-A轮融资",
-      "body": "11月9日，具身智能公司优理奇机器人（UniX AI）完成5亿元Pre-A轮融资，老股东谢诺投资、涌铧投资超额追加，新进机构包括绿地集团、柯力传感、华工创投等。公司自2025年底起稳定月出货超100台，峰值超300台/月。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571541.shtml",
-      "publishedAt": "2026-11-09 14:49"
+      "title": "金融AI分析公司geniosAI获1910万美元融资",
+      "body": "11月9日，geniosAI结束隐身状态，宣布完成种子轮及A轮合计1910万美元融资，投资方为FactSet、Zoom和General Catalyst，其中FactSet领投A轮并将向平台接入其金融数据。该公司产品面向银行及企业财务投资团队。",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/",
+      "publishedAt": "2026-11-10 05:31"
      },
      {
-      "title": "日经：Sakana AI最早2027年秋IPO，聘高盛为顾问",
-      "body": "据《日经亚洲》11月9日报道，Sakana AI最早将于2027年秋季IPO，已委任高盛为IPO顾问，有望成为首家上市的日本生成式AI开发企业，募资将用于模型开发、人才招聘和销售。该公司2025年11月完成B轮融资时估值4000亿日元。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/024/383.htm",
-      "publishedAt": "2026-11-09 17:46"
-     },
-     {
-      "title": "物理AI数据公司刻行时空完成近亿元新一轮融资",
-      "body": "11月9日，上海刻行时空完成新一轮近亿元融资，咏归基金领投，天机TIANJI、常州智融跟投。公司预部署现场数据覆盖200多个场景、600种任务，资金将投向预部署环境、姿态追踪标注模型及数据基建。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571534.shtml",
-      "publishedAt": "2026-11-09 13:52"
-     },
-     {
-      "title": "AI销售平台Nooks获General Catalyst 5亿美元资金承诺",
-      "body": "11月9日，AI销售自动化公司Nooks获得General Catalyst客户价值基金5亿美元资金承诺，General Catalyst不取得股权，而是分享资金产生的回报。Nooks客户超过2000家，净收入留存率135%。",
-      "source": "The AI Insider",
-      "url": "https://theaiinsider.tech/2026/11/09/nooks-secures-500m-commitment-from-general-catalyst-to-scale-ai-sales-platform/",
-      "publishedAt": "2026-11-09 16:12"
-     },
-     {
-      "title": "机构投资AI平台Finpilot完成1000万美元A轮融资",
-      "body": "11月9日，西雅图AI原生机构投资操作系统Finpilot完成1000万美元A轮融资，由Lobby Capital领投，Madrona参投，资金将用于扩充团队和AI智能体能力。",
-      "source": "The AI Insider",
-      "url": "https://theaiinsider.tech/2026/11/09/finpilot-raises-10m-series-a-led-by-lobby-capital-to-bring-ai-agents-to-institutional-investors/",
-      "publishedAt": "2026-11-09 16:20"
+      "title": "AI网站优化公司Coframe完成2500万美元A轮融资",
+      "body": "11月9日，Coframe宣布完成2500万美元A轮融资，由Khosla Ventures和Hanabi Capital联合领投，累计融资达3500万美元。该公司用AI智能体自动生成、测试和优化网站、落地页及广告版本。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m/",
+      "publishedAt": "2026-11-09 23:34"
      }
     ]
-   }
-  },
-  {
-   "slot": "morning",
-   "label": "早间 08:00",
-   "fetchedAt": "2026-11-09T07:34:45+08:00",
-   "window": [
-    "2026-11-08T20:00+08:00",
-    "2026-11-09T07:34+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "英伟达董事会启动对CEO黄仁勋的独立调查",
-      "body": "美国时间11月8日，英伟达董事会宣布启动独立调查，由独立董事联合外部法律顾问开展，此前有报道称CEO黄仁勋成为中国情报行动目标；董事会表示没有理由认为国家安全或公司机密受损，并对黄仁勋及其管理团队保持信心。黄仁勋在致员工信中承认对妻子不忠并致歉。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "publishedAt": "2026-11-09 05:00"
-     }
-    ],
-    "app": [
-     {
-      "title": "彭博：苹果CEO要求加快AI软件路线图",
-      "body": "据彭博社11月8日报道，苹果CEO John Ternus在近期一次闭门会议中要求软件主管Craig Federighi加快软件路线图，不止于对Siri做必要改进；报道称苹果最快明年可能让Siri更像智能体，具体方案尚未确定。",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
-      "publishedAt": "2026-11-09 01:24"
-     },
-     {
-      "title": "安永ESG智能工作平台进博会全球首发",
-      "body": "11月8日，安永大中华区在第九届进博会全球首发ESG智能工作平台“ESG Pro”，基于7000余家中国上市公司可持续发展报告数据，由多个AI智能体协同完成数据整合、披露合规、评级分析与报告撰写，平均约15分钟可生成一份4万字报告。",
-      "source": "新民晚报",
-      "url": "https://www.sohu.com/a/1098854650_122014422",
-      "publishedAt": "2026-11-08 20:56"
-     }
-    ],
-    "funding": []
    }
   }
  ]
