@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-11",
+ "updatedAt": "2026-11-11T07:34:36+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-11T07:34:36+08:00",
+   "window": [
+    "2026-11-10T20:00+08:00",
+    "2026-11-11T07:34+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "谷歌Gemini 4 Carbon全面开放，API限时定价2美元",
+      "body": "11月10日，谷歌将Gemini 4 Carbon全面开放，面向Google AI Ultra订阅用户及付费Gemini API等渠道提供。API价格为每百万输入token 2美元、输出10美元，该优惠价持续至11月30日，之后上调至4美元和20美元。（VentureBeat）",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/google-gemini-4-carbon-is-now-publicly-available-and-it-undercuts-claude-fable-5-2-and-opus-5-5-on-api-price",
+      "publishedAt": "2026-11-11 00:06"
+     },
+     {
+      "title": "MiniMax开源图像模型H3-Image，10秒生成4K图",
+      "body": "11月10日深夜，MiniMax发布并开放图像生成模型H3-Image权重，可在10秒内生成4096×4096像素、约16MP的4K图像，最多支持16张参考图；发布首周对16MP及以上规格生成请求提供五折优惠。（IT之家）",
+      "source": "IT之家",
+      "url": "https://tech.ifeng.com/c/8xwsm9MsgEc",
+      "publishedAt": "2026-11-10 23:34"
+     }
+    ],
+    "app": [
+     {
+      "title": "Anthropic推出Claude Meetings、Sheets等办公工具",
+      "body": "11月10日，Anthropic发布Claude Meetings（以参会者身份加入视频会议）、Claude Sheets电子表格和Claude Whiteboards白板，均为测试版；Claude Data（原Claude Dashboards）正式上线，并推出可打开Adobe、Atlassian、HubSpot完整应用的交互式连接器。（TechCrunch）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "publishedAt": "2026-11-11 01:30"
+     },
+     {
+      "title": "OpenAI上线Businesses in ChatGPT，商家可建智能体",
+      "body": "11月10日，OpenAI推出Businesses in ChatGPT测试版，认证企业可获蓝标并通过Business Hub更新价格库存、查看提及次数与点击量；符合条件的美国电商和在线服务企业可上线Business Agent，并可作为广告投放。（The Next Web）",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
+      "publishedAt": "2026-11-11 03:06"
+     },
+     {
+      "title": "Adobe MAX发布Firefly创意智能体，扩大与谷歌合作",
+      "body": "11月10日，Adobe在MAX大会上扩展Creative Agent，推出Firefly AI Assistant测试版及Plan Mode、模型选择器，并宣布与谷歌扩大战略合作：谷歌最新图像和视频模型将接入Firefly、Photoshop、Premiere等产品，Gemini模型为Acrobat的AI功能提供支持。（Adobe官方）",
+      "source": "Adobe官方新闻稿",
+      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
+      "publishedAt": "2026-11-10 22:00"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Anthropic定IPO价格区间70至78美元，估值上限1.4万亿",
+      "body": "11月10日，Anthropic更新招股文件，拟以每股70至78美元发行8.25亿股A类股，募资577.5亿至643.5亿美元，按上限计完全稀释估值约1.404万亿美元，拟在纳斯达克上市，代码ANT；另以IPO价格向谷歌、英伟达等定向出售260亿美元股票。（TechCrunch）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "publishedAt": "2026-11-10 22:01"
+     },
+     {
+      "title": "AI训练数据公司Mercor获7.5亿美元D轮，估值200亿",
+      "body": "11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元，未披露领投方，英伟达、Salesforce、Zoom及Benchmark、Felicis、General Catalyst等参投。其上一轮为2025年10月3.5亿美元C轮，估值100亿美元。（SiliconANGLE）",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+      "publishedAt": "2026-11-11 06:45"
+     },
+     {
+      "title": "台积电拟最多投资10亿美元入股Anthropic和OpenAI",
+      "body": "11月10日，台积电董事会批准最多5亿美元按IPO价格认购Anthropic股份，以及最多5亿美元购买OpenAI优先股，合计最多10亿美元。（路透社）",
+      "source": "路透社",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai",
+      "publishedAt": "2026-11-10 22:28"
+     },
+     {
+      "title": "阿里巴巴拟分拆芯片公司平头哥赴港上市",
+      "body": "11月10日，阿里巴巴公告拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板上市，平头哥已于9月11日以保密形式递交A1申请，分拆后仍为阿里子公司，尚需港交所上市委员会批准及中国证监会备案。（澎湃新闻）",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34446777",
+      "publishedAt": "2026-11-10 21:34"
+     },
+     {
+      "title": "OpenAI收购AI旅行代理初创公司Odessia",
+      "body": "11月10日，Sonder联合创始人Francis Davidson宣布将其AI旅行代理公司Odessia出售给OpenAI，交易条款未披露，Davidson将加入OpenAI。Odessia曾获红杉资本领投的约600万美元种子轮融资。（Skift）",
+      "source": "Skift",
+      "url": "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
+      "publishedAt": "2026-11-11 03:31"
+     },
+     {
+      "title": "Oura拟6.25亿美元收购AI初级医疗公司Counsel Health",
+      "body": "11月10日，智能戒指公司Oura宣布以6.25亿美元收购结合医疗AI与执业医师的Counsel Health，预计2027年底前完成。Oura截至9月30日的季度收入5.33亿美元，同比增长153%。（TechCrunch）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "publishedAt": "2026-11-11 03:23"
+     },
+     {
+      "title": "AI安全运营公司Daylight获8000万美元B轮融资",
+      "body": "11月10日，AI驱动的托管检测与响应公司Daylight完成8000万美元B轮融资，由高盛另类投资旗下Growth Equity领投，Bain Capital Ventures、Craft Ventures等老股东跟投，累计融资1.2亿美元，过去一年收入增长超40倍。（SiliconANGLE）",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/10/ai-driven-managed-security-startup-daylight-raises-80m-on-40-fold-revenue-growth/",
+      "publishedAt": "2026-11-11 07:12"
+     },
+     {
+      "title": "AI智能体安全公司Bay融资5000万美元",
+      "body": "11月10日，特拉维夫AI智能体安全公司Bay结束隐身状态，宣布累计融资5000万美元，包括Battery Ventures领投的3700万美元A轮，以及YL Ventures和Striker领投的1300万美元种子轮，美光、微软M12参投。（The Next Web）",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures",
+      "publishedAt": "2026-11-11 00:22"
+     }
+    ]
+   }
+  }
+ ]
+}

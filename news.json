@@ -1,6 +1,6 @@
 {
- "date": "2026-11-10",
- "updatedAt": "2026-11-10T19:34:07+08:00",
+ "date": "2026-11-11",
+ "updatedAt": "2026-11-11T07:34:36+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,154 +9,109 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-10T19:34:07+08:00",
-   "window": [
-    "2026-11-10T08:00+08:00",
-    "2026-11-10T19:34+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "彭博：月之暗面曾租用32台英伟达B300服务器",
-      "body": "11月10日，据彭博报道，融资申报资料显示月之暗面8月4日签约租用32台搭载英伟达B300的美超微服务器，合同价值4.32亿元人民币，每台约1350万元。月之暗面称与相关出租方无业务关系，英伟达与美超微称未与相关实体往来。（中央社）",
-      "source": "中央社",
-      "url": "https://www.cna.com.tw/news/aopl/202611103009.aspx",
-      "publishedAt": "2026-11-10 18:51"
-     },
-     {
-      "title": "台积电10月营收5868.9亿新台币，同比增59.7%",
-      "body": "11月10日，台积电公布10月合并营收约新台币5868.9亿元，环比增长14.7%，同比增长59.7%；1至10月累计营收约新台币4.49万亿元，同比增长43.3%。（21世纪经济报道）",
-      "source": "21世纪经济报道",
-      "url": "https://m.21jingji.com/article/20261110/herald/56a9fe54e0c879f3d12f139cb336d9c6.html",
-      "publishedAt": "2026-11-10 14:22"
-     },
-     {
-      "title": "蚂蚁灵波开源触觉基础模型LingBot-Touch",
-      "body": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch，基于近5000小时真实触觉数据预训练，兼容磁触觉、视触觉、压阻式三类传感器。在两款灵巧手26项真机测试中，接入后四款动作模型任务成功率提升约14至26个百分点。（澎湃新闻）",
-      "source": "澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34443775",
-      "publishedAt": "2026-11-10 11:53"
-     }
-    ],
-    "app": [
-     {
-      "title": "谷歌Gemini上线记忆摘要，可查看编辑删除记忆",
-      "body": "11月10日，据IT之家报道，谷歌Gemini推出“记忆摘要”功能，按类别归纳AI记住的个人信息，用户可查看、编辑和删除。该功能首批面向美国18岁以上Google AI订阅用户，仅支持英文。（IT之家）",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/024/823.htm",
-      "publishedAt": "2026-11-10 14:39"
-     }
-    ],
-    "funding": [
-     {
-      "title": "路透：Anthropic向投行发送IPO文件后撤回",
-      "body": "11月10日，据路透社报道，Anthropic曾向投行发送IPO招股文件，显示拟以每股70至80美元发行约8.67亿股，随后发邮件称定价细节有误、将更新招股说明书。按上限计算募资约693亿美元，Anthropic拒绝置评。（财联社）",
-      "source": "财联社",
-      "url": "https://www.21jingji.com/article/20261110/herald/4a642f70e08af27f3fa9028e136345bc.html",
-      "publishedAt": "2026-11-10 14:37"
-     },
-     {
-      "title": "软银上半财年转亏，对OpenAI累计投资646亿美元",
-      "body": "11月10日，软银集团公布2026财年上半年净销售额4.24万亿日元，同比增13.3%，归母净亏损7680亿日元，上年同期盈利2.92万亿日元。截至9月末对OpenAI累计投资546亿美元，10月再投100亿美元后累计达646亿美元，持股约13%。（每日经济新闻）",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-11-10/doc-iniyfzhw2689443.shtml",
-      "publishedAt": "2026-11-10 18:44"
-     },
-     {
-      "title": "AI for Science公司清析智研完成近亿元天使轮",
-      "body": "11月10日，AI for Science公司清析智研完成近亿元天使轮融资，投资方包括中芯聚源、高瓴创投、智元机器人、东方嘉富和风物资本。公司称已积累数千万条真实实验数据，计划2027年量产。（投资界）",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571607.shtml",
-      "publishedAt": "2026-11-10 13:34"
-     },
-     {
-      "title": "企业AI网关公司知驿科技完成数千万元种子轮",
-      "body": "11月10日，清华团队创立的知驿科技完成数千万元种子轮融资，由卓源亚洲领投。公司做企业AI网关与团队记忆系统，于2026年8月下旬成立，首款产品计划11月中旬公开上线。（投资界）",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571594.shtml",
-      "publishedAt": "2026-11-10 11:15"
-     },
-     {
-      "title": "工业具身智能公司富唯智能完成数千万元Pre-A轮",
-      "body": "11月10日，广州富唯智能完成数千万元Pre-A轮融资，由优山资本领投，澄凯基金、启章投资跟投，和而泰作为战略股东持续加注。资金将用于工业WAM技术研发、产品迭代和交付能力建设。（投资界）",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571637.shtml",
-      "publishedAt": "2026-11-10 17:51"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-10T07:36:27+08:00",
+   "fetchedAt": "2026-11-11T07:34:36+08:00",
    "window": [
-    "2026-11-09T20:00+08:00",
-    "2026-11-10T07:36+08:00"
+    "2026-11-10T20:00+08:00",
+    "2026-11-11T07:34+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "Anthropic发布Claude Fable 5.2与Mythos 5.2",
-      "body": "11月9日，Anthropic发布Mythos 5.2和Fable 5.2。Fable输入价格由每百万Token 10美元降至8美元，各推理档位响应速度提升约30%，并可通过企业前沿安全防护体系支持零数据留存。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "publishedAt": "2026-11-10 03:24"
+      "title": "谷歌Gemini 4 Carbon全面开放，API限时定价2美元",
+      "body": "11月10日，谷歌将Gemini 4 Carbon全面开放，面向Google AI Ultra订阅用户及付费Gemini API等渠道提供。API价格为每百万输入token 2美元、输出10美元，该优惠价持续至11月30日，之后上调至4美元和20美元。（VentureBeat）",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/google-gemini-4-carbon-is-now-publicly-available-and-it-undercuts-claude-fable-5-2-and-opus-5-5-on-api-price",
+      "publishedAt": "2026-11-11 00:06"
      },
      {
-      "title": "Meta发布轻量模型Muse Ember，主打智能体执行",
-      "body": "11月9日，Meta超级智能实验室发布Muse Ember，称其为最轻量、成本效率最高的模型，输入价格为每百万Token 0.10美元，支持文本、图像和音频输入，定位与大模型Muse Wonder搭配使用，是Muse系列第四款模型。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "publishedAt": "2026-11-10 02:00"
-     },
-     {
-      "title": "谷歌发布TPU 8tx和8i Max，第八代扩至四款",
-      "body": "11月9日，谷歌发布TPU 8tx与TPU 8i Max两款新品，前者面向机密计算并搭配AMD CPU，后者将两颗TPU裸片封装在一起，面向长上下文任务，明年开售。谷歌称目前可用TPU已全部被客户预订。",
-      "source": "财联社",
-      "url": "https://finance.sina.com.cn/stock/t/2026-11-09/doc-iniyearv3232786.shtml",
-      "publishedAt": "2026-11-09 22:39"
+      "title": "MiniMax开源图像模型H3-Image，10秒生成4K图",
+      "body": "11月10日深夜，MiniMax发布并开放图像生成模型H3-Image权重，可在10秒内生成4096×4096像素、约16MP的4K图像，最多支持16张参考图；发布首周对16MP及以上规格生成请求提供五折优惠。（IT之家）",
+      "source": "IT之家",
+      "url": "https://tech.ifeng.com/c/8xwsm9MsgEc",
+      "publishedAt": "2026-11-10 23:34"
      }
     ],
     "app": [
      {
-      "title": "思科将Claude Mythos纳入AI Defense红队测试",
-      "body": "11月10日，思科在Cisco Live APJC宣布将Anthropic的Claude Mythos纳入AI Defense，用于对AI应用和智能体进行自适应红队测试，仅针对客户注册并拥有的目标，即将面向部分企业开放；Splunk Tokenomics将于12月开启私测。",
-      "source": "思科官方新闻稿",
-      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise.html",
-      "publishedAt": "2026-11-10 04:00"
+      "title": "Anthropic推出Claude Meetings、Sheets等办公工具",
+      "body": "11月10日，Anthropic发布Claude Meetings（以参会者身份加入视频会议）、Claude Sheets电子表格和Claude Whiteboards白板，均为测试版；Claude Data（原Claude Dashboards）正式上线，并推出可打开Adobe、Atlassian、HubSpot完整应用的交互式连接器。（TechCrunch）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "publishedAt": "2026-11-11 01:30"
      },
      {
-      "title": "迪士尼与Adobe结成多年AI联盟，定制Firefly模型",
-      "body": "11月9日，Adobe在Adobe MAX上宣布与迪士尼达成多年战略联盟，成为其“官方AI创新合作伙伴”，将基于迪士尼IP训练定制Firefly Foundry模型，迪士尼可提前使用Firefly、Premiere和Photoshop等工具，合作覆盖幻想工程、StudioLAB和ESPN Edge。",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/disney-and-adobe-announce-ai-alliance-with-custom-firefly-models/",
-      "publishedAt": "2026-11-10 01:13"
+      "title": "OpenAI上线Businesses in ChatGPT，商家可建智能体",
+      "body": "11月10日，OpenAI推出Businesses in ChatGPT测试版，认证企业可获蓝标并通过Business Hub更新价格库存、查看提及次数与点击量；符合条件的美国电商和在线服务企业可上线Business Agent，并可作为广告投放。（The Next Web）",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
+      "publishedAt": "2026-11-11 03:06"
+     },
+     {
+      "title": "Adobe MAX发布Firefly创意智能体，扩大与谷歌合作",
+      "body": "11月10日，Adobe在MAX大会上扩展Creative Agent，推出Firefly AI Assistant测试版及Plan Mode、模型选择器，并宣布与谷歌扩大战略合作：谷歌最新图像和视频模型将接入Firefly、Photoshop、Premiere等产品，Gemini模型为Acrobat的AI功能提供支持。（Adobe官方）",
+      "source": "Adobe官方新闻稿",
+      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
+      "publishedAt": "2026-11-10 22:00"
      }
     ],
     "funding": [
      {
-      "title": "AI硬件测试平台Nominal获2.4亿美元C轮融资",
-      "body": "11月9日，奥斯汀AI硬件工程测试平台Nominal宣布完成2.4亿美元C轮融资，估值30亿美元，由Lightspeed领投、Insight Partners联合领投；其3月B轮扩展融资时估值为10亿美元，8个月估值约翻三倍。",
+      "title": "Anthropic定IPO价格区间70至78美元，估值上限1.4万亿",
+      "body": "11月10日，Anthropic更新招股文件，拟以每股70至78美元发行8.25亿股A类股，募资577.5亿至643.5亿美元，按上限计完全稀释估值约1.404万亿美元，拟在纳斯达克上市，代码ANT；另以IPO价格向谷歌、英伟达等定向出售260亿美元股票。（TechCrunch）",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "publishedAt": "2026-11-10 03:21"
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "publishedAt": "2026-11-10 22:01"
      },
      {
-      "title": "金融AI分析公司geniosAI获1910万美元融资",
-      "body": "11月9日，geniosAI结束隐身状态，宣布完成种子轮及A轮合计1910万美元融资，投资方为FactSet、Zoom和General Catalyst，其中FactSet领投A轮并将向平台接入其金融数据。该公司产品面向银行及企业财务投资团队。",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/",
-      "publishedAt": "2026-11-10 05:31"
+      "title": "AI训练数据公司Mercor获7.5亿美元D轮，估值200亿",
+      "body": "11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元，未披露领投方，英伟达、Salesforce、Zoom及Benchmark、Felicis、General Catalyst等参投。其上一轮为2025年10月3.5亿美元C轮，估值100亿美元。（SiliconANGLE）",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
+      "publishedAt": "2026-11-11 06:45"
      },
      {
-      "title": "AI网站优化公司Coframe完成2500万美元A轮融资",
-      "body": "11月9日，Coframe宣布完成2500万美元A轮融资，由Khosla Ventures和Hanabi Capital联合领投，累计融资达3500万美元。该公司用AI智能体自动生成、测试和优化网站、落地页及广告版本。",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m/",
-      "publishedAt": "2026-11-09 23:34"
+      "title": "台积电拟最多投资10亿美元入股Anthropic和OpenAI",
+      "body": "11月10日，台积电董事会批准最多5亿美元按IPO价格认购Anthropic股份，以及最多5亿美元购买OpenAI优先股，合计最多10亿美元。（路透社）",
+      "source": "路透社",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai",
+      "publishedAt": "2026-11-10 22:28"
+     },
+     {
+      "title": "阿里巴巴拟分拆芯片公司平头哥赴港上市",
+      "body": "11月10日，阿里巴巴公告拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板上市，平头哥已于9月11日以保密形式递交A1申请，分拆后仍为阿里子公司，尚需港交所上市委员会批准及中国证监会备案。（澎湃新闻）",
+      "source": "澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34446777",
+      "publishedAt": "2026-11-10 21:34"
+     },
+     {
+      "title": "OpenAI收购AI旅行代理初创公司Odessia",
+      "body": "11月10日，Sonder联合创始人Francis Davidson宣布将其AI旅行代理公司Odessia出售给OpenAI，交易条款未披露，Davidson将加入OpenAI。Odessia曾获红杉资本领投的约600万美元种子轮融资。（Skift）",
+      "source": "Skift",
+      "url": "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
+      "publishedAt": "2026-11-11 03:31"
+     },
+     {
+      "title": "Oura拟6.25亿美元收购AI初级医疗公司Counsel Health",
+      "body": "11月10日，智能戒指公司Oura宣布以6.25亿美元收购结合医疗AI与执业医师的Counsel Health，预计2027年底前完成。Oura截至9月30日的季度收入5.33亿美元，同比增长153%。（TechCrunch）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "publishedAt": "2026-11-11 03:23"
+     },
+     {
+      "title": "AI安全运营公司Daylight获8000万美元B轮融资",
+      "body": "11月10日，AI驱动的托管检测与响应公司Daylight完成8000万美元B轮融资，由高盛另类投资旗下Growth Equity领投，Bain Capital Ventures、Craft Ventures等老股东跟投，累计融资1.2亿美元，过去一年收入增长超40倍。（SiliconANGLE）",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/10/ai-driven-managed-security-startup-daylight-raises-80m-on-40-fold-revenue-growth/",
+      "publishedAt": "2026-11-11 07:12"
+     },
+     {
+      "title": "AI智能体安全公司Bay融资5000万美元",
+      "body": "11月10日，特拉维夫AI智能体安全公司Bay结束隐身状态，宣布累计融资5000万美元，包括Battery Ventures领投的3700万美元A轮，以及YL Ventures和Striker领投的1300万美元种子轮，美光、微软M12参投。（The Next Web）",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures",
+      "publishedAt": "2026-11-11 00:22"
      }
     ]
    }
