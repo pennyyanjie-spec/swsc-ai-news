@@ -1,6 +1,6 @@
 {
- "date": "2026-11-11",
- "updatedAt": "2026-11-11T19:41:55+08:00",
+ "date": "2026-11-12",
+ "updatedAt": "2026-11-12T07:39:19+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,161 +9,109 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-11T19:41:55+08:00",
-   "window": [
-    "2026-11-11T08:00+08:00",
-    "2026-11-11T19:41+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "阿里上线Qwen4-Max预览版，支持百万Token上下文",
-      "body": "11月11日，阿里上线新一代千问旗舰多模态模型Qwen4-Max预览版，支持文字、图片和视频输入，上下文窗口达100万Token，兼容OpenAI和Anthropic接口，可通过Token Plan订阅调用；预览期至11月25日24时。",
-      "source": "动点科技",
-      "url": "https://cn.technode.com/post/2026-11-11/alibaba-qwen4-max-preview/",
-      "publishedAt": "2026-11-11 14:33"
-     }
-    ],
-    "app": [
-     {
-      "title": "蚂蚁灵光2.0上线两周托管事务量破300万",
-      "body": "11月11日，蚂蚁集团旗下个人AI助理灵光公布，灵光2.0自10月27日上线以来累计托管事务量突破300万项，累计执行任务超1100万次；11月5日披露的用户规模已突破2000万，已接入支付宝、钉钉、夸克、飞书等40余项外部连接器。",
-      "source": "雷峰网",
-      "url": "https://www.leiphone.com/category/industrynews/588lnnPVveccwufm.html",
-      "publishedAt": "2026-11-11 13:43"
-     }
-    ],
-    "funding": [
-     {
-      "title": "Anthropic被曝考虑上调IPO发行价，估值或达1.5万亿",
-      "body": "据知情人士透露，承销商预计将把Anthropic发行价上调至每股70-78美元区间之上，目标完全稀释估值或达1.5万亿美元甚至更高。公司拟发行8.25亿股，IPO融资最高约643.5亿美元，定价预计11月18日确定，11月19日在纳斯达克挂牌。",
-      "source": "财联社",
-      "url": "https://finance.eastmoney.com/a/202611113928310859.html",
-      "publishedAt": "2026-11-11 13:48"
-     },
-     {
-      "title": "AI原生芯片设计公司泛函数完成近亿元天使轮融资",
-      "body": "11月11日，成立于2026年3月的上海AI原生芯片设计公司泛函数完成近亿元天使轮融资，由上海未来产业基金领投，上海信投、上海科创集团、富海重产基金、徐汇资本等跟投。其自研芯片垂类大模型已商用，可将设计周期缩短至原来的1/3以内。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571696.shtml",
-      "publishedAt": "2026-11-11 16:12"
-     },
-     {
-      "title": "利普思获近亿元B轮融资，加码AI数据中心产品",
-      "body": "11月11日消息，无锡碳化硅功率半导体企业利普思完成近亿元B轮融资，新投资方为上海新微资本，资金主要用于加大AI数据中心相关产品研发和全球市场推广；公司海外营收占比接近一半。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571693.shtml",
-      "publishedAt": "2026-11-11 15:54"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-11T07:34:36+08:00",
+   "fetchedAt": "2026-11-12T07:39:19+08:00",
    "window": [
-    "2026-11-10T20:00+08:00",
-    "2026-11-11T07:34+08:00"
+    "2026-11-11T20:00+08:00",
+    "2026-11-12T07:39+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "谷歌Gemini 4 Carbon全面开放，API限时定价2美元",
-      "body": "11月10日，谷歌将Gemini 4 Carbon全面开放，面向Google AI Ultra订阅用户及付费Gemini API等渠道提供。API价格为每百万输入token 2美元、输出10美元，该优惠价持续至11月30日，之后上调至4美元和20美元。（VentureBeat）",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/google-gemini-4-carbon-is-now-publicly-available-and-it-undercuts-claude-fable-5-2-and-opus-5-5-on-api-price",
-      "publishedAt": "2026-11-11 00:06"
+      "title": "谷歌推出Gemini Decisions API，百万输入Token仅0.1美元",
+      "body": "11月11日，谷歌在Gemini API和AI Studio上线Gemini Decisions API，由新模型Gemini Decision 1驱动，单次请求可对文本、图片、音视频及PDF输入评估最多1000个封闭式问题，端到端延迟150至250毫秒，输入定价每百万Token 0.10美元、输出不收费。",
+      "source": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "publishedAt": "2026-11-12 02:00"
      },
      {
-      "title": "MiniMax开源图像模型H3-Image，10秒生成4K图",
-      "body": "11月10日深夜，MiniMax发布并开放图像生成模型H3-Image权重，可在10秒内生成4096×4096像素、约16MP的4K图像，最多支持16张参考图；发布首周对16MP及以上规格生成请求提供五折优惠。（IT之家）",
-      "source": "IT之家",
-      "url": "https://tech.ifeng.com/c/8xwsm9MsgEc",
-      "publishedAt": "2026-11-10 23:34"
+      "title": "Meta基础设施负责人Janardhan将于2027年初卸任",
+      "body": "据彭博社援引内部备忘录报道，Meta基础设施负责人Santosh Janardhan将于2027年初卸任，由前AWS高管Dave Brown接任；Janardhan将留任至2027年一季度完成交接，此后以Meta Compute首席技术官身份担任顾问。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/meta-infrastructure-chief-santosh-janardhan-steps-down",
+      "publishedAt": "2026-11-12 00:49"
+     },
+     {
+      "title": "Anthropic路演披露Opus 5.5研发成本超100亿美元",
+      "body": "11月11日，据快科技报道，Anthropic在非交易路演中披露，开发Claude Opus 5.5的成本超过100亿美元。Anthropic正推进IPO，此前已公布每股70至78美元的发行价区间。",
+      "source": "快科技",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvx2286317.shtml",
+      "publishedAt": "2026-11-11"
+     },
+     {
+      "title": "Rumble旗下Quake AI拟部署英伟达Minerva平台",
+      "body": "11月11日，据财联社报道，视频平台Rumble旗下Quake AI计划部署英伟达Minerva平台，目前运营逾2.2万颗英伟达GPU，并计划于2027年部署Vera Rubin系统。",
+      "source": "财联社",
+      "url": "http://k.sina.com.cn/article_5952915720_162d249080670559m2.html",
+      "publishedAt": "2026-11-11"
      }
     ],
     "app": [
      {
-      "title": "Anthropic推出Claude Meetings、Sheets等办公工具",
-      "body": "11月10日，Anthropic发布Claude Meetings（以参会者身份加入视频会议）、Claude Sheets电子表格和Claude Whiteboards白板，均为测试版；Claude Data（原Claude Dashboards）正式上线，并推出可打开Adobe、Atlassian、HubSpot完整应用的交互式连接器。（TechCrunch）",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "publishedAt": "2026-11-11 01:30"
+      "title": "美联航禁止第三方AI智能体代订机票",
+      "body": "11月11日，美国联合航空宣布禁止AI智能体代旅客预订机票，限制范围包括其官网及通过旅行社和聚合平台的间接访问，理由是安全风险及可能违反联邦航空监管规定；AI工具仍可展示航班和价格，但无法完成预订。",
+      "source": "CBS新闻",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "publishedAt": "2026-11-12 03:37"
      },
      {
-      "title": "OpenAI上线Businesses in ChatGPT，商家可建智能体",
-      "body": "11月10日，OpenAI推出Businesses in ChatGPT测试版，认证企业可获蓝标并通过Business Hub更新价格库存、查看提及次数与点击量；符合条件的美国电商和在线服务企业可上线Business Agent，并可作为广告投放。（The Next Web）",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
-      "publishedAt": "2026-11-11 03:06"
+      "title": "eBay推出AI拍照上架功能，覆盖美英德等六国",
+      "body": "11月11日，eBay推出“相机优先”的AI商品上架体验，卖家拍照后系统自动识别商品并填写信息，经卖家确认后发布。eBay称已有超1000万卖家使用其AI功能，新功能面向美国、英国、德国、法国、意大利和澳大利亚卖家开放。",
+      "source": "eBay官方新闻",
+      "url": "https://www.ebayinc.com/stories/news/ebay-makes-selling-easier-with-a-new-camera-first-experience/",
+      "publishedAt": "2026-11-11"
      },
      {
-      "title": "Adobe MAX发布Firefly创意智能体，扩大与谷歌合作",
-      "body": "11月10日，Adobe在MAX大会上扩展Creative Agent，推出Firefly AI Assistant测试版及Plan Mode、模型选择器，并宣布与谷歌扩大战略合作：谷歌最新图像和视频模型将接入Firefly、Photoshop、Premiere等产品，Gemini模型为Acrobat的AI功能提供支持。（Adobe官方）",
-      "source": "Adobe官方新闻稿",
-      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
-      "publishedAt": "2026-11-10 22:00"
+      "title": "招行信用卡接入微信、千问两大外部智能体",
+      "body": "11月11日，据北京商报报道，招商银行信用卡宣布成为首批接入微信和千问智能体的银行之一。业内人士判断，大型银行和股份制银行将率先跟进，中小银行多处观望阶段。",
+      "source": "北京商报",
+      "url": "http://k.sina.com.cn/article_5952915720_162d249080670559s4.html",
+      "publishedAt": "2026-11-11"
      }
     ],
     "funding": [
      {
-      "title": "Anthropic定IPO价格区间70至78美元，估值上限1.4万亿",
-      "body": "11月10日，Anthropic更新招股文件，拟以每股70至78美元发行8.25亿股A类股，募资577.5亿至643.5亿美元，按上限计完全稀释估值约1.404万亿美元，拟在纳斯达克上市，代码ANT；另以IPO价格向谷歌、英伟达等定向出售260亿美元股票。（TechCrunch）",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "publishedAt": "2026-11-10 22:01"
-     },
-     {
-      "title": "AI训练数据公司Mercor获7.5亿美元D轮，估值200亿",
-      "body": "11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元，未披露领投方，英伟达、Salesforce、Zoom及Benchmark、Felicis、General Catalyst等参投。其上一轮为2025年10月3.5亿美元C轮，估值100亿美元。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
-      "publishedAt": "2026-11-11 06:45"
-     },
-     {
-      "title": "台积电拟最多投资10亿美元入股Anthropic和OpenAI",
-      "body": "11月10日，台积电董事会批准最多5亿美元按IPO价格认购Anthropic股份，以及最多5亿美元购买OpenAI优先股，合计最多10亿美元。（路透社）",
+      "title": "英国AI芯片公司Fractile获7.2亿美元C轮，估值70亿",
+      "body": "11月11日，英国AI推理芯片初创公司Fractile完成7.2亿美元C轮融资，由Thrive Capital、Founders Fund、Lightspeed和Redpoint领投，CapitalG、贝莱德、DST Global及英国主权AI基金等参投，据知情人士估值达70亿美元，首款商用芯片计划明年推出。",
       "source": "路透社",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai",
-      "publishedAt": "2026-11-10 22:28"
+      "url": "https://www.yahoo.com/news/articles/uk-backed-ai-chip-startup-145142457.html",
+      "publishedAt": "2026-11-11 22:51"
      },
      {
-      "title": "阿里巴巴拟分拆芯片公司平头哥赴港上市",
-      "body": "11月10日，阿里巴巴公告拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板上市，平头哥已于9月11日以保密形式递交A1申请，分拆后仍为阿里子公司，尚需港交所上市委员会批准及中国证监会备案。（澎湃新闻）",
-      "source": "澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34446777",
-      "publishedAt": "2026-11-10 21:34"
+      "title": "模块化AI数据中心公司Torus获5亿美元C轮融资",
+      "body": "11月11日，美国盐湖城储能初创公司Torus完成5亿美元C轮融资，由Magnetar领投，Iconiq Capital等参投。公司推出集装箱大小、结合电池与AI推理算力的产品Foundry，单台功率1至20兆瓦，可在四个月内完成安装。",
+      "source": "彭博社",
+      "url": "https://finance.yahoo.com/technology/ai/articles/utah-based-startup-raises-500-120000301.html",
+      "publishedAt": "2026-11-11 20:00"
      },
      {
-      "title": "OpenAI收购AI旅行代理初创公司Odessia",
-      "body": "11月10日，Sonder联合创始人Francis Davidson宣布将其AI旅行代理公司Odessia出售给OpenAI，交易条款未披露，Davidson将加入OpenAI。Odessia曾获红杉资本领投的约600万美元种子轮融资。（Skift）",
-      "source": "Skift",
-      "url": "https://skift.com/2026/11/10/a-year-after-sonders-collapse-francis-davidson-sells-his-ai-travel-startup-to-openai/",
-      "publishedAt": "2026-11-11 03:31"
+      "title": "AI销售智能体公司Rox获1亿美元B轮，估值13亿美元",
+      "body": "11月11日，AI销售智能体初创公司Rox完成1亿美元B轮融资，投后估值13亿美元，由General Catalyst和March Capital联合领投，红杉资本、Databricks Ventures等参投。公司称上线首年ARR增长超10倍。",
+      "source": "Pulse 2.0",
+      "url": "https://pulse2.com/rox-100-million-series-b-at-1-3-billion-valuation-expands-enterprise-revenue-ai/",
+      "publishedAt": "2026-11-12 05:13"
      },
      {
-      "title": "Oura拟6.25亿美元收购AI初级医疗公司Counsel Health",
-      "body": "11月10日，智能戒指公司Oura宣布以6.25亿美元收购结合医疗AI与执业医师的Counsel Health，预计2027年底前完成。Oura截至9月30日的季度收入5.33亿美元，同比增长153%。（TechCrunch）",
+      "title": "沐曦与优必选合资芯片公司曦选创智获5亿元天使轮",
+      "body": "据21世纪经济报道，GPU厂商沐曦与优必选于2026年5月合资成立的芯片公司曦选创智完成5亿元天使轮融资，由纪源资本和经纬创投领投。",
+      "source": "21世纪经济报道",
+      "url": "http://finance.sina.com.cn/wm/2026-11-11/doc-iniykvcw8951398.shtml",
+      "publishedAt": "2026-11-11"
+     },
+     {
+      "title": "AI智能体仿真平台Plurai获1300万美元种子轮",
+      "body": "11月11日，AI智能体仿真平台Plurai完成1300万美元种子轮融资，由Team8领投。公司利用合成数据及企业知识库与工具的数字孪生来模拟和测试智能体，并计划对小型开源权重模型进行后训练。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "publishedAt": "2026-11-11 03:23"
+      "url": "https://techflowpost.com/en-US/newsletter/144192",
+      "publishedAt": "2026-11-11 23:02"
      },
      {
-      "title": "AI安全运营公司Daylight获8000万美元B轮融资",
-      "body": "11月10日，AI驱动的托管检测与响应公司Daylight完成8000万美元B轮融资，由高盛另类投资旗下Growth Equity领投，Bain Capital Ventures、Craft Ventures等老股东跟投，累计融资1.2亿美元，过去一年收入增长超40倍。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/10/ai-driven-managed-security-startup-daylight-raises-80m-on-40-fold-revenue-growth/",
-      "publishedAt": "2026-11-11 07:12"
-     },
-     {
-      "title": "AI智能体安全公司Bay融资5000万美元",
-      "body": "11月10日，特拉维夫AI智能体安全公司Bay结束隐身状态，宣布累计融资5000万美元，包括Battery Ventures领投的3700万美元A轮，以及YL Ventures和Striker领投的1300万美元种子轮，美光、微软M12参投。（The Next Web）",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures",
-      "publishedAt": "2026-11-11 00:22"
+      "title": "语音智能体平台Guava获1250万美元种子轮融资",
+      "body": "11月11日，语音智能体开发平台Guava完成1250万美元种子轮融资，由Acrew Capital领投，Flourish Ventures等参投。公司自研语音识别、语言模型和语音合成一体化技术栈，据报道已有十余家企业客户、日处理通话数万通。",
+      "source": "The American Bazaar",
+      "url": "https://americanbazaaronline.com/2026/11/11/guava-secures-12-5m-seed-funding-to-scale-its-ai-voice-agent-492040/",
+      "publishedAt": "2026-11-12 00:47"
      }
     ]
    }

@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-12",
+ "updatedAt": "2026-11-12T07:39:19+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-12T07:39:19+08:00",
+   "window": [
+    "2026-11-11T20:00+08:00",
+    "2026-11-12T07:39+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "谷歌推出Gemini Decisions API，百万输入Token仅0.1美元",
+      "body": "11月11日，谷歌在Gemini API和AI Studio上线Gemini Decisions API，由新模型Gemini Decision 1驱动，单次请求可对文本、图片、音视频及PDF输入评估最多1000个封闭式问题，端到端延迟150至250毫秒，输入定价每百万Token 0.10美元、输出不收费。",
+      "source": "谷歌官方博客",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "publishedAt": "2026-11-12 02:00"
+     },
+     {
+      "title": "Meta基础设施负责人Janardhan将于2027年初卸任",
+      "body": "据彭博社援引内部备忘录报道，Meta基础设施负责人Santosh Janardhan将于2027年初卸任，由前AWS高管Dave Brown接任；Janardhan将留任至2027年一季度完成交接，此后以Meta Compute首席技术官身份担任顾问。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/meta-infrastructure-chief-santosh-janardhan-steps-down",
+      "publishedAt": "2026-11-12 00:49"
+     },
+     {
+      "title": "Anthropic路演披露Opus 5.5研发成本超100亿美元",
+      "body": "11月11日，据快科技报道，Anthropic在非交易路演中披露，开发Claude Opus 5.5的成本超过100亿美元。Anthropic正推进IPO，此前已公布每股70至78美元的发行价区间。",
+      "source": "快科技",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-11-11/doc-iniykqvx2286317.shtml",
+      "publishedAt": "2026-11-11"
+     },
+     {
+      "title": "Rumble旗下Quake AI拟部署英伟达Minerva平台",
+      "body": "11月11日，据财联社报道，视频平台Rumble旗下Quake AI计划部署英伟达Minerva平台，目前运营逾2.2万颗英伟达GPU，并计划于2027年部署Vera Rubin系统。",
+      "source": "财联社",
+      "url": "http://k.sina.com.cn/article_5952915720_162d249080670559m2.html",
+      "publishedAt": "2026-11-11"
+     }
+    ],
+    "app": [
+     {
+      "title": "美联航禁止第三方AI智能体代订机票",
+      "body": "11月11日，美国联合航空宣布禁止AI智能体代旅客预订机票，限制范围包括其官网及通过旅行社和聚合平台的间接访问，理由是安全风险及可能违反联邦航空监管规定；AI工具仍可展示航班和价格，但无法完成预订。",
+      "source": "CBS新闻",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "publishedAt": "2026-11-12 03:37"
+     },
+     {
+      "title": "eBay推出AI拍照上架功能，覆盖美英德等六国",
+      "body": "11月11日，eBay推出“相机优先”的AI商品上架体验，卖家拍照后系统自动识别商品并填写信息，经卖家确认后发布。eBay称已有超1000万卖家使用其AI功能，新功能面向美国、英国、德国、法国、意大利和澳大利亚卖家开放。",
+      "source": "eBay官方新闻",
+      "url": "https://www.ebayinc.com/stories/news/ebay-makes-selling-easier-with-a-new-camera-first-experience/",
+      "publishedAt": "2026-11-11"
+     },
+     {
+      "title": "招行信用卡接入微信、千问两大外部智能体",
+      "body": "11月11日，据北京商报报道，招商银行信用卡宣布成为首批接入微信和千问智能体的银行之一。业内人士判断，大型银行和股份制银行将率先跟进，中小银行多处观望阶段。",
+      "source": "北京商报",
+      "url": "http://k.sina.com.cn/article_5952915720_162d249080670559s4.html",
+      "publishedAt": "2026-11-11"
+     }
+    ],
+    "funding": [
+     {
+      "title": "英国AI芯片公司Fractile获7.2亿美元C轮，估值70亿",
+      "body": "11月11日，英国AI推理芯片初创公司Fractile完成7.2亿美元C轮融资，由Thrive Capital、Founders Fund、Lightspeed和Redpoint领投，CapitalG、贝莱德、DST Global及英国主权AI基金等参投，据知情人士估值达70亿美元，首款商用芯片计划明年推出。",
+      "source": "路透社",
+      "url": "https://www.yahoo.com/news/articles/uk-backed-ai-chip-startup-145142457.html",
+      "publishedAt": "2026-11-11 22:51"
+     },
+     {
+      "title": "模块化AI数据中心公司Torus获5亿美元C轮融资",
+      "body": "11月11日，美国盐湖城储能初创公司Torus完成5亿美元C轮融资，由Magnetar领投，Iconiq Capital等参投。公司推出集装箱大小、结合电池与AI推理算力的产品Foundry，单台功率1至20兆瓦，可在四个月内完成安装。",
+      "source": "彭博社",
+      "url": "https://finance.yahoo.com/technology/ai/articles/utah-based-startup-raises-500-120000301.html",
+      "publishedAt": "2026-11-11 20:00"
+     },
+     {
+      "title": "AI销售智能体公司Rox获1亿美元B轮，估值13亿美元",
+      "body": "11月11日，AI销售智能体初创公司Rox完成1亿美元B轮融资，投后估值13亿美元，由General Catalyst和March Capital联合领投，红杉资本、Databricks Ventures等参投。公司称上线首年ARR增长超10倍。",
+      "source": "Pulse 2.0",
+      "url": "https://pulse2.com/rox-100-million-series-b-at-1-3-billion-valuation-expands-enterprise-revenue-ai/",
+      "publishedAt": "2026-11-12 05:13"
+     },
+     {
+      "title": "沐曦与优必选合资芯片公司曦选创智获5亿元天使轮",
+      "body": "据21世纪经济报道，GPU厂商沐曦与优必选于2026年5月合资成立的芯片公司曦选创智完成5亿元天使轮融资，由纪源资本和经纬创投领投。",
+      "source": "21世纪经济报道",
+      "url": "http://finance.sina.com.cn/wm/2026-11-11/doc-iniykvcw8951398.shtml",
+      "publishedAt": "2026-11-11"
+     },
+     {
+      "title": "AI智能体仿真平台Plurai获1300万美元种子轮",
+      "body": "11月11日，AI智能体仿真平台Plurai完成1300万美元种子轮融资，由Team8领投。公司利用合成数据及企业知识库与工具的数字孪生来模拟和测试智能体，并计划对小型开源权重模型进行后训练。",
+      "source": "TechCrunch",
+      "url": "https://techflowpost.com/en-US/newsletter/144192",
+      "publishedAt": "2026-11-11 23:02"
+     },
+     {
+      "title": "语音智能体平台Guava获1250万美元种子轮融资",
+      "body": "11月11日，语音智能体开发平台Guava完成1250万美元种子轮融资，由Acrew Capital领投，Flourish Ventures等参投。公司自研语音识别、语言模型和语音合成一体化技术栈，据报道已有十余家企业客户、日处理通话数万通。",
+      "source": "The American Bazaar",
+      "url": "https://americanbazaaronline.com/2026/11/11/guava-secures-12-5m-seed-funding-to-scale-its-ai-voice-agent-492040/",
+      "publishedAt": "2026-11-12 00:47"
+     }
+    ]
+   }
+  }
+ ]
+}
