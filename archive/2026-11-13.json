@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updatedAt": "2026-11-13T07:37:09+08:00",
+ "updatedAt": "2026-11-13T19:35:21+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,65 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-13T19:35:21+08:00",
+   "window": [
+    "2026-11-13T08:00+08:00",
+    "2026-11-13T19:35+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "腾讯混元发布实时语音模型Hy Realtime，可唱歌和调用工具",
+      "body": "11月13日，腾讯混元发布实时语音模型Hy Realtime，新增Agentic工具调用与唱歌能力，唱歌能力与腾讯音乐TME灵音AI团队联合打造。该模型已在腾讯元宝语音通话和腾讯客服上线，近期将通过腾讯云开放API。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/825.htm",
+      "publishedAt": "2026-11-13 16:41"
+     }
+    ],
+    "app": [
+     {
+      "title": "阿里AI音乐创作平台快乐虾米推出手机App",
+      "body": "11月13日，阿里巴巴旗下AI音乐创作平台快乐虾米上线iOS和安卓App。用户输入心情、故事或风格即可生成歌词、旋律、编曲和演唱。阿里8月发布AI音乐模型HappyShrimp，此前已推出国内及海外PC版。",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3666107",
+      "publishedAt": "2026-11-13 11:27"
+     }
+    ],
+    "funding": [
+     {
+      "title": "英国AI推理芯片公司Fractile完成7.2亿美元C轮融资",
+      "body": "11月13日，英国AI推理芯片初创公司Fractile向路透社表示完成7.2亿美元C轮融资，由Thrive Capital、Founders Fund、Lightspeed和Redpoint领投，CapitalG、贝莱德、DST Global及英国主权AI基金等参投，首款商用芯片计划明年推出。",
+      "source": "路透社",
+      "url": "https://www.tekedia.com/british-ai-chip-startup-fractile-raises-720m-at-7bn-valuation-as-uk-backs-domestic-semiconductor-push/",
+      "publishedAt": "2026-11-13 18:53"
+     },
+     {
+      "title": "美团战投领投RISC-V芯片公司灵睿智芯数亿元Pre-A+轮",
+      "body": "11月13日，服务器级RISC-V CPU研发商灵睿智芯宣布完成数亿元Pre-A+轮融资，美团战投领投，京东关联基金、商汤国香资本、尚颀资本等跟投，公司累计融资接近10亿元。其128核服务器CPU预计2027年流片。",
+      "source": "华尔街见闻",
+      "url": "https://www.163.com/dy/article/LBKBJHNO05198NMR.html",
+      "publishedAt": "2026-11-13 13:48"
+     },
+     {
+      "title": "机器人租赁服务商擎天租完成数亿元战略融资",
+      "body": "11月13日，机器人租赁及生产力服务公司擎天租宣布完成数亿元战略融资，投资方包括和达投资、厚为资本、中联即送。公司已运营20个全国运营中心，平台接入近20个品牌，资金将用于应用研发和全国交付网络建设。",
+      "source": "网易智能",
+      "url": "https://www.163.com/tech/article/LBK38T0A00098IEO.html",
+      "publishedAt": "2026-11-13 11:23"
+     },
+     {
+      "title": "AI4S公司青葵智造完成亿元A轮融资",
+      "body": "11月13日，面向科研研发的物理AI公司青葵智造宣布完成亿元A轮融资，投资方为创东方投资、飞荣达股份和金辉大数据，资金将用于核心研发、行业拓展和云端实验室建设。公司产品包括NexoLab自驱动实验平台等。",
+      "source": "36氪",
+      "url": "https://www.163.com/dy/article/LBJV6MEP05118DFD.html",
+      "publishedAt": "2026-11-13 10:12"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
