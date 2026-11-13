@@ -1,6 +1,6 @@
 {
- "date": "2026-11-13",
- "updatedAt": "2026-11-13T19:35:21+08:00",
+ "date": "2026-11-14",
+ "updatedAt": "2026-11-14T07:39:09+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,168 +9,81 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-13T19:35:21+08:00",
-   "window": [
-    "2026-11-13T08:00+08:00",
-    "2026-11-13T19:35+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "腾讯混元发布实时语音模型Hy Realtime，可唱歌和调用工具",
-      "body": "11月13日，腾讯混元发布实时语音模型Hy Realtime，新增Agentic工具调用与唱歌能力，唱歌能力与腾讯音乐TME灵音AI团队联合打造。该模型已在腾讯元宝语音通话和腾讯客服上线，近期将通过腾讯云开放API。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/026/825.htm",
-      "publishedAt": "2026-11-13 16:41"
-     }
-    ],
-    "app": [
-     {
-      "title": "阿里AI音乐创作平台快乐虾米推出手机App",
-      "body": "11月13日，阿里巴巴旗下AI音乐创作平台快乐虾米上线iOS和安卓App。用户输入心情、故事或风格即可生成歌词、旋律、编曲和演唱。阿里8月发布AI音乐模型HappyShrimp，此前已推出国内及海外PC版。",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3666107",
-      "publishedAt": "2026-11-13 11:27"
-     }
-    ],
-    "funding": [
-     {
-      "title": "英国AI推理芯片公司Fractile完成7.2亿美元C轮融资",
-      "body": "11月13日，英国AI推理芯片初创公司Fractile向路透社表示完成7.2亿美元C轮融资，由Thrive Capital、Founders Fund、Lightspeed和Redpoint领投，CapitalG、贝莱德、DST Global及英国主权AI基金等参投，首款商用芯片计划明年推出。",
-      "source": "路透社",
-      "url": "https://www.tekedia.com/british-ai-chip-startup-fractile-raises-720m-at-7bn-valuation-as-uk-backs-domestic-semiconductor-push/",
-      "publishedAt": "2026-11-13 18:53"
-     },
-     {
-      "title": "美团战投领投RISC-V芯片公司灵睿智芯数亿元Pre-A+轮",
-      "body": "11月13日，服务器级RISC-V CPU研发商灵睿智芯宣布完成数亿元Pre-A+轮融资，美团战投领投，京东关联基金、商汤国香资本、尚颀资本等跟投，公司累计融资接近10亿元。其128核服务器CPU预计2027年流片。",
-      "source": "华尔街见闻",
-      "url": "https://www.163.com/dy/article/LBKBJHNO05198NMR.html",
-      "publishedAt": "2026-11-13 13:48"
-     },
-     {
-      "title": "机器人租赁服务商擎天租完成数亿元战略融资",
-      "body": "11月13日，机器人租赁及生产力服务公司擎天租宣布完成数亿元战略融资，投资方包括和达投资、厚为资本、中联即送。公司已运营20个全国运营中心，平台接入近20个品牌，资金将用于应用研发和全国交付网络建设。",
-      "source": "网易智能",
-      "url": "https://www.163.com/tech/article/LBK38T0A00098IEO.html",
-      "publishedAt": "2026-11-13 11:23"
-     },
-     {
-      "title": "AI4S公司青葵智造完成亿元A轮融资",
-      "body": "11月13日，面向科研研发的物理AI公司青葵智造宣布完成亿元A轮融资，投资方为创东方投资、飞荣达股份和金辉大数据，资金将用于核心研发、行业拓展和云端实验室建设。公司产品包括NexoLab自驱动实验平台等。",
-      "source": "36氪",
-      "url": "https://www.163.com/dy/article/LBJV6MEP05118DFD.html",
-      "publishedAt": "2026-11-13 10:12"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-13T07:37:09+08:00",
+   "fetchedAt": "2026-11-14T07:39:09+08:00",
    "window": [
-    "2026-11-12T20:00+08:00",
-    "2026-11-13T07:37+08:00"
+    "2026-11-13T20:00+08:00",
+    "2026-11-14T07:39+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "黄仁勋辞任英伟达CEO，CFO克雷斯出任临时CEO",
-      "body": "11月12日，英伟达确认黄仁勋辞去总裁、CEO及董事职务，即刻生效；CFO科莱特·克雷斯出任临时CEO并继续兼任CFO，哈维·琼斯获任公司首位董事会主席，董事会启动CEO遴选。英伟达股价周四盘前跌超11%。（TechCrunch）",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "publishedAt": "2026-11-12 22:10"
-     },
-     {
-      "title": "谷歌发布低价模型Gemini 4 Hydrogen",
-      "body": "11月12日，谷歌推出Gemini 4家族低价模型Hydrogen，即日起向包括免费用户在内的所有人开放，并上线Gemini API、AI Studio与谷歌搜索。按谷歌数据，其Artificial Analysis智能指数得分51，高于Gemini 4 Argon的50；定价为每百万输入/输出Token 1.5/7.5美元，支持100万Token上下文。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/",
-      "publishedAt": "2026-11-13 06:50"
-     },
-     {
-      "title": "SpaceX宣布投资超740亿美元建两座AI超算园区",
-      "body": "11月12日，SpaceX宣布计划投资超740亿美元建设两座AI超算数据中心园区：得州Starbase附近园区投资超240亿美元，采用自建燃气发电；亚利桑那州科奇斯县园区约500亿美元，仍需县政府批准，听证会定于12月。（IT之家）",
+      "title": "DeepSeek开放全家桶应用API，可1:1复刻DeepSeek App",
+      "body": "11月13日晚，DeepSeek将联网搜索、深度思考搜索、文件输入、链接阅读等App能力整合进API，支持V4.1-Flash模型，并开放Search、Fetch、OCR、ASR、TTS独立接口；搜索与网页抓取另收5元/千次，同时开源前端Demo。",
       "source": "IT之家",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-11-13/doc-iniypvhp3691536.shtml",
-      "publishedAt": "2026-11-13 06:52"
+      "url": "https://www.ithome.com/1/026/960.htm",
+      "publishedAt": "2026-11-13 22:29"
      },
      {
-      "title": "英伟达推出面向智能体AI工厂的网络架构Scale-In",
-      "body": "11月12日，英伟达发布Scale-In网络架构，用于保障和运营智能体AI工厂的安全，基于BlueField-4与DOCA，通过Spectrum-X以太网互联；配套的Sentry可监控智能体行为，并隔离越出既定边界的智能体。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/12/ai-networking-nvidia-scalein-security-agentic-aifactoriesdatacenters/",
-      "publishedAt": "2026-11-13 06:46"
+      "title": "OpenAI解散独立机器人团队，并入核心研究与应用部门",
+      "body": "美东时间11月13日，OpenAI向《财富》确认解散独立机器人团队：研究人员并入首席研究官Mark Chen领导的核心研究团队，应用机器人与硬件团队转入总裁Greg Brockman负责的应用部门；公司称机器人仍是长期核心愿景。",
+      "source": "财富",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "publishedAt": "2026-11-14 01:05"
+     },
+     {
+      "title": "英特尔陈立武：Crescent Island显卡订单超20亿美元",
+      "body": "11月13日，英特尔CEO陈立武在SGLang Summit访谈中透露，面向AI推理的Crescent Island显卡订单超过20亿美元。旗舰型号D270拥有32个Xe3P核心，FP8峰值1.3 PFLOPS，显存最高可定制至480GB，未公布更多订单细节。",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1165/1165724.htm",
+      "publishedAt": "2026-11-13 23:02"
+     },
+     {
+      "title": "SpaceX AI部门裁撤约60名Grok Imagine团队员工",
+      "body": "11月13日，据The Information报道，SpaceX旗下AI部门裁撤约60名Grok Imagine图像及视频生成团队员工，仅留少数人维持运营，工具仍对用户开放；资源将转向AI编程工具和Grok Bot智能体产品。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/961.htm",
+      "publishedAt": "2026-11-13 22:30"
      }
     ],
     "app": [
      {
-      "title": "OpenAI发布Daybreak红队与防御网络安全工具",
-      "body": "11月12日，OpenAI在Cyber at the Frontier发布会上推出两款网络防御工具：Daybreak Red Team安全智能体可检验代码漏洞能否被利用，面向部分客户早期开放并开启候补；Daybreak Defense Factory基于Codex Security，通过Codex中的Daybreak插件提供。（The Deep View）",
-      "source": "The Deep View",
-      "url": "https://www.thedeepview.com/articles/openai-sees-a-new-enterprise-frontier-in-cyber",
-      "publishedAt": "2026-11-13 03:00"
-     },
-     {
-      "title": "Meta智能体Muse向美国付费用户开放代打商家电话",
-      "body": "11月12日，Meta首席AI官Alexandr Wang宣布，Muse智能体代用户致电美国商家的功能向美国付费订阅用户开放。Muse付费方案每月20美元起，含每周5亿Token；每月100美元可获30亿Token。公司10月称Muse用户超1000万。（TechCrunch）",
+      "title": "OpenAI推出ChatGPT Wallet，智能体可代用户下单购物",
+      "body": "美国时间11月13日，OpenAI推出ChatGPT Wallet，让其dots智能体代用户完成购物，支持美国发行的Visa、Mastercard和American Express卡，每笔需Face ID或指纹确认，支付信息令牌化；首批向部分美国Pro订阅用户开放。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
-      "publishedAt": "2026-11-13 06:22"
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "publishedAt": "2026-11-14 00:00"
      },
      {
-      "title": "ServiceNow推出自主CRM引擎，加速客户迁出Salesforce",
-      "body": "11月12日，ServiceNow推出Autonomous CRM Engine，可分析现有CRM环境、建议并部署重构后的工作流，首期仅支持Salesforce迁移。公司CRM与行业工作流业务年度合同价值已超20亿美元，第三季度CRM净新增ACV环比与同比均增长两倍。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/12/servicenow-launches-ai-powered-engine-to-accelerate-migrations-from-crm-rivals/",
-      "publishedAt": "2026-11-12 22:00"
-     },
-     {
-      "title": "Square商家智能体Squaremates结束测试全面上线",
-      "body": "11月12日，Block旗下Square宣布AI商家智能体Squaremates面向美国商家全面开放，同时推出Square CLI、更新MCP服务器及Squaremates Apps，允许商家接入自有AI工具；上述功能对美国商家不额外收费。该智能体4月以Managerbot之名开启公测。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/12/square-takes-squaremates-ai-agent-out-of-beta-and-opens-up-to-sellers-own-ai-software/",
-      "publishedAt": "2026-11-12 22:00"
+      "title": "Sierra发布个人智能体协议Poppy 1.0，Shopify全量接入",
+      "body": "11月13日，Sierra发布个人智能体协议Poppy 1.0，Shopify已为所有店铺启用；Meta旗下用户超1000万的Muse智能体将在各网站优先调用Poppy。该协议已有超过100家设计合作伙伴，包括Delta、Intuit、Salesforce和Zoom，规范仍为草案。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents",
+      "publishedAt": "2026-11-14 02:37"
      }
     ],
     "funding": [
      {
-      "title": "Mirendil获10亿美元A轮融资，Kleiner Perkins领投",
-      "body": "11月12日，模型与智能体软件公司Mirendil宣布完成10亿美元A轮融资，由Kleiner Perkins和Clearlake Capital领投，Battery Ventures、谷歌、M13等参投。公司6月发布时披露了由a16z和Kleiner Perkins领投的2亿美元种子轮。（Unite.AI）",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/mirendil-raises-1b-series-a-to-bring-frontier-ai-r-and-d-to-more-teams/",
-      "publishedAt": "2026-11-13 01:58"
+      "title": "LangChain完成3亿美元C轮融资，估值30亿美元",
+      "body": "11月13日，智能体开发与运维平台LangChain宣布完成3亿美元C轮融资，估值30亿美元，CapitalG领投，GIC、DFJ Growth、IVP、Sapphire等参投，Salesforce Ventures、MongoDB Ventures等为新投资方；超过7000家机构使用其LangSmith平台。",
+      "source": "Business Wire",
+      "url": "https://finance.yahoo.com/technology/ai/articles/langchain-raises-300m-enable-every-155300515.html",
+      "publishedAt": "2026-11-13 23:53"
      },
      {
-      "title": "Norwest募集40亿美元新基金，加码AI投资",
-      "body": "11月12日，由富国银行全资支持的Norwest宣布募集40亿美元第18期基金，为其史上最大，重点投向物理AI、语音AI、智能体网络安全及航空航天等方向，覆盖美国、印度和以色列。其第17期基金为30亿美元，2024年关闭。（TechCrunch）",
+      "title": "彭博：承销行拒收中国内地及香港投资者Anthropic IPO订单",
+      "body": "美国时间11月13日，据彭博社报道，Anthropic IPO承销团中多家美国银行以ITAR等出口管制为由，拒绝或表示难以分配中国内地及香港投资者的认购订单。此次IPO由高盛、摩根士丹利牵头，计划11月18日定价、19日在纳斯达克上市，代码ANT。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "publishedAt": "2026-11-14 02:01"
+     },
+     {
+      "title": "海洋温差发电数据中心公司Drogue获2000万美元融资",
+      "body": "美国时间11月13日，Drogue宣布获得2000万美元融资，计划利用海洋热能为漂浮式AI数据中心供电；投资方包括XYZ Venture Capital、Toyota Ventures、Tamarack Global、Slow Ventures等。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "publishedAt": "2026-11-12 23:18"
-     },
-     {
-      "title": "AI推理平台Luminal获2300万美元A轮融资",
-      "body": "11月12日，致力于在非英伟达芯片上运行AI模型的Luminal完成2300万美元A轮融资，由Standard Capital领投，Y Combinator、Felicis等老股东跟投，累计融资超2800万美元。公司称其每月处理超45万亿Token。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
-      "publishedAt": "2026-11-12 23:00"
-     },
-     {
-      "title": "工业视觉质检公司Tristar AI获1240万美元A轮",
-      "body": "11月12日，计算机视觉质检初创公司Tristar AI完成1240万美元A轮融资，由Isogon Ventures领投，Blackhorn Ventures、NextView Ventures及凯捷旗下ISAI Cap Venture Fund等参投。公司称已监控北美和欧洲500余条产线，客户包括丰田、本田、杜邦等。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/12/computer-vision-startup-tristar-ai-pulls-in-12-4m-to-automate-quality-control-for-manufacturers/",
-      "publishedAt": "2026-11-12 23:00"
-     },
-     {
-      "title": "物理AI仿真安全公司Qvyon获800万美元融资",
-      "body": "11月12日，Qvyon宣布获得800万美元融资，由MaC Venture Capital领投，BDC Capital、BKR Capital等参投，并发布可将真实摄像头、激光雷达和雷达数据转为自动驾驶及机器人仿真测试场景的Mimic Core。（SiliconANGLE）",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/",
-      "publishedAt": "2026-11-12 22:00"
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "publishedAt": "2026-11-14 04:07"
      }
     ]
    }

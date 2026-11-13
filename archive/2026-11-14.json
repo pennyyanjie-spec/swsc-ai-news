@@ -1,0 +1,92 @@
+{
+ "date": "2026-11-14",
+ "updatedAt": "2026-11-14T07:39:09+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-14T07:39:09+08:00",
+   "window": [
+    "2026-11-13T20:00+08:00",
+    "2026-11-14T07:39+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "DeepSeek开放全家桶应用API，可1:1复刻DeepSeek App",
+      "body": "11月13日晚，DeepSeek将联网搜索、深度思考搜索、文件输入、链接阅读等App能力整合进API，支持V4.1-Flash模型，并开放Search、Fetch、OCR、ASR、TTS独立接口；搜索与网页抓取另收5元/千次，同时开源前端Demo。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/960.htm",
+      "publishedAt": "2026-11-13 22:29"
+     },
+     {
+      "title": "OpenAI解散独立机器人团队，并入核心研究与应用部门",
+      "body": "美东时间11月13日，OpenAI向《财富》确认解散独立机器人团队：研究人员并入首席研究官Mark Chen领导的核心研究团队，应用机器人与硬件团队转入总裁Greg Brockman负责的应用部门；公司称机器人仍是长期核心愿景。",
+      "source": "财富",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "publishedAt": "2026-11-14 01:05"
+     },
+     {
+      "title": "英特尔陈立武：Crescent Island显卡订单超20亿美元",
+      "body": "11月13日，英特尔CEO陈立武在SGLang Summit访谈中透露，面向AI推理的Crescent Island显卡订单超过20亿美元。旗舰型号D270拥有32个Xe3P核心，FP8峰值1.3 PFLOPS，显存最高可定制至480GB，未公布更多订单细节。",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1165/1165724.htm",
+      "publishedAt": "2026-11-13 23:02"
+     },
+     {
+      "title": "SpaceX AI部门裁撤约60名Grok Imagine团队员工",
+      "body": "11月13日，据The Information报道，SpaceX旗下AI部门裁撤约60名Grok Imagine图像及视频生成团队员工，仅留少数人维持运营，工具仍对用户开放；资源将转向AI编程工具和Grok Bot智能体产品。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/026/961.htm",
+      "publishedAt": "2026-11-13 22:30"
+     }
+    ],
+    "app": [
+     {
+      "title": "OpenAI推出ChatGPT Wallet，智能体可代用户下单购物",
+      "body": "美国时间11月13日，OpenAI推出ChatGPT Wallet，让其dots智能体代用户完成购物，支持美国发行的Visa、Mastercard和American Express卡，每笔需Face ID或指纹确认，支付信息令牌化；首批向部分美国Pro订阅用户开放。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "publishedAt": "2026-11-14 00:00"
+     },
+     {
+      "title": "Sierra发布个人智能体协议Poppy 1.0，Shopify全量接入",
+      "body": "11月13日，Sierra发布个人智能体协议Poppy 1.0，Shopify已为所有店铺启用；Meta旗下用户超1000万的Muse智能体将在各网站优先调用Poppy。该协议已有超过100家设计合作伙伴，包括Delta、Intuit、Salesforce和Zoom，规范仍为草案。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents",
+      "publishedAt": "2026-11-14 02:37"
+     }
+    ],
+    "funding": [
+     {
+      "title": "LangChain完成3亿美元C轮融资，估值30亿美元",
+      "body": "11月13日，智能体开发与运维平台LangChain宣布完成3亿美元C轮融资，估值30亿美元，CapitalG领投，GIC、DFJ Growth、IVP、Sapphire等参投，Salesforce Ventures、MongoDB Ventures等为新投资方；超过7000家机构使用其LangSmith平台。",
+      "source": "Business Wire",
+      "url": "https://finance.yahoo.com/technology/ai/articles/langchain-raises-300m-enable-every-155300515.html",
+      "publishedAt": "2026-11-13 23:53"
+     },
+     {
+      "title": "彭博：承销行拒收中国内地及香港投资者Anthropic IPO订单",
+      "body": "美国时间11月13日，据彭博社报道，Anthropic IPO承销团中多家美国银行以ITAR等出口管制为由，拒绝或表示难以分配中国内地及香港投资者的认购订单。此次IPO由高盛、摩根士丹利牵头，计划11月18日定价、19日在纳斯达克上市，代码ANT。",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "publishedAt": "2026-11-14 02:01"
+     },
+     {
+      "title": "海洋温差发电数据中心公司Drogue获2000万美元融资",
+      "body": "美国时间11月13日，Drogue宣布获得2000万美元融资，计划利用海洋热能为漂浮式AI数据中心供电；投资方包括XYZ Venture Capital、Toyota Ventures、Tamarack Global、Slow Ventures等。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "publishedAt": "2026-11-14 04:07"
+     }
+    ]
+   }
+  }
+ ]
+}
