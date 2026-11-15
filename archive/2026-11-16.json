@@ -1,0 +1,56 @@
+{
+ "date": "2026-11-16",
+ "updatedAt": "2026-11-16T07:37:55+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-16T07:37:55+08:00",
+   "window": [
+    "2026-11-15T20:00+08:00",
+    "2026-11-16T07:37+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "金融时报：黄仁勋考虑重返英伟达CEO职位",
+      "body": "据英国《金融时报》11月15日报道，多位知情人士称，已辞任英伟达CEO的黄仁勋正与亲信讨论重返公司的可能性，其硅谷盟友正组建游说团向董事会施压并寻求白宫支持；英伟达董事会仍在进行独立调查，临时CEO Colette Kress正推动公司在17日财报发布前稳定运营。",
+      "source": "凤凰网",
+      "url": "https://www.sohu.com/a/1101993609_122114041",
+      "publishedAt": "2026-11-16 03:53"
+     },
+     {
+      "title": "贝森特：若英伟达是银行，多名高管将被撤换",
+      "body": "11月15日，美国财长贝森特在接受福克斯新闻采访时表示，关键问题在于英伟达是否具备遵守出口管制规定的合规文化，并称若英伟达是一家银行，“很多高管会被撤换”。英伟达已于11月12日宣布黄仁勋辞任CEO，由CFO Colette Kress出任临时CEO。",
+      "source": "财富",
+      "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
+      "publishedAt": "2026-11-16 03:51"
+     },
+     {
+      "title": "华为云上线开源盘古模型openPangu-2.1-Pro",
+      "body": "11月15日，据华为云消息，华为云MaaS模型即服务平台正式上线开源盘古模型openPangu-2.1-Pro，围绕Agent开发、AI编码、推理优化三个方向升级，在深度研究、鸿蒙系统操控、鸿蒙APP开发、昇腾算子生成和推理链路优化等场景能力增强。",
+      "source": "界面新闻",
+      "url": "https://finance.sina.cn/2026-11-15/detail-iniyvrfu6254309.d.html",
+      "publishedAt": "2026-11-15 22:15"
+     }
+    ],
+    "app": [],
+    "funding": [
+     {
+      "title": "印度AI图像传感器公司Bharat Semi获2400万美元种子轮",
+      "body": "11月15日，印度新德里无晶圆厂芯片初创公司Bharat Semi完成2400万美元种子轮融资，由Info Edge Group、South Park Commons和Indus Bridge Ventures领投，Valour Capital、Micromax等跟投。公司研发集成图像采集、处理与AI功能的可编程图像传感器，计划2027年实现商业化量产。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "publishedAt": "2026-11-16 07:30"
+     }
+    ]
+   }
+  }
+ ]
+}
