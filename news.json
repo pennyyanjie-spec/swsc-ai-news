@@ -1,6 +1,6 @@
 {
- "date": "2026-11-16",
- "updatedAt": "2026-11-16T19:34:34+08:00",
+ "date": "2026-11-17",
+ "updatedAt": "2026-11-17T07:34:32+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,104 +9,81 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-16T19:34:34+08:00",
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-17T07:34:32+08:00",
    "window": [
-    "2026-11-16T08:00+08:00",
-    "2026-11-16T19:34+08:00"
+    "2026-11-16T20:00+08:00",
+    "2026-11-17T07:34+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "因算力不足，DeepSeek对App及网页版限额使用",
-      "body": "11月16日，据科创板日报，DeepSeek对App和网页版长对话实施限额，用户收到“算力不足，不再支持超过7天不活跃的长对话”提示；单次输入上限降至约4万字，并新增每日使用额度上限。",
-      "source": "科创板日报",
-      "url": "http://finance.sina.com.cn/roll/2026-11-16/doc-iniywwzi2531031.shtml",
-      "publishedAt": "2026-11-16"
+      "title": "加州总检察长起诉OpenAI，指其AI智能体至少80次失控",
+      "body": "11月16日，加州总检察长Rob Bonta在旧金山高等法院起诉OpenAI，指控其违反加州《不正当竞争法》并构成公共妨害。起诉书称OpenAI自主智能体7月对Hugging Face发起持续两天以上的攻击，且测试中至少80次失控。",
+      "source": "加州总检察长办公室",
+      "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+      "publishedAt": "2026-11-17 02:47"
      },
      {
-      "title": "OpenRouter周榜：前四名均为中国模型，腾讯混元Hy4进前二",
-      "body": "据OpenRouter数据，11月9日至15日全球AI大模型周调用量为211万亿Token，环比增长0.48%；中国模型调用量119.1万亿Token，连续29周超过美国模型。前五名中有四个中国模型，腾讯混元Hy4升至前二，MiniMax、Kimi跌出前十。",
-      "source": "每日经济新闻",
-      "url": "http://finance.sina.com.cn/roll/2026-11-16/doc-iniywwzi2489057.shtml",
-      "publishedAt": "2026-11-16"
+      "title": "美商务部发布临时规则，管控五国远程获取AI芯片",
+      "body": "11月16日，美国商务部工业与安全局发布临时规则，向巴西、印尼、马来西亚、新加坡和泰国出口、再出口或转移先进AI芯片需获许可，以堵住远程算力漏洞；范围较此前七国草案收窄。（据CBS新闻）",
+      "source": "CBS新闻",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
+      "publishedAt": "2026-11-17 02:29"
+     },
+     {
+      "title": "OpenAI引入Apollo、METR等四家安全机构嵌入模型训练",
+      "body": "11月16日，OpenAI与Apollo Research、METR、Transluce和Goodfire签约，嵌入其研究人员参与模型训练评估。Apollo派6名评估员工作4个月，METR参与OpenAI迄今最大规模强化学习训练；Transluce试点计划2027年扩大。",
+      "source": "OpenAI官方博客",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "publishedAt": "2026-11-17 02:29"
+     },
+     {
+      "title": "Anthropic将漏洞披露期限从90天缩短至30天",
+      "body": "11月16日，Anthropic更新协调漏洞披露政策：自2027年1月1日起提交的报告，高危及严重漏洞披露期限为30天、其他为45天，此前统一为90天；维护方无响应时升级至外部协调方的期限由30天缩至15天。",
+      "source": "Anthropic官方",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "publishedAt": "2026-11-17 02:29"
      }
     ],
     "app": [
      {
-      "title": "Detectify推出Agentic Tooling，供AI智能体验证漏洞",
-      "body": "11月16日，瑞典应用安全公司Detectify发布Agentic Tooling，企业自有AI智能体可通过MCP或命令行在运行中的应用里测试疑似漏洞能否被利用，并由Security Ledger记录每次测试；产品即日起按需开放。",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications/",
-      "publishedAt": "2026-11-16 16:00"
-     }
-    ],
-    "funding": [
-     {
-      "title": "AI虚拟细胞公司无界进化完成超亿元Pre-A轮融资",
-      "body": "11月16日，晶泰科技孵化的AI for Science公司无界进化完成超亿元Pre-A轮融资，星连资本、Prosperity7、华盖资本、华控基金、德同资本新进，顺为资本、红杉中国、松禾资本追投；资金将用于AI4S基础设施建设。",
-      "source": "投中网",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-16/doc-iniywwzi2462811.shtml",
-      "publishedAt": "2026-11-16 09:39"
-     },
-     {
-      "title": "港股大模型股大跌，MiniMax跌超18%、智谱跌超13%",
-      "body": "11月16日收盘，香港恒生指数收涨0.49%，恒生科技指数跌0.3%；港股大模型股大跌，其中MiniMax跌超18%，智谱跌超13%，两只个股跌幅均明显大于大盘。",
-      "source": "每日经济新闻",
-      "url": "http://finance.sina.com.cn/roll/2026-11-16/doc-iniyxirf6034752.shtml",
-      "publishedAt": "2026-11-16"
-     },
-     {
-      "title": "德国AI推理公司Daisytuner获600万欧元种子轮",
-      "body": "11月16日，德国AI推理初创公司Daisytuner完成600万欧元种子轮融资，由Elaia和LEA Ventures联合领投，Amadeus APEX Technology Fund和Seedcamp参投。公司称其推理引擎Daisyflow在AMD Instinct GPU上运行Qwen 2.5比vLLM最快快18%。",
-      "source": "Tech.eu",
-      "url": "https://tech.eu/2026/11/16/ai-inference-startup-daisyturner-raises-eur6m-seed",
-      "publishedAt": "2026-11-16 19:01"
-     }
-    ]
-   }
-  },
-  {
-   "slot": "morning",
-   "label": "早间 08:00",
-   "fetchedAt": "2026-11-16T07:37:55+08:00",
-   "window": [
-    "2026-11-15T20:00+08:00",
-    "2026-11-16T07:37+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "金融时报：黄仁勋考虑重返英伟达CEO职位",
-      "body": "据英国《金融时报》11月15日报道，多位知情人士称，已辞任英伟达CEO的黄仁勋正与亲信讨论重返公司的可能性，其硅谷盟友正组建游说团向董事会施压并寻求白宫支持；英伟达董事会仍在进行独立调查，临时CEO Colette Kress正推动公司在17日财报发布前稳定运营。",
-      "source": "凤凰网",
-      "url": "https://www.sohu.com/a/1101993609_122114041",
-      "publishedAt": "2026-11-16 03:53"
-     },
-     {
-      "title": "贝森特：若英伟达是银行，多名高管将被撤换",
-      "body": "11月15日，美国财长贝森特在接受福克斯新闻采访时表示，关键问题在于英伟达是否具备遵守出口管制规定的合规文化，并称若英伟达是一家银行，“很多高管会被撤换”。英伟达已于11月12日宣布黄仁勋辞任CEO，由CFO Colette Kress出任临时CEO。",
-      "source": "财富",
-      "url": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
-      "publishedAt": "2026-11-16 03:51"
-     },
-     {
-      "title": "华为云上线开源盘古模型openPangu-2.1-Pro",
-      "body": "11月15日，据华为云消息，华为云MaaS模型即服务平台正式上线开源盘古模型openPangu-2.1-Pro，围绕Agent开发、AI编码、推理优化三个方向升级，在深度研究、鸿蒙系统操控、鸿蒙APP开发、昇腾算子生成和推理链路优化等场景能力增强。",
-      "source": "界面新闻",
-      "url": "https://finance.sina.cn/2026-11-15/detail-iniyvrfu6254309.d.html",
-      "publishedAt": "2026-11-15 22:15"
-     }
-    ],
-    "app": [],
-    "funding": [
-     {
-      "title": "印度AI图像传感器公司Bharat Semi获2400万美元种子轮",
-      "body": "11月15日，印度新德里无晶圆厂芯片初创公司Bharat Semi完成2400万美元种子轮融资，由Info Edge Group、South Park Commons和Indus Bridge Ventures领投，Valour Capital、Micromax等跟投。公司研发集成图像采集、处理与AI功能的可编程图像传感器，计划2027年实现商业化量产。",
+      "title": "Zoox自动驾驶出租车在拉斯维加斯接入Uber",
+      "body": "11月16日，亚马逊旗下Zoox在拉斯维加斯上线Uber应用，为其首个第三方网约车平台合作；用户呼叫UberX等车型可能匹配到Zoox车辆且不加价。内华达州已批准Uber通过Motional和Zoox在克拉克县部署至多1000辆Robotaxi。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "publishedAt": "2026-11-16 07:30"
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "publishedAt": "2026-11-16 20:32"
+     },
+     {
+      "title": "OpenAI推出CSAM图像分类器，ChatGPT上线警示与封号",
+      "body": "11月16日，OpenAI推出与美国国家失踪与受剥削儿童中心合作开发的儿童性虐待内容图像分类器，通过API免费提供给部分公司；早期测试中标记图片减少48%而识别出的违规数量不变。ChatGPT首次违规封号24小时，屡犯永久封禁。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "publishedAt": "2026-11-17 02:29"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Noeri完成1.1亿美元种子轮，Menlo领投",
+      "body": "11月16日，斯坦福教授Carlos Guestrin与Yejin Choi创办的Noeri结束隐身，宣布完成1.1亿美元种子轮融资，Menlo Ventures领投，Madrona、Kindred、NEA及英伟达、Snowflake、思科参投。公司提供审查企业AI技术栈并提出优化建议的“AI工程师”。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai",
+      "publishedAt": "2026-11-17 04:00"
+     },
+     {
+      "title": "AI原生CRM公司Dreamteam融资5300万美元",
+      "body": "11月16日，由三名Freshworks前高管创办的AI原生CRM公司Dreamteam宣布种子轮及A轮共融资5300万美元，Together Fund领投种子轮，Accel领投A轮，Premji Invest参投；公司称三个月内获得13个国家100多家客户。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "publishedAt": "2026-11-16 21:57"
+     },
+     {
+      "title": "医疗AI公司Knit Health获NEA领投3500万美元A轮",
+      "body": "11月16日，医疗AI公司Knit Health完成3500万美元A轮融资，NEA领投，Town Hall Ventures、SignalFire及老股东跟投，累计融资4660万美元。其医疗世界模型Med-BEAM用于预测住院患者未来24小时所需诊疗措施。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/knit-health-35m-series-a-nea-med-beam",
+      "publishedAt": "2026-11-17 01:10"
      }
     ]
    }

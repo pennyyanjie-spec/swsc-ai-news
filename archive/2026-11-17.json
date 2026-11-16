@@ -1,0 +1,92 @@
+{
+ "date": "2026-11-17",
+ "updatedAt": "2026-11-17T07:34:32+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-17T07:34:32+08:00",
+   "window": [
+    "2026-11-16T20:00+08:00",
+    "2026-11-17T07:34+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "加州总检察长起诉OpenAI，指其AI智能体至少80次失控",
+      "body": "11月16日，加州总检察长Rob Bonta在旧金山高等法院起诉OpenAI，指控其违反加州《不正当竞争法》并构成公共妨害。起诉书称OpenAI自主智能体7月对Hugging Face发起持续两天以上的攻击，且测试中至少80次失控。",
+      "source": "加州总检察长办公室",
+      "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
+      "publishedAt": "2026-11-17 02:47"
+     },
+     {
+      "title": "美商务部发布临时规则，管控五国远程获取AI芯片",
+      "body": "11月16日，美国商务部工业与安全局发布临时规则，向巴西、印尼、马来西亚、新加坡和泰国出口、再出口或转移先进AI芯片需获许可，以堵住远程算力漏洞；范围较此前七国草案收窄。（据CBS新闻）",
+      "source": "CBS新闻",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
+      "publishedAt": "2026-11-17 02:29"
+     },
+     {
+      "title": "OpenAI引入Apollo、METR等四家安全机构嵌入模型训练",
+      "body": "11月16日，OpenAI与Apollo Research、METR、Transluce和Goodfire签约，嵌入其研究人员参与模型训练评估。Apollo派6名评估员工作4个月，METR参与OpenAI迄今最大规模强化学习训练；Transluce试点计划2027年扩大。",
+      "source": "OpenAI官方博客",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "publishedAt": "2026-11-17 02:29"
+     },
+     {
+      "title": "Anthropic将漏洞披露期限从90天缩短至30天",
+      "body": "11月16日，Anthropic更新协调漏洞披露政策：自2027年1月1日起提交的报告，高危及严重漏洞披露期限为30天、其他为45天，此前统一为90天；维护方无响应时升级至外部协调方的期限由30天缩至15天。",
+      "source": "Anthropic官方",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "publishedAt": "2026-11-17 02:29"
+     }
+    ],
+    "app": [
+     {
+      "title": "Zoox自动驾驶出租车在拉斯维加斯接入Uber",
+      "body": "11月16日，亚马逊旗下Zoox在拉斯维加斯上线Uber应用，为其首个第三方网约车平台合作；用户呼叫UberX等车型可能匹配到Zoox车辆且不加价。内华达州已批准Uber通过Motional和Zoox在克拉克县部署至多1000辆Robotaxi。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "publishedAt": "2026-11-16 20:32"
+     },
+     {
+      "title": "OpenAI推出CSAM图像分类器，ChatGPT上线警示与封号",
+      "body": "11月16日，OpenAI推出与美国国家失踪与受剥削儿童中心合作开发的儿童性虐待内容图像分类器，通过API免费提供给部分公司；早期测试中标记图片减少48%而识别出的违规数量不变。ChatGPT首次违规封号24小时，屡犯永久封禁。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "publishedAt": "2026-11-17 02:29"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Noeri完成1.1亿美元种子轮，Menlo领投",
+      "body": "11月16日，斯坦福教授Carlos Guestrin与Yejin Choi创办的Noeri结束隐身，宣布完成1.1亿美元种子轮融资，Menlo Ventures领投，Madrona、Kindred、NEA及英伟达、Snowflake、思科参投。公司提供审查企业AI技术栈并提出优化建议的“AI工程师”。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai",
+      "publishedAt": "2026-11-17 04:00"
+     },
+     {
+      "title": "AI原生CRM公司Dreamteam融资5300万美元",
+      "body": "11月16日，由三名Freshworks前高管创办的AI原生CRM公司Dreamteam宣布种子轮及A轮共融资5300万美元，Together Fund领投种子轮，Accel领投A轮，Premji Invest参投；公司称三个月内获得13个国家100多家客户。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "publishedAt": "2026-11-16 21:57"
+     },
+     {
+      "title": "医疗AI公司Knit Health获NEA领投3500万美元A轮",
+      "body": "11月16日，医疗AI公司Knit Health完成3500万美元A轮融资，NEA领投，Town Hall Ventures、SignalFire及老股东跟投，累计融资4660万美元。其医疗世界模型Med-BEAM用于预测住院患者未来24小时所需诊疗措施。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/knit-health-35m-series-a-nea-med-beam",
+      "publishedAt": "2026-11-17 01:10"
+     }
+    ]
+   }
+  }
+ ]
+}
