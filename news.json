@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updatedAt": "2026-11-16T07:37:55+08:00",
+ "updatedAt": "2026-11-16T19:34:34+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,65 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-16T19:34:34+08:00",
+   "window": [
+    "2026-11-16T08:00+08:00",
+    "2026-11-16T19:34+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "因算力不足，DeepSeek对App及网页版限额使用",
+      "body": "11月16日，据科创板日报，DeepSeek对App和网页版长对话实施限额，用户收到“算力不足，不再支持超过7天不活跃的长对话”提示；单次输入上限降至约4万字，并新增每日使用额度上限。",
+      "source": "科创板日报",
+      "url": "http://finance.sina.com.cn/roll/2026-11-16/doc-iniywwzi2531031.shtml",
+      "publishedAt": "2026-11-16"
+     },
+     {
+      "title": "OpenRouter周榜：前四名均为中国模型，腾讯混元Hy4进前二",
+      "body": "据OpenRouter数据，11月9日至15日全球AI大模型周调用量为211万亿Token，环比增长0.48%；中国模型调用量119.1万亿Token，连续29周超过美国模型。前五名中有四个中国模型，腾讯混元Hy4升至前二，MiniMax、Kimi跌出前十。",
+      "source": "每日经济新闻",
+      "url": "http://finance.sina.com.cn/roll/2026-11-16/doc-iniywwzi2489057.shtml",
+      "publishedAt": "2026-11-16"
+     }
+    ],
+    "app": [
+     {
+      "title": "Detectify推出Agentic Tooling，供AI智能体验证漏洞",
+      "body": "11月16日，瑞典应用安全公司Detectify发布Agentic Tooling，企业自有AI智能体可通过MCP或命令行在运行中的应用里测试疑似漏洞能否被利用，并由Security Ledger记录每次测试；产品即日起按需开放。",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications/",
+      "publishedAt": "2026-11-16 16:00"
+     }
+    ],
+    "funding": [
+     {
+      "title": "AI虚拟细胞公司无界进化完成超亿元Pre-A轮融资",
+      "body": "11月16日，晶泰科技孵化的AI for Science公司无界进化完成超亿元Pre-A轮融资，星连资本、Prosperity7、华盖资本、华控基金、德同资本新进，顺为资本、红杉中国、松禾资本追投；资金将用于AI4S基础设施建设。",
+      "source": "投中网",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-16/doc-iniywwzi2462811.shtml",
+      "publishedAt": "2026-11-16 09:39"
+     },
+     {
+      "title": "港股大模型股大跌，MiniMax跌超18%、智谱跌超13%",
+      "body": "11月16日收盘，香港恒生指数收涨0.49%，恒生科技指数跌0.3%；港股大模型股大跌，其中MiniMax跌超18%，智谱跌超13%，两只个股跌幅均明显大于大盘。",
+      "source": "每日经济新闻",
+      "url": "http://finance.sina.com.cn/roll/2026-11-16/doc-iniyxirf6034752.shtml",
+      "publishedAt": "2026-11-16"
+     },
+     {
+      "title": "德国AI推理公司Daisytuner获600万欧元种子轮",
+      "body": "11月16日，德国AI推理初创公司Daisytuner完成600万欧元种子轮融资，由Elaia和LEA Ventures联合领投，Amadeus APEX Technology Fund和Seedcamp参投。公司称其推理引擎Daisyflow在AMD Instinct GPU上运行Qwen 2.5比vLLM最快快18%。",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/11/16/ai-inference-startup-daisyturner-raises-eur6m-seed",
+      "publishedAt": "2026-11-16 19:01"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
