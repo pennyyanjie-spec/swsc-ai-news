@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updatedAt": "2026-11-17T07:34:32+08:00",
+ "updatedAt": "2026-11-17T19:37:55+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,79 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-17T19:37:55+08:00",
+   "window": [
+    "2026-11-17T08:00+08:00",
+    "2026-11-17T19:37+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "谷歌Gemini模型进入主权云Google Cloud Dedicated",
+      "body": "11月17日，Google Cloud在布鲁塞尔主权AI峰会上宣布，Gemini模型进入由本地合作伙伴管理的Google Cloud Dedicated，此前该平台仅提供开源模型；Gemini至此覆盖其公有云、合作伙伴托管和可离线运行的三种主权云形态。",
+      "source": "Techzine",
+      "url": "https://techzine.eu/news/infrastructure/145864/google-brings-gemini-to-sovereign-google-cloud-dedicated",
+      "publishedAt": "2026-11-17 16:56"
+     },
+     {
+      "title": "欧洲云厂商OVH开源Olala mini 7A1B模型",
+      "body": "欧洲云服务企业OVH开源发布AI模型Olala mini 7A1B，可在8GB显存的GPU上运行，在RTX A4500显卡上词元吞吐量达160 TPS，仅用CPU平台也可达50 TPS。",
+      "source": "IT之家",
+      "url": "https://www.sina.cn/weibo/detail/5366305184284792.html",
+      "publishedAt": "2026-11-17 18:11"
+     }
+    ],
+    "app": [
+     {
+      "title": "星动纪元物流机器人落地广东八城邮区节点",
+      "body": "11月17日，星动纪元公布具身智能物流机器人“星动M7”应用进展：自今年3月在广州试点以来，已在广州、深圳、东莞等广东八个城市的十一个邮区节点上岗，由广东邮政、星动纪元、我能具身三方联合推动。",
+      "source": "中国经营网",
+      "url": "http://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzswf7646287.shtml",
+      "publishedAt": "2026-11-17"
+     },
+     {
+      "title": "雷军称小米人形机器人正在工厂试点",
+      "body": "11月17日，雷军表示小米人形机器人正在工厂试点，可工作8小时并自行充电；小米将实现可自我迭代、发现问题的无人工厂，并称智能机器人产业未来潜力将超过汽车产业。",
+      "source": "观点网",
+      "url": "http://finance.sina.com.cn/stock/estate/integration/2026-11-17/doc-iniyzsvz1762347.shtml",
+      "publishedAt": "2026-11-17"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Agile Robots完成5亿美元F轮，估值85亿美元",
+      "body": "11月17日，慕尼黑物理AI公司Agile Robots宣布完成5亿美元F轮融资，估值85亿美元，软银集团领投，英伟达、日立集团、T.Capital等参投，累计融资达20亿美元，资金将用于全球扩张和扩充产能。",
+      "source": "美通社",
+      "url": "https://www.manilatimes.net/2026/11/17/tmt-newswire/pr-newswire/physical-ai-leader-agile-robots-raises-500-million-series-f-at-85-billion-valuation-to-accelerate-global-growth/2471576",
+      "publishedAt": "2026-11-17 11:52"
+     },
+     {
+      "title": "蓝点触控完成数亿元D3轮，半年融资超10亿",
+      "body": "11月17日，机器人力传感器企业蓝点触控宣布完成数亿元人民币D3轮融资，洪泰基金、中关村科学城、弘毅投资、浙创投等14家机构联合投资，公司近半年融资额已超10亿元，资金将用于新品研发、产能扩充和全球化布局。",
+      "source": "新京报",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-17/doc-iniyzhhf1830310.shtml",
+      "publishedAt": "2026-11-17 11:54"
+     },
+     {
+      "title": "法国AI公司Remanence获3000万美元种子轮",
+      "body": "11月17日，巴黎AI初创公司Remanence完成3000万美元种子轮融资，EQT Ventures与FirstMark联合领投，Datadog CEO及Synthesia联合创始人等以天使身份参投；公司用强化学习在模拟企业环境中训练开源权重模型。",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/11/17/synthesia-and-datadog-ceos-back-french-ai-startup-remanence",
+      "publishedAt": "2026-11-17 19:15"
+     },
+     {
+      "title": "香港AI投研平台ARTi完成数百万美元Pre-A轮",
+      "body": "11月17日，香港AI投资研究平台ARTi完成数百万美元Pre-A轮融资，由C资本投资，投前估值3000万美元；产品今年7月上线，4个月积累约7万名用户，此前曾获德林控股战略投资。",
+      "source": "21世纪经济报道",
+      "url": "https://www.21jingji.com/article/20261117/herald/67b251f69488956afd812e0143607242.html",
+      "publishedAt": "2026-11-17 15:37"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
