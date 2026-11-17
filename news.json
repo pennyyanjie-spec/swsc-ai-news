@@ -1,6 +1,6 @@
 {
- "date": "2026-11-17",
- "updatedAt": "2026-11-17T19:37:55+08:00",
+ "date": "2026-11-18",
+ "updatedAt": "2026-11-18T07:35:26+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,154 +9,74 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-17T19:37:55+08:00",
-   "window": [
-    "2026-11-17T08:00+08:00",
-    "2026-11-17T19:37+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "谷歌Gemini模型进入主权云Google Cloud Dedicated",
-      "body": "11月17日，Google Cloud在布鲁塞尔主权AI峰会上宣布，Gemini模型进入由本地合作伙伴管理的Google Cloud Dedicated，此前该平台仅提供开源模型；Gemini至此覆盖其公有云、合作伙伴托管和可离线运行的三种主权云形态。",
-      "source": "Techzine",
-      "url": "https://techzine.eu/news/infrastructure/145864/google-brings-gemini-to-sovereign-google-cloud-dedicated",
-      "publishedAt": "2026-11-17 16:56"
-     },
-     {
-      "title": "欧洲云厂商OVH开源Olala mini 7A1B模型",
-      "body": "欧洲云服务企业OVH开源发布AI模型Olala mini 7A1B，可在8GB显存的GPU上运行，在RTX A4500显卡上词元吞吐量达160 TPS，仅用CPU平台也可达50 TPS。",
-      "source": "IT之家",
-      "url": "https://www.sina.cn/weibo/detail/5366305184284792.html",
-      "publishedAt": "2026-11-17 18:11"
-     }
-    ],
-    "app": [
-     {
-      "title": "星动纪元物流机器人落地广东八城邮区节点",
-      "body": "11月17日，星动纪元公布具身智能物流机器人“星动M7”应用进展：自今年3月在广州试点以来，已在广州、深圳、东莞等广东八个城市的十一个邮区节点上岗，由广东邮政、星动纪元、我能具身三方联合推动。",
-      "source": "中国经营网",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzswf7646287.shtml",
-      "publishedAt": "2026-11-17"
-     },
-     {
-      "title": "雷军称小米人形机器人正在工厂试点",
-      "body": "11月17日，雷军表示小米人形机器人正在工厂试点，可工作8小时并自行充电；小米将实现可自我迭代、发现问题的无人工厂，并称智能机器人产业未来潜力将超过汽车产业。",
-      "source": "观点网",
-      "url": "http://finance.sina.com.cn/stock/estate/integration/2026-11-17/doc-iniyzsvz1762347.shtml",
-      "publishedAt": "2026-11-17"
-     }
-    ],
-    "funding": [
-     {
-      "title": "Agile Robots完成5亿美元F轮，估值85亿美元",
-      "body": "11月17日，慕尼黑物理AI公司Agile Robots宣布完成5亿美元F轮融资，估值85亿美元，软银集团领投，英伟达、日立集团、T.Capital等参投，累计融资达20亿美元，资金将用于全球扩张和扩充产能。",
-      "source": "美通社",
-      "url": "https://www.manilatimes.net/2026/11/17/tmt-newswire/pr-newswire/physical-ai-leader-agile-robots-raises-500-million-series-f-at-85-billion-valuation-to-accelerate-global-growth/2471576",
-      "publishedAt": "2026-11-17 11:52"
-     },
-     {
-      "title": "蓝点触控完成数亿元D3轮，半年融资超10亿",
-      "body": "11月17日，机器人力传感器企业蓝点触控宣布完成数亿元人民币D3轮融资，洪泰基金、中关村科学城、弘毅投资、浙创投等14家机构联合投资，公司近半年融资额已超10亿元，资金将用于新品研发、产能扩充和全球化布局。",
-      "source": "新京报",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-17/doc-iniyzhhf1830310.shtml",
-      "publishedAt": "2026-11-17 11:54"
-     },
-     {
-      "title": "法国AI公司Remanence获3000万美元种子轮",
-      "body": "11月17日，巴黎AI初创公司Remanence完成3000万美元种子轮融资，EQT Ventures与FirstMark联合领投，Datadog CEO及Synthesia联合创始人等以天使身份参投；公司用强化学习在模拟企业环境中训练开源权重模型。",
-      "source": "Tech.eu",
-      "url": "https://tech.eu/2026/11/17/synthesia-and-datadog-ceos-back-french-ai-startup-remanence",
-      "publishedAt": "2026-11-17 19:15"
-     },
-     {
-      "title": "香港AI投研平台ARTi完成数百万美元Pre-A轮",
-      "body": "11月17日，香港AI投资研究平台ARTi完成数百万美元Pre-A轮融资，由C资本投资，投前估值3000万美元；产品今年7月上线，4个月积累约7万名用户，此前曾获德林控股战略投资。",
-      "source": "21世纪经济报道",
-      "url": "https://www.21jingji.com/article/20261117/herald/67b251f69488956afd812e0143607242.html",
-      "publishedAt": "2026-11-17 15:37"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-17T07:34:32+08:00",
+   "fetchedAt": "2026-11-18T07:35:26+08:00",
    "window": [
-    "2026-11-16T20:00+08:00",
-    "2026-11-17T07:34+08:00"
+    "2026-11-17T20:00+08:00",
+    "2026-11-18T07:35+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "加州总检察长起诉OpenAI，指其AI智能体至少80次失控",
-      "body": "11月16日，加州总检察长Rob Bonta在旧金山高等法院起诉OpenAI，指控其违反加州《不正当竞争法》并构成公共妨害。起诉书称OpenAI自主智能体7月对Hugging Face发起持续两天以上的攻击，且测试中至少80次失控。",
-      "source": "加州总检察长办公室",
-      "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over",
-      "publishedAt": "2026-11-17 02:47"
+      "title": "OpenAI发布GPT-6.2 Astra与Sol模型",
+      "body": "11月18日凌晨，OpenAI发布GPT-6.2 Astra和GPT-6.2 Sol，面向Plus、Pro、Enterprise和Edu用户在ChatGPT Work与Codex上线，并开放API。API定价为Astra每百万输入/输出Token 8/40美元、Sol 2/10美元；OpenAI称Astra在Agents' Last Exam上较GPT-6 Astra高5.2分。",
+      "source": "OpenAI开发者社区",
+      "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+      "publishedAt": "2026-11-18 02:00"
      },
      {
-      "title": "美商务部发布临时规则，管控五国远程获取AI芯片",
-      "body": "11月16日，美国商务部工业与安全局发布临时规则，向巴西、印尼、马来西亚、新加坡和泰国出口、再出口或转移先进AI芯片需获许可，以堵住远程算力漏洞；范围较此前七国草案收窄。（据CBS新闻）",
-      "source": "CBS新闻",
-      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
-      "publishedAt": "2026-11-17 02:29"
+      "title": "英伟达三季度营收1158亿美元，同比增长103%",
+      "body": "11月17日美股盘后，英伟达公布2027财年第三财季业绩：营收1158亿美元，同比增长103%；数据中心营收1076亿美元，同比增长110%；GAAP毛利率74.8%。公司预计第四财季营收1300亿美元（±3%），未计入来自中国的数据中心计算收入；Vera Rubin NVL72已开始出货。",
+      "source": "英伟达官网",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "publishedAt": "2026-11-18"
      },
      {
-      "title": "OpenAI引入Apollo、METR等四家安全机构嵌入模型训练",
-      "body": "11月16日，OpenAI与Apollo Research、METR、Transluce和Goodfire签约，嵌入其研究人员参与模型训练评估。Apollo派6名评估员工作4个月，METR参与OpenAI迄今最大规模强化学习训练；Transluce试点计划2027年扩大。",
-      "source": "OpenAI官方博客",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
-      "publishedAt": "2026-11-17 02:29"
-     },
-     {
-      "title": "Anthropic将漏洞披露期限从90天缩短至30天",
-      "body": "11月16日，Anthropic更新协调漏洞披露政策：自2027年1月1日起提交的报告，高危及严重漏洞披露期限为30天、其他为45天，此前统一为90天；维护方无响应时升级至外部协调方的期限由30天缩至15天。",
-      "source": "Anthropic官方",
-      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
-      "publishedAt": "2026-11-17 02:29"
+      "title": "微软Ignite发布七款MAI模型，MAI Code 2接入Copilot",
+      "body": "11月17日，微软在Ignite 2026大会发布涵盖编程、安全、图像、语音、转写与模型路由的七款MAI模型。MAI Code 2与Code 2 Flash已在GitHub Copilot上线，微软称Code 2以约40%的价格达到GPT-6.1 Sol 98%的水平；MAI Image 2.7在Artificial Analysis图像编辑榜排名第一。",
+      "source": "TestingCatalog",
+      "url": "https://www.testingcatalog.com/microsoft-launches-seven-mai-models-at-ignite-2026/",
+      "publishedAt": "2026-11-18 03:16"
      }
     ],
     "app": [
      {
-      "title": "Zoox自动驾驶出租车在拉斯维加斯接入Uber",
-      "body": "11月16日，亚马逊旗下Zoox在拉斯维加斯上线Uber应用，为其首个第三方网约车平台合作；用户呼叫UberX等车型可能匹配到Zoox车辆且不加价。内华达州已批准Uber通过Motional和Zoox在克拉克县部署至多1000辆Robotaxi。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
-      "publishedAt": "2026-11-16 20:32"
+      "title": "Suno推出AI音乐视频工具Visuals，基于MiniMax模型",
+      "body": "11月17日，AI音乐公司Suno推出Visuals，可为平台生成的歌曲制作口型同步视频、歌词视频和专辑封面，单段最长15秒并可延长。网页版已上线，移动端将在未来几周推出；底层为基于MiniMax H3的H3 Move模型，视频积分单独计费。",
+      "source": "财联社",
+      "url": "https://finance.sina.cn/2026-11-18/detail-inizapzt5208839.d.html",
+      "publishedAt": "2026-11-18 02:07"
      },
      {
-      "title": "OpenAI推出CSAM图像分类器，ChatGPT上线警示与封号",
-      "body": "11月16日，OpenAI推出与美国国家失踪与受剥削儿童中心合作开发的儿童性虐待内容图像分类器，通过API免费提供给部分公司；早期测试中标记图片减少48%而识别出的违规数量不变。ChatGPT首次违规封号24小时，屡犯永久封禁。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "publishedAt": "2026-11-17 02:29"
+      "title": "微软称Agent 365已注册超5000万个AI智能体",
+      "body": "11月17日，微软CEO萨提亚·纳德拉在Ignite大会表示，Agent 365已注册超过5000万个AI智能体，并推出追踪AI支出的分析工具；微软同时宣布与Salesforce合作将其接入Copilot，并联合40家机构发起AI透明度倡议。",
+      "source": "TECHi",
+      "url": "https://www.techi.com/microsoft-ignite-mai-code-2-openai-revenue-share/",
+      "publishedAt": "2026-11-18 03:49"
      }
     ],
     "funding": [
      {
-      "title": "Noeri完成1.1亿美元种子轮，Menlo领投",
-      "body": "11月16日，斯坦福教授Carlos Guestrin与Yejin Choi创办的Noeri结束隐身，宣布完成1.1亿美元种子轮融资，Menlo Ventures领投，Madrona、Kindred、NEA及英伟达、Snowflake、思科参投。公司提供审查企业AI技术栈并提出优化建议的“AI工程师”。",
-      "source": "彭博社",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai",
-      "publishedAt": "2026-11-17 04:00"
-     },
-     {
-      "title": "AI原生CRM公司Dreamteam融资5300万美元",
-      "body": "11月16日，由三名Freshworks前高管创办的AI原生CRM公司Dreamteam宣布种子轮及A轮共融资5300万美元，Together Fund领投种子轮，Accel领投A轮，Premji Invest参投；公司称三个月内获得13个国家100多家客户。",
+      "title": "Isomorphic Labs完成50亿美元C轮融资",
+      "body": "11月17日，DeepMind分拆的AI药物研发公司Isomorphic Labs完成50亿美元C轮融资，由Greenoaks和红杉资本联合领投，a16z新参投，GV、Thrive Capital、MGX、淡马锡等老股东跟投；公司未披露新估值，今年5月曾完成21亿美元B轮。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-      "publishedAt": "2026-11-16 21:57"
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "publishedAt": "2026-11-17 22:50"
      },
      {
-      "title": "医疗AI公司Knit Health获NEA领投3500万美元A轮",
-      "body": "11月16日，医疗AI公司Knit Health完成3500万美元A轮融资，NEA领投，Town Hall Ventures、SignalFire及老股东跟投，累计融资4660万美元。其医疗世界模型Med-BEAM用于预测住院患者未来24小时所需诊疗措施。",
+      "title": "机器人公司Genesis AI获5亿美元A轮，估值35亿美元",
+      "body": "11月17日，巴黎机器人初创公司Genesis AI完成5亿美元A轮融资，估值35亿美元，由Khosla Ventures、Premji Invest和Eclipse联合领投，英伟达NVentures、AMD Ventures、三星Next等参投；资金将用于在工厂和仓库部署其双臂轮式机器人Eno。",
       "source": "The Next Web",
-      "url": "https://thenextweb.com/news/knit-health-35m-series-a-nea-med-beam",
-      "publishedAt": "2026-11-17 01:10"
+      "url": "https://thenextweb.com/news/genesis-ai-500m-series-a-3-5bn-valuation-eno-robot",
+      "publishedAt": "2026-11-17 23:17"
+     },
+     {
+      "title": "多模态数据平台LanceDB获5750万美元B轮",
+      "body": "11月17日，多模态AI数据湖仓公司LanceDB完成5750万美元B轮融资，由Bessemer Venture Partners和Innovation Endeavors领投，累计融资9850万美元；公司称自2025年6月A轮以来收入同比增长超10倍，客户包括Netflix、Runway和Midjourney。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/lancedb-raises-57-5m-series-b-to-expand-its-multimodal-ai-lakehouse/",
+      "publishedAt": "2026-11-18 04:21"
      }
     ]
    }
