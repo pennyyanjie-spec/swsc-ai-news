@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updatedAt": "2026-11-18T07:35:26+08:00",
+ "updatedAt": "2026-11-18T19:44:20+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,43 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-18T19:44:20+08:00",
+   "window": [
+    "2026-11-18T08:00+08:00",
+    "2026-11-18T19:44+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "腾讯混元Hy4 flash首日Token调用量达50万亿",
+      "body": "11月18日，腾讯混元披露，11月16日上线的Hy4 flash首日Token使用量突破50万亿，创混元模型首日纪录，并登顶OpenRouter大模型日榜。该模型总参数224B、激活参数12B，支持1M上下文，输入每百万Tokens 0.5元、输出2元。",
+      "source": "央广网",
+      "url": "https://tech.cnr.cn/techgd/20261118/t20261118_527876778.shtml",
+      "publishedAt": "2026-11-18 17:12"
+     }
+    ],
+    "app": [
+     {
+      "title": "腾讯Q3营收2073亿元，WorkBuddy日活超千万",
+      "body": "11月18日，腾讯公布三季度业绩，营收2073.36亿元，同比增长8%；经营利润591.47亿元，同比下降7%；云服务收入同比增长35%。腾讯旗下AI智能体产品WorkBuddy日活跃用户超1000万，日均Token用量超100万亿。",
+      "source": "21世纪经济报道",
+      "url": "https://www.21jingji.com/article/20261118/herald/f9f6646e3f4166f0fb229c72f5140947.html",
+      "publishedAt": "2026-11-18 17:40"
+     },
+     {
+      "title": "Momenta与Uber在慕尼黑启动Robotaxi试运营",
+      "body": "11月18日，Uber与Momenta联合宣布在德国慕尼黑启动Robotaxi试运营，初期覆盖慕尼黑北部大部分区域及奥林匹克公园周边，乘客可通过Uber App报名，试运营期间免费且每趟配备安全员。Momenta已获德国全境L4级测试许可。",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/028/847.htm",
+      "publishedAt": "2026-11-18 15:51"
+     }
+    ],
+    "funding": []
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
