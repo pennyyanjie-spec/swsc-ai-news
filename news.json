@@ -1,6 +1,6 @@
 {
- "date": "2026-11-18",
- "updatedAt": "2026-11-18T19:44:20+08:00",
+ "date": "2026-11-19",
+ "updatedAt": "2026-11-19T07:35:41+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,111 +9,81 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-18T19:44:20+08:00",
-   "window": [
-    "2026-11-18T08:00+08:00",
-    "2026-11-18T19:44+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "腾讯混元Hy4 flash首日Token调用量达50万亿",
-      "body": "11月18日，腾讯混元披露，11月16日上线的Hy4 flash首日Token使用量突破50万亿，创混元模型首日纪录，并登顶OpenRouter大模型日榜。该模型总参数224B、激活参数12B，支持1M上下文，输入每百万Tokens 0.5元、输出2元。",
-      "source": "央广网",
-      "url": "https://tech.cnr.cn/techgd/20261118/t20261118_527876778.shtml",
-      "publishedAt": "2026-11-18 17:12"
-     }
-    ],
-    "app": [
-     {
-      "title": "腾讯Q3营收2073亿元，WorkBuddy日活超千万",
-      "body": "11月18日，腾讯公布三季度业绩，营收2073.36亿元，同比增长8%；经营利润591.47亿元，同比下降7%；云服务收入同比增长35%。腾讯旗下AI智能体产品WorkBuddy日活跃用户超1000万，日均Token用量超100万亿。",
-      "source": "21世纪经济报道",
-      "url": "https://www.21jingji.com/article/20261118/herald/f9f6646e3f4166f0fb229c72f5140947.html",
-      "publishedAt": "2026-11-18 17:40"
-     },
-     {
-      "title": "Momenta与Uber在慕尼黑启动Robotaxi试运营",
-      "body": "11月18日，Uber与Momenta联合宣布在德国慕尼黑启动Robotaxi试运营，初期覆盖慕尼黑北部大部分区域及奥林匹克公园周边，乘客可通过Uber App报名，试运营期间免费且每趟配备安全员。Momenta已获德国全境L4级测试许可。",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/028/847.htm",
-      "publishedAt": "2026-11-18 15:51"
-     }
-    ],
-    "funding": []
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-18T07:35:26+08:00",
+   "fetchedAt": "2026-11-19T07:35:41+08:00",
    "window": [
-    "2026-11-17T20:00+08:00",
-    "2026-11-18T07:35+08:00"
+    "2026-11-18T20:00+08:00",
+    "2026-11-19T07:35+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "OpenAI发布GPT-6.2 Astra与Sol模型",
-      "body": "11月18日凌晨，OpenAI发布GPT-6.2 Astra和GPT-6.2 Sol，面向Plus、Pro、Enterprise和Edu用户在ChatGPT Work与Codex上线，并开放API。API定价为Astra每百万输入/输出Token 8/40美元、Sol 2/10美元；OpenAI称Astra在Agents' Last Exam上较GPT-6 Astra高5.2分。",
-      "source": "OpenAI开发者社区",
-      "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
-      "publishedAt": "2026-11-18 02:00"
+      "title": "谷歌发布Gemini 4 Neon，定价每百万Token 3/15美元",
+      "body": "11月18日，谷歌推出Gemini 4 Neon，称其在编码、推理和智能体任务上与Carbon相当，但速度达Flash级、成本更低。API定价为每百万输入Token 3美元、输出15美元，已向Gemini应用AI Pro及Ultra订阅用户开放。（9to5Google）",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+      "publishedAt": "2026-11-19 05:34"
      },
      {
-      "title": "英伟达三季度营收1158亿美元，同比增长103%",
-      "body": "11月17日美股盘后，英伟达公布2027财年第三财季业绩：营收1158亿美元，同比增长103%；数据中心营收1076亿美元，同比增长110%；GAAP毛利率74.8%。公司预计第四财季营收1300亿美元（±3%），未计入来自中国的数据中心计算收入；Vera Rubin NVL72已开始出货。",
-      "source": "英伟达官网",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-      "publishedAt": "2026-11-18"
+      "title": "腾讯称算力受限，下一代混元推出或延迟",
+      "body": "11月18日晚腾讯三季度业绩会上，刘炽平表示无论租赁还是自建算力都面临约束，模型训练不可避免受到影响，短期内可能需要更长时间推出下一版本混元模型。三季度腾讯云增速由上季度21%加快至35%，模型即服务收入环比增长超3倍。（华尔街见闻）",
+      "source": "华尔街见闻",
+      "url": "https://www.163.com/dy/article/LC231T8405198NMR.html",
+      "publishedAt": "2026-11-18 21:48"
      },
      {
-      "title": "微软Ignite发布七款MAI模型，MAI Code 2接入Copilot",
-      "body": "11月17日，微软在Ignite 2026大会发布涵盖编程、安全、图像、语音、转写与模型路由的七款MAI模型。MAI Code 2与Code 2 Flash已在GitHub Copilot上线，微软称Code 2以约40%的价格达到GPT-6.1 Sol 98%的水平；MAI Image 2.7在Artificial Analysis图像编辑榜排名第一。",
-      "source": "TestingCatalog",
-      "url": "https://www.testingcatalog.com/microsoft-launches-seven-mai-models-at-ignite-2026/",
-      "publishedAt": "2026-11-18 03:16"
+      "title": "英伟达说明对新兴云厂商融资担保的生效条件",
+      "body": "11月18日，英伟达在CFO评论中说明，其贷款担保仅在客户已获得建设设施及安装英伟达产品所需融资后才生效。英伟达三季度净利润649亿美元，高于上季度的597亿美元。（TechCrunch）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "publishedAt": "2026-11-18 21:00"
      }
     ],
     "app": [
      {
-      "title": "Suno推出AI音乐视频工具Visuals，基于MiniMax模型",
-      "body": "11月17日，AI音乐公司Suno推出Visuals，可为平台生成的歌曲制作口型同步视频、歌词视频和专辑封面，单段最长15秒并可延长。网页版已上线，移动端将在未来几周推出；底层为基于MiniMax H3的H3 Move模型，视频积分单独计费。",
-      "source": "财联社",
-      "url": "https://finance.sina.cn/2026-11-18/detail-inizapzt5208839.d.html",
-      "publishedAt": "2026-11-18 02:07"
+      "title": "腾讯WorkBuddy近7天年化收入超5亿美元",
+      "body": "11月18日晚腾讯业绩会上，刘炽平表示WorkBuddy最近7天收入按年化折算已超5亿美元，达腾讯会议两倍以上；三季度收入为二季度的5倍以上，中国百强企业中已有60%成为其客户。截至11月初其日活突破1000万。（快科技）",
+      "source": "快科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizenst0946753.shtml",
+      "publishedAt": "2026-11-18 22:54"
      },
      {
-      "title": "微软称Agent 365已注册超5000万个AI智能体",
-      "body": "11月17日，微软CEO萨提亚·纳德拉在Ignite大会表示，Agent 365已注册超过5000万个AI智能体，并推出追踪AI支出的分析工具；微软同时宣布与Salesforce合作将其接入Copilot，并联合40家机构发起AI透明度倡议。",
-      "source": "TECHi",
-      "url": "https://www.techi.com/microsoft-ignite-mai-code-2-openai-revenue-share/",
-      "publishedAt": "2026-11-18 03:49"
+      "title": "豆包工作上线三个月日活破800万，企业ARR超20亿元",
+      "body": "11月18日，豆包官方宣布，8月25日上线的豆包工作日活跃用户突破800万，企业客户年度经常性收入（ARR）突破20亿元。11月16日其上线“工作台”，首批覆盖金融、医疗、教育、创意设计等21个专业场景，并接入Kimi、GLM、DeepSeek等第三方模型。（虎嗅）",
+      "source": "虎嗅",
+      "url": "https://m.huxiu.com/moment/1297965.html",
+      "publishedAt": "2026-11-18 20:49"
+     },
+     {
+      "title": "谷歌搜索AI Mode推出临时对话功能",
+      "body": "11月18日，谷歌为搜索AI Mode新增“临时对话”功能，相关对话不计入搜索历史、不用于后续推荐，也不受过往偏好影响。该功能正在全球桌面端和移动端、所有支持语言中推出。（TechCrunch）",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "publishedAt": "2026-11-19 02:04"
      }
     ],
     "funding": [
      {
-      "title": "Isomorphic Labs完成50亿美元C轮融资",
-      "body": "11月17日，DeepMind分拆的AI药物研发公司Isomorphic Labs完成50亿美元C轮融资，由Greenoaks和红杉资本联合领投，a16z新参投，GV、Thrive Capital、MGX、淡马锡等老股东跟投；公司未披露新估值，今年5月曾完成21亿美元B轮。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "publishedAt": "2026-11-17 22:50"
+      "title": "Anthropic IPO定价83美元，高于发行区间",
+      "body": "11月18日，据路透社、彭博社和CNBC援引知情人士报道，Anthropic将IPO定价为每股83美元，高于70至78美元的区间，预计周四在纳斯达克上市，代码ANT。按原计划股数计募资约685亿美元，另有260亿美元私募配售，合计超940亿美元。（The Motley Fool）",
+      "source": "The Motley Fool",
+      "url": "https://www.aol.com/articles/official-anthropic-prices-ipo-83-223702000.html",
+      "publishedAt": "2026-11-19 06:37"
      },
      {
-      "title": "机器人公司Genesis AI获5亿美元A轮，估值35亿美元",
-      "body": "11月17日，巴黎机器人初创公司Genesis AI完成5亿美元A轮融资，估值35亿美元，由Khosla Ventures、Premji Invest和Eclipse联合领投，英伟达NVentures、AMD Ventures、三星Next等参投；资金将用于在工厂和仓库部署其双臂轮式机器人Eno。",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/genesis-ai-500m-series-a-3-5bn-valuation-eno-robot",
-      "publishedAt": "2026-11-17 23:17"
+      "title": "物理AI公司BrightAI融资9700万美元",
+      "body": "11月18日，为水务、电力等基础设施提供AI传感器和机器人平台的BrightAI宣布融资9700万美元，由Smith Point Capital领投，客户GE Vernova参投，累计融资达1.84亿美元。其平台已部署于超5万个站点，将在欧洲和亚洲设立办公室。（TNW）",
+      "source": "TNW",
+      "url": "https://thenextweb.com/news/brightai-97m-physical-ai-infrastructure-ge-vernova",
+      "publishedAt": "2026-11-19 00:41"
      },
      {
-      "title": "多模态数据平台LanceDB获5750万美元B轮",
-      "body": "11月17日，多模态AI数据湖仓公司LanceDB完成5750万美元B轮融资，由Bessemer Venture Partners和Innovation Endeavors领投，累计融资9850万美元；公司称自2025年6月A轮以来收入同比增长超10倍，客户包括Netflix、Runway和Midjourney。",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/lancedb-raises-57-5m-series-b-to-expand-its-multimodal-ai-lakehouse/",
-      "publishedAt": "2026-11-18 04:21"
+      "title": "印度机器人数据公司Humyn Labs获4700万美元A轮",
+      "body": "11月18日，班加罗尔Humyn Labs宣布完成4700万美元A轮融资，其中2600万美元股权融资由Accel领投，Prosus Ventures等参投；2100万美元风险债由Lighthouse Canton领投。公司称运营六个月年化收入超5000万美元。（Business Standard）",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/ai-startup-humyn-labs-raises-47-million-in-series-a-funding-round-126111800765_1.html",
+      "publishedAt": "2026-11-18 20:00"
      }
     ]
    }
