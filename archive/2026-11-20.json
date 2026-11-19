@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-20",
+ "updatedAt": "2026-11-20T07:40:56+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-20T07:40:56+08:00",
+   "window": [
+    "2026-11-19T20:00+08:00",
+    "2026-11-20T07:40+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "阿里：千问已在平头哥芯片上训练下一代模型",
+      "body": "11月19日，阿里巴巴CEO吴泳铭在财报分析师电话会上表示，千问已在平头哥芯片上训练下一代模型，阿里云百炼已基于国产芯片提供模型推理服务；Qwen4-Max预览版已上线阿里Token Plan。",
+      "source": "IT之家",
+      "url": "https://finance.sina.cn/tech/2026-11-19/detail-inizhrsf0923108.d.html",
+      "publishedAt": "2026-11-19 20:58"
+     },
+     {
+      "title": "AMD遭Hunterbrook做空，股价收跌7.72%",
+      "body": "11月19日，Hunterbrook披露做空AMD，称被美国列入实体清单的IEIT Systems产品在制裁后仍出现新版AMD固件，并指AMD涉及超330亿美元与AI客户相关的租赁及贷款担保。AMD当日收跌7.72%，报489.19美元。",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/amd-stock-plunges-after-short-seller-report-alleges-that-the-chipmaker-has-its-own-china-problem",
+      "publishedAt": "2026-11-20 01:38"
+     }
+    ],
+    "app": [
+     {
+      "title": "谷歌Mac版Gemini上线电脑操控功能",
+      "body": "11月19日，谷歌在Mac版Gemini应用中推出computer use功能，可在独立后台窗口中跨本地文件、桌面应用和网页执行多步骤任务，关键操作需用户确认；首批面向美国AI Plus、Pro和Ultra付费订阅用户，需Apple Silicon芯片。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks",
+      "publishedAt": "2026-11-20 01:59"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Anthropic上市首日收涨17%，报97.17美元",
+      "body": "11月19日，Anthropic以代码ANT在纳斯达克挂牌交易，首笔成交价111.50美元，较83美元发行价高34.3%；盘中最低92.72美元，最终收于97.17美元，较发行价上涨17.1%，全天成交约8.32亿股。",
+      "source": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026",
+      "publishedAt": "2026-11-20 05:17"
+     },
+     {
+      "title": "据报英伟达接近以超5亿美元收购Inception",
+      "body": "据The Information 11月19日报道，英伟达接近以超过5亿美元的价格收购扩散式AI模型开发商Inception。目前英伟达与Inception双方均未对该交易作出确认。",
+      "source": "The Information",
+      "url": "https://www.newsquawk.com/headlines/nvidia-nvda-is-near-to-acquiring-diffusion-ai-developer-inception-for-over-usd-500mln-according-to-the-information",
+      "publishedAt": "2026-11-20 06:46"
+     }
+    ]
+   }
+  }
+ ]
+}
