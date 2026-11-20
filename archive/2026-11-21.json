@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-21",
+ "updatedAt": "2026-11-21T07:39:53+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-21T07:39:53+08:00",
+   "window": [
+    "2026-11-20T20:00+08:00",
+    "2026-11-21T07:39+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "美股AI交易遭抛售，英伟达收跌14%、费半跌10.73%",
+      "body": "11月20日美股收盘，纳指跌5.28%，标普500跌3.7%。英伟达跌14.01%报125.53美元，连续7个交易日下跌；费城半导体指数跌10.73%，30只成分股全线下跌，AMD跌13.25%、博通跌12.19%。Anthropic跌8.5%报88.91美元，逼近83美元发行价。",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-inizmwan6849343.shtml",
+      "publishedAt": "2026-11-21 06:45"
+     },
+     {
+      "title": "Anthropic数学家宣称借助Claude证明黎曼猜想",
+      "body": "当地时间11月20日，Anthropic数学家Levent Alpöge在个人网站发文称，他与Claude合作找到了黎曼猜想的证明，并以四页说明和Lean代码形式发布。该证明尚待独立验证，Anthropic未就此发表公开声明，克雷数学研究所仍将该问题列为未解决。",
+      "source": "国际财经时报",
+      "url": "https://www.ibtimes.com.au/anthropic-mathematician-claims-claude-proof-riemann-hypothesis-1879028",
+      "publishedAt": "2026-11-21 01:03"
+     }
+    ],
+    "app": [
+     {
+      "title": "OpenAI向Plus用户开放ChatGPT Space协作空间",
+      "body": "当地时间11月20日，OpenAI将ChatGPT Space扩展至每月20美元的Plus订阅用户。该功能9月开发者大会推出时仅面向Pro、Business和Enterprise用户，支持上传文档、表格、图片等内容并邀请他人协作，可与改版后的定时任务配合使用。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/",
+      "publishedAt": "2026-11-21 02:00"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Anthropic绿鞋全额行使，IPO募资总额达935亿美元",
+      "body": "11月20日，Anthropic IPO承销商全额行使超额配售权，以83美元发行价增购1.47亿股，新增约122亿美元，IPO募资总额达935亿美元。计入约260亿美元私募配售后，总募资约1195亿美元。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+      "publishedAt": "2026-11-20 21:28"
+     },
+     {
+      "title": "阿波罗与高盛为SpaceX完成440亿美元GPU融资定价",
+      "body": "当地时间11月20日，阿波罗与高盛为SpaceX完成约440亿美元优先及次级票据定价，用于采购英伟达新一代Vera Rubin芯片及设备，称为迄今最大规模GPU融资。交易获超额认购并扩大规模，贝莱德、高盛资管及KKR顾问账户为基石投资者，租赁将于2027年上半年GPU交付后开始。",
+      "source": "路透社",
+      "url": "https://www.investing.com/news/stock-market-news/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-5042346",
+      "publishedAt": "2026-11-21 01:45"
+     }
+    ]
+   }
+  }
+ ]
+}

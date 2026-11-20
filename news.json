@@ -1,6 +1,6 @@
 {
- "date": "2026-11-20",
- "updatedAt": "2026-11-20T19:37:54+08:00",
+ "date": "2026-11-21",
+ "updatedAt": "2026-11-21T07:39:53+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,133 +9,53 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-20T19:37:54+08:00",
-   "window": [
-    "2026-11-20T08:00+08:00",
-    "2026-11-20T19:37+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "软银股价盘中跌超15%，孙正义称后悔错过Anthropic",
-      "body": "11月20日，软银集团股价盘中一度跌超15%至3005日元，创4月初以来新低，今年AI投资热潮带来的涨幅几乎回吐。孙正义本周早些时候表示，因已对OpenAI作出大额承诺而放弃投资Anthropic，对此感到后悔。",
-      "source": "新浪财经",
-      "url": "http://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizkizh3977271.shtml",
-      "publishedAt": "2026-11-20"
-     },
-     {
-      "title": "港股科技股重挫，MiniMax跌超10%、智谱跌超7%",
-      "body": "11月20日，恒生指数收跌1.89%，恒生科技指数收跌3.78%。网易跌超17%，快手跌超11%，阿里巴巴逆势涨超3%；天数智芯跌超12%，华虹宏力跌超10%；大模型股MiniMax跌超10%，智谱跌超7%。",
-      "source": "每日经济新闻",
-      "url": "http://finance.sina.com.cn/roll/2026-11-20/doc-inizkqii0280377.shtml",
-      "publishedAt": "2026-11-20"
-     },
-     {
-      "title": "Mistral设新加坡亚太总部，2027年亚太员工将翻倍",
-      "body": "法国AI公司Mistral已在新加坡设立亚太区总部，计划到2027年将亚太地区员工人数增加一倍以上至200人，招聘方向涵盖科学、工程、AI应用及机器人等领域。",
-      "source": "新浪财经",
-      "url": "http://finance.sina.com.cn/7x24/2026-11-20/doc-inizixmn4074863.shtml",
-      "publishedAt": "2026-11-20"
-     },
-     {
-      "title": "天数智芯回应GPU供应链传闻：生产经营正常",
-      "body": "11月20日，针对国产GPU供应链相关传闻，天数智芯回应称公司生产经营正常，各项业务均按照既定计划有序开展，并与多家国内半导体供应链伙伴保持紧密合作。",
-      "source": "新浪财经",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-20/doc-inizkizc5581601.shtml",
-      "publishedAt": "2026-11-20"
-     },
-     {
-      "title": "Anthropic澳洲数据中心项目遭居民强烈反对",
-      "body": "11月20日披露的项目申请文件显示，以Anthropic为主要租户、位于布里斯班以西约250公里的“西唐斯数字园区”数据中心遭遇强烈反对：近600份公众意见中仅2份支持、1份中立，595份反对或要求暂缓。开发商为Zerra DC。",
-      "source": "观察者网",
-      "url": "http://k.sina.com.cn/article_1887344341_707e96d502001y9jq.html",
-      "publishedAt": "2026-11-20"
-     }
-    ],
-    "app": [
-     {
-      "title": "据报Meta AI设备Muse Charm定价约300美元",
-      "body": "据The Information 11月20日报道，Meta新款AI硬件Muse Charm售价约300美元，并附赠最长12个月的Verizon 5G流量。该设备由扎克伯格在9月Meta Connect大会上首次展示，计划于12月假日季推出。",
-      "source": "IT之家",
-      "url": "http://finance.sina.com.cn/stock/t/2026-11-20/doc-inizitct0527571.shtml",
-      "publishedAt": "2026-11-20"
-     },
-     {
-      "title": "李书福：吉利筹办芯位大学，学生接受智能体训练",
-      "body": "11月20日，吉利控股集团董事长李书福在2026芯位教育论坛上表示，多数传统大学的人才培养体系已不适应AI时代，吉利正筹办芯位大学，学生将接受专业智能体的学习训练。",
-      "source": "新浪财经",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-20/doc-inizkizc5621147.shtml",
-      "publishedAt": "2026-11-20"
-     }
-    ],
-    "funding": [
-     {
-      "title": "DeepSeek第二轮融资落定，9家券商出资约95亿元",
-      "body": "据中国基金报统计，DeepSeek第二轮融资已落定，至少9家券商通过直投子公司或产业基金参与，合计出资约95亿元；其中中信证券单家出资逾80亿元，占券商系出资总额八成以上。",
-      "source": "中国基金报",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-20/doc-inizkizm0380072.shtml",
-      "publishedAt": "2026-11-20"
-     },
-     {
-      "title": "据报林俊旸创办的语用科技估值达50亿美元",
-      "body": "据彭博社援引知情人士报道，前阿里技术专家林俊旸今年夏天创办的AI公司语用科技完成新一轮数千万美元融资，估值达50亿美元，新投资方包括华业天成资本、鼎晖投资和吉利汽车。该公司8月首轮融资估值为20亿美元。",
-      "source": "IT之家",
-      "url": "https://tech.ifeng.com/c/8yD8NZ195L6",
-      "publishedAt": "2026-11-20 18:07"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-20T07:40:56+08:00",
+   "fetchedAt": "2026-11-21T07:39:53+08:00",
    "window": [
-    "2026-11-19T20:00+08:00",
-    "2026-11-20T07:40+08:00"
+    "2026-11-20T20:00+08:00",
+    "2026-11-21T07:39+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "阿里：千问已在平头哥芯片上训练下一代模型",
-      "body": "11月19日，阿里巴巴CEO吴泳铭在财报分析师电话会上表示，千问已在平头哥芯片上训练下一代模型，阿里云百炼已基于国产芯片提供模型推理服务；Qwen4-Max预览版已上线阿里Token Plan。",
-      "source": "IT之家",
-      "url": "https://finance.sina.cn/tech/2026-11-19/detail-inizhrsf0923108.d.html",
-      "publishedAt": "2026-11-19 20:58"
+      "title": "美股AI交易遭抛售，英伟达收跌14%、费半跌10.73%",
+      "body": "11月20日美股收盘，纳指跌5.28%，标普500跌3.7%。英伟达跌14.01%报125.53美元，连续7个交易日下跌；费城半导体指数跌10.73%，30只成分股全线下跌，AMD跌13.25%、博通跌12.19%。Anthropic跌8.5%报88.91美元，逼近83美元发行价。",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-inizmwan6849343.shtml",
+      "publishedAt": "2026-11-21 06:45"
      },
      {
-      "title": "AMD遭Hunterbrook做空，股价收跌7.72%",
-      "body": "11月19日，Hunterbrook披露做空AMD，称被美国列入实体清单的IEIT Systems产品在制裁后仍出现新版AMD固件，并指AMD涉及超330亿美元与AI客户相关的租赁及贷款担保。AMD当日收跌7.72%，报489.19美元。",
-      "source": "TipRanks",
-      "url": "https://www.tipranks.com/news/amd-stock-plunges-after-short-seller-report-alleges-that-the-chipmaker-has-its-own-china-problem",
-      "publishedAt": "2026-11-20 01:38"
+      "title": "Anthropic数学家宣称借助Claude证明黎曼猜想",
+      "body": "当地时间11月20日，Anthropic数学家Levent Alpöge在个人网站发文称，他与Claude合作找到了黎曼猜想的证明，并以四页说明和Lean代码形式发布。该证明尚待独立验证，Anthropic未就此发表公开声明，克雷数学研究所仍将该问题列为未解决。",
+      "source": "国际财经时报",
+      "url": "https://www.ibtimes.com.au/anthropic-mathematician-claims-claude-proof-riemann-hypothesis-1879028",
+      "publishedAt": "2026-11-21 01:03"
      }
     ],
     "app": [
      {
-      "title": "谷歌Mac版Gemini上线电脑操控功能",
-      "body": "11月19日，谷歌在Mac版Gemini应用中推出computer use功能，可在独立后台窗口中跨本地文件、桌面应用和网页执行多步骤任务，关键操作需用户确认；首批面向美国AI Plus、Pro和Ultra付费订阅用户，需Apple Silicon芯片。",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks",
-      "publishedAt": "2026-11-20 01:59"
+      "title": "OpenAI向Plus用户开放ChatGPT Space协作空间",
+      "body": "当地时间11月20日，OpenAI将ChatGPT Space扩展至每月20美元的Plus订阅用户。该功能9月开发者大会推出时仅面向Pro、Business和Enterprise用户，支持上传文档、表格、图片等内容并邀请他人协作，可与改版后的定时任务配合使用。",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/",
+      "publishedAt": "2026-11-21 02:00"
      }
     ],
     "funding": [
      {
-      "title": "Anthropic上市首日收涨17%，报97.17美元",
-      "body": "11月19日，Anthropic以代码ANT在纳斯达克挂牌交易，首笔成交价111.50美元，较83美元发行价高34.3%；盘中最低92.72美元，最终收于97.17美元，较发行价上涨17.1%，全天成交约8.32亿股。",
-      "source": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026",
-      "publishedAt": "2026-11-20 05:17"
+      "title": "Anthropic绿鞋全额行使，IPO募资总额达935亿美元",
+      "body": "11月20日，Anthropic IPO承销商全额行使超额配售权，以83美元发行价增购1.47亿股，新增约122亿美元，IPO募资总额达935亿美元。计入约260亿美元私募配售后，总募资约1195亿美元。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+      "publishedAt": "2026-11-20 21:28"
      },
      {
-      "title": "据报英伟达接近以超5亿美元收购Inception",
-      "body": "据The Information 11月19日报道，英伟达接近以超过5亿美元的价格收购扩散式AI模型开发商Inception。目前英伟达与Inception双方均未对该交易作出确认。",
-      "source": "The Information",
-      "url": "https://www.newsquawk.com/headlines/nvidia-nvda-is-near-to-acquiring-diffusion-ai-developer-inception-for-over-usd-500mln-according-to-the-information",
-      "publishedAt": "2026-11-20 06:46"
+      "title": "阿波罗与高盛为SpaceX完成440亿美元GPU融资定价",
+      "body": "当地时间11月20日，阿波罗与高盛为SpaceX完成约440亿美元优先及次级票据定价，用于采购英伟达新一代Vera Rubin芯片及设备，称为迄今最大规模GPU融资。交易获超额认购并扩大规模，贝莱德、高盛资管及KKR顾问账户为基石投资者，租赁将于2027年上半年GPU交付后开始。",
+      "source": "路透社",
+      "url": "https://www.investing.com/news/stock-market-news/apollo-goldman-lead-44-billion-spacex-gpu-debt-financing-5042346",
+      "publishedAt": "2026-11-21 01:45"
      }
     ]
    }
