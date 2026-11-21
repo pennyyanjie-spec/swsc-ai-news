@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updatedAt": "2026-11-21T07:39:53+08:00",
+ "updatedAt": "2026-11-21T19:35:45+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,79 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-21T19:35:45+08:00",
+   "window": [
+    "2026-11-21T08:00+08:00",
+    "2026-11-21T19:35+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "工信部：国产开源大模型全球累计下载量破100亿次",
+      "body": "11月21日，人民日报报道，据工业和信息化部数据，我国人工智能开源大模型全球累计下载量突破100亿次；OpenRouter数据显示，11月9日至15日中国模型周调用量119.1万亿词元，连续29周居全球首位，国内日均Token调用量超500万亿。",
+      "source": "人民日报",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735639.shtml",
+      "publishedAt": "2026-11-21 09:26"
+     },
+     {
+      "title": "甲骨文称已筹足履行OpenAI合同所需全部资金",
+      "body": "11月21日，甲骨文称已筹集履行与OpenAI基础设施合同所需的全部资金，本月早些时候完成最后一轮融资，预计2029财年自由现金流超300亿美元；阿比林园区接近完工，下一座吉瓦级园区Shackelford已获全部许可，英伟达Vera Rubin机架预计未来几周交付。",
+      "source": "财联社",
+      "url": "http://finance.sina.com.cn/roll/2026-11-21/doc-iniznaki5110461.shtml",
+      "publishedAt": "2026-11-21 10:27"
+     },
+     {
+      "title": "腾讯混元团队AMA：下一代模型将扩容，Hy4-mini在规划中",
+      "body": "11月21日凌晨，腾讯首席AI科学家、混元负责人姚顺雨与混元团队研究员在Reddit进行AMA，两小时内收到300多条留言；团队透露下一代模型将大幅扩容，更小尺寸的Hy4-mini已在路线图上，并考虑推出更小的图像模型。",
+      "source": "新浪科技",
+      "url": "http://finance.sina.com.cn/stock/2026-11-21/doc-iniznhsk3523790.shtml",
+      "publishedAt": "2026-11-21"
+     },
+     {
+      "title": "蔚来官宣11月25日发布NWM 3.0世界模型",
+      "body": "11月21日，蔚来宣布将于11月25日举行的NIO IN 2026蔚来创新科技日上发布世界模型NWM 3.0，展示其智能辅助驾驶团队在模型架构、闭环训练、跨域融合等方面的成果。",
+      "source": "快科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-21/doc-iniznxqa3365416.shtml",
+      "publishedAt": "2026-11-21 17:59"
+     }
+    ],
+    "app": [
+     {
+      "title": "南水北调集团发布“天河”大模型V2",
+      "body": "据央视新闻，11月21日南水北调集团发布“天河”大模型V2，接入遥感卫星27颗、气象雷达237部，防汛形势分析由小时级压缩至分钟级；水质领域整编入库5000万条监测数据，可模拟污染物、藻类迁移扩散并生成闸门调度建议。",
+      "source": "央视新闻",
+      "url": "http://news.sina.com.cn/o/2026-11-21/doc-inizntha6664621.shtml",
+      "publishedAt": "2026-11-21"
+     },
+     {
+      "title": "人力资源服务方向国家人工智能应用中试基地在渝揭牌",
+      "body": "11月21日，在重庆国际人才交流大会开幕式上，国家人工智能应用中试基地（人力资源服务方向）揭牌，规划建设1套算力底座、1个行业大模型、27个高质量数据集和1套运营服务体系。",
+      "source": "中新社",
+      "url": "http://finance.sina.com.cn/roll/2026-11-21/doc-inizntfz4927139.shtml",
+      "publishedAt": "2026-11-21"
+     },
+     {
+      "title": "智元与蓝思科技合作，精灵G2机器人进入手机测试产线",
+      "body": "11月21日，智元创新（AGIBOT）与蓝思科技达成战略合作，在蓝思科技手机测试产线部署数十台精灵G2机器人，用于测试工位的自动上下料。",
+      "source": "IT之家",
+      "url": "http://finance.sina.com.cn/stock/t/2026-11-21/doc-iniznthe3404248.shtml",
+      "publishedAt": "2026-11-21"
+     }
+    ],
+    "funding": [
+     {
+      "title": "彭博：Cognition以750亿美元估值洽谈新融资",
+      "body": "据彭博社11月21日援引知情人士报道，AI编程公司Cognition正以750亿美元估值洽谈新一轮融资，考虑筹集20亿美元或更多，距其上一轮融资宣布仅两个月。",
+      "source": "彭博社",
+      "url": "http://finance.sina.com.cn/roll/2026-11-21/doc-iniznhsh6799342.shtml",
+      "publishedAt": "2026-11-21"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
