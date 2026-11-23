@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-24",
+ "updatedAt": "2026-11-24T07:35:16+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-24T07:35:16+08:00",
+   "window": [
+    "2026-11-23T20:00+08:00",
+    "2026-11-24T07:35+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "英伟达董事会恢复黄仁勋CEO职务",
+      "body": "11月23日，英伟达董事会宣布一致投票恢复黄仁勋总裁兼首席执行官职务，距其辞职不到两周。董事会称已征询美国政府高层意见，认定其复职不构成国家安全风险；临时CEO Colette Kress继续担任CFO。英伟达股价盘前一度上涨27%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "publishedAt": "2026-11-23 22:21"
+     }
+    ],
+    "app": [
+     {
+      "title": "Anthropic推出Claude Ship，智能体审查并批准代码",
+      "body": "11月23日，Anthropic发布Claude Ship，一组用于代码审查、修复和批准常规代码变更的AI智能体，包括已正式可用的Code Review及处于测试阶段的PR Steward和Claude Approvals。团队可用自然语言编写批准策略，产品正向GitHub上的Claude Team和Enterprise用户推出。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "publishedAt": "2026-11-24 06:05"
+     },
+     {
+      "title": "思科与OpenAI推出开源项目Shirudo保障智能体AI安全",
+      "body": "11月23日，思科与OpenAI联合推出开源项目Shirudo，基于eBPF技术，可在补丁发布前为运行中的Linux系统提供防护且无需重启，防护规则经加密签名。项目已在GitHub上线，思科将于12月15日举办技术网络研讨会。",
+      "source": "思科官方新闻稿",
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html",
+      "publishedAt": "2026-11-24 05:20"
+     }
+    ],
+    "funding": [
+     {
+      "title": "Sierra完成17.5亿美元F轮融资，估值达300亿美元",
+      "body": "11月23日，Bret Taylor联合创立的企业客服AI公司Sierra宣布完成17.5亿美元F轮融资，估值300亿美元，由Greenoaks和Lightspeed领投，Benchmark、Sequoia、GV、Tiger Global跟投。公司年化经常性收入10月突破4亿美元，第三季度新增超1.5亿美元。",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/175052-sierra-raises-1-75b-doubling-valuation-to-30b-in-six-months/",
+      "publishedAt": "2026-11-23 23:12"
+     },
+     {
+      "title": "亚马逊收购Decart优化技术及团队，据报约75亿美元",
+      "body": "11月23日，亚马逊宣布签署协议，收购Decart优化软件栈DOS背后的技术并吸纳其创始团队及研究人员，该技术可帮助AI模型在英伟达、亚马逊和谷歌硬件上高效运行。据彭博社报道交易金额约75亿美元，亚马逊正准备对外销售Trainium芯片。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "publishedAt": "2026-11-24 01:14"
+     },
+     {
+      "title": "AI推理算力公司Marlowe完成2.77亿美元种子轮融资",
+      "body": "11月23日，为推理负载建设多芯片“AI工厂”的初创公司Marlowe宣布完成2.77亿美元种子轮融资，Accel、Bessemer、Altimeter、Atreides、Eclipse等参投。公司首个站点预计2026年12月投用，AMD计划于2027年与其合作部署Helios。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/marlowe-raises-277m-seed-to-build-multi-silicon-ai-factories/",
+      "publishedAt": "2026-11-23 20:52"
+     },
+     {
+      "title": "知乎参投基金间接持有DeepSeek低个位数股权",
+      "body": "11月23日，知乎在港交所公告称，其认购合伙权益的天津砺思星深股权投资合伙企业已间接投资DeepSeek，持有DeepSeek低个位数百分比股权；知乎在该基金中的合伙权益低于30%。",
+      "source": "财联社",
+      "url": "https://finance.sina.cn/2026-11-23/detail-iniztsaa0541428.d.html",
+      "publishedAt": "2026-11-23 20:04"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
- "date": "2026-11-23",
- "updatedAt": "2026-11-23T19:33:46+08:00",
+ "date": "2026-11-24",
+ "updatedAt": "2026-11-24T07:35:16+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,74 +9,67 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-23T19:33:46+08:00",
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-24T07:35:16+08:00",
    "window": [
-    "2026-11-23T08:00+08:00",
-    "2026-11-23T19:33+08:00"
+    "2026-11-23T20:00+08:00",
+    "2026-11-24T07:35+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "智谱发布GLM-5.4，支持原生多模态与百万上下文",
-      "body": "11月23日，智谱发布新一代模型GLM-5.4，称其为最强开源模型，支持原生多模态和100万上下文，已上线GLM Coding Plan，额度较GLM-5.3提升50%。",
-      "source": "快科技",
-      "url": "http://finance.sina.com.cn/tech/roll/2026-11-23/doc-iniztfna2279225.shtml",
-      "publishedAt": "2026-11-23"
-     },
-     {
-      "title": "蚂蚁发布并开源百灵医疗健康大模型家族",
-      "body": "11月23日，蚂蚁集团在蚂蚁阿福健康大会上发布百灵医疗健康大模型家族，覆盖医学推理、多模态、风险预测、安全及实时智能体等方向并宣布开源，同时升级蚂蚁阿福App。",
-      "source": "环球网",
-      "url": "http://finance.sina.com.cn/roll/2026-11-23/doc-inizszeh8360416.shtml",
-      "publishedAt": "2026-11-23"
-     },
-     {
-      "title": "自变量机器人发布具身基础模型WALL-OSS-1.0",
-      "body": "11月23日，自变量机器人发布具身基础模型WALL-OSS-1.0，将动作数据前移至预训练阶段，与语言、视觉数据共同训练；公司称训练数据包括数十万小时操作轨迹和上千万条操作记录。",
-      "source": "新京报贝壳财经",
-      "url": "http://news.sina.com.cn/o/2026-11-23/doc-inizszea5537177.shtml",
-      "publishedAt": "2026-11-23"
-     },
-     {
-      "title": "大晓机器人发布具身通用模型ACE-Brain-0.7",
-      "body": "11月23日，大晓机器人发布具身通用模型ACE-Brain-0.7，引入基于真实执行状态的具身推理能力，面向酒店服务、即时零售等场景。",
-      "source": "新京报贝壳财经",
-      "url": "http://news.sina.com.cn/o/2026-11-23/doc-iniztfna2234676.shtml",
-      "publishedAt": "2026-11-23"
+      "title": "英伟达董事会恢复黄仁勋CEO职务",
+      "body": "11月23日，英伟达董事会宣布一致投票恢复黄仁勋总裁兼首席执行官职务，距其辞职不到两周。董事会称已征询美国政府高层意见，认定其复职不构成国家安全风险；临时CEO Colette Kress继续担任CFO。英伟达股价盘前一度上涨27%。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "publishedAt": "2026-11-23 22:21"
      }
     ],
     "app": [
      {
-      "title": "智元精灵G2在长电科技临港工厂并线试运行",
-      "body": "据报道，智元机器人精灵G2已在长电科技上海临港汽车电子工厂并线试运行，可在无人工干预下完成芯片测试料盘的上下料及良品与不良品分拣，双方计划向更多工序推广。",
-      "source": "每日经济新闻",
-      "url": "http://finance.sina.com.cn/roll/2026-11-23/doc-inizsuwn0747813.shtml",
-      "publishedAt": "2026-11-23"
+      "title": "Anthropic推出Claude Ship，智能体审查并批准代码",
+      "body": "11月23日，Anthropic发布Claude Ship，一组用于代码审查、修复和批准常规代码变更的AI智能体，包括已正式可用的Code Review及处于测试阶段的PR Steward和Claude Approvals。团队可用自然语言编写批准策略，产品正向GitHub上的Claude Team和Enterprise用户推出。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "publishedAt": "2026-11-24 06:05"
      },
      {
-      "title": "人民投诉发布双11维权数据，AI导购承诺遭拒兑",
-      "body": "11月23日，人民网“人民投诉”平台发布2026年双11消费维权数据，涉及AI导购承诺优惠后商家拒绝兑现的投诉，部分商家称AI回复不算官方承诺；AI客服无法解决问题也是投诉焦点。",
-      "source": "人民网",
-      "url": "http://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztfnh0619078.shtml",
-      "publishedAt": "2026-11-23"
+      "title": "思科与OpenAI推出开源项目Shirudo保障智能体AI安全",
+      "body": "11月23日，思科与OpenAI联合推出开源项目Shirudo，基于eBPF技术，可在补丁发布前为运行中的Linux系统提供防护且无需重启，防护规则经加密签名。项目已在GitHub上线，思科将于12月15日举办技术网络研讨会。",
+      "source": "思科官方新闻稿",
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html",
+      "publishedAt": "2026-11-24 05:20"
      }
     ],
     "funding": [
      {
-      "title": "英国防务AI公司Agon完成7000万美元A轮融资",
-      "body": "11月23日，伦敦防务AI初创公司Agon完成7000万美元A轮融资，估值4.5亿美元，前红杉资本掌门人Roelof Botha等参与。Agon成立于2026年1月，此前获3000万美元种子轮融资，提供无人机、海军及地面机器人行为模拟平台。",
-      "source": "彭博社",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
-      "publishedAt": "2026-11-23"
+      "title": "Sierra完成17.5亿美元F轮融资，估值达300亿美元",
+      "body": "11月23日，Bret Taylor联合创立的企业客服AI公司Sierra宣布完成17.5亿美元F轮融资，估值300亿美元，由Greenoaks和Lightspeed领投，Benchmark、Sequoia、GV、Tiger Global跟投。公司年化经常性收入10月突破4亿美元，第三季度新增超1.5亿美元。",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/175052-sierra-raises-1-75b-doubling-valuation-to-30b-in-six-months/",
+      "publishedAt": "2026-11-23 23:12"
      },
      {
-      "title": "工业具身智能公司微亿智造启动港股招股",
-      "body": "微亿智造（03275）11月23日至12月1日招股，拟发行3727.58万股，招股价12.07至15.69港元，预计12月4日在港交所上市。公司主营工业具身智能机器人。",
-      "source": "新浪财经",
-      "url": "http://finance.sina.com.cn/stock/hkstock/ggipo/2026-11-23/doc-inizskhn2380705.shtml",
-      "publishedAt": "2026-11-23"
+      "title": "亚马逊收购Decart优化技术及团队，据报约75亿美元",
+      "body": "11月23日，亚马逊宣布签署协议，收购Decart优化软件栈DOS背后的技术并吸纳其创始团队及研究人员，该技术可帮助AI模型在英伟达、亚马逊和谷歌硬件上高效运行。据彭博社报道交易金额约75亿美元，亚马逊正准备对外销售Trainium芯片。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "publishedAt": "2026-11-24 01:14"
+     },
+     {
+      "title": "AI推理算力公司Marlowe完成2.77亿美元种子轮融资",
+      "body": "11月23日，为推理负载建设多芯片“AI工厂”的初创公司Marlowe宣布完成2.77亿美元种子轮融资，Accel、Bessemer、Altimeter、Atreides、Eclipse等参投。公司首个站点预计2026年12月投用，AMD计划于2027年与其合作部署Helios。",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/marlowe-raises-277m-seed-to-build-multi-silicon-ai-factories/",
+      "publishedAt": "2026-11-23 20:52"
+     },
+     {
+      "title": "知乎参投基金间接持有DeepSeek低个位数股权",
+      "body": "11月23日，知乎在港交所公告称，其认购合伙权益的天津砺思星深股权投资合伙企业已间接投资DeepSeek，持有DeepSeek低个位数百分比股权；知乎在该基金中的合伙权益低于30%。",
+      "source": "财联社",
+      "url": "https://finance.sina.cn/2026-11-23/detail-iniztsaa0541428.d.html",
+      "publishedAt": "2026-11-23 20:04"
      }
     ]
    }
