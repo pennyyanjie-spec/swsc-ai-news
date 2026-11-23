@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-23",
+ "updatedAt": "2026-11-23T19:33:46+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-23T19:33:46+08:00",
+   "window": [
+    "2026-11-23T08:00+08:00",
+    "2026-11-23T19:33+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "智谱发布GLM-5.4，支持原生多模态与百万上下文",
+      "body": "11月23日，智谱发布新一代模型GLM-5.4，称其为最强开源模型，支持原生多模态和100万上下文，已上线GLM Coding Plan，额度较GLM-5.3提升50%。",
+      "source": "快科技",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-11-23/doc-iniztfna2279225.shtml",
+      "publishedAt": "2026-11-23"
+     },
+     {
+      "title": "蚂蚁发布并开源百灵医疗健康大模型家族",
+      "body": "11月23日，蚂蚁集团在蚂蚁阿福健康大会上发布百灵医疗健康大模型家族，覆盖医学推理、多模态、风险预测、安全及实时智能体等方向并宣布开源，同时升级蚂蚁阿福App。",
+      "source": "环球网",
+      "url": "http://finance.sina.com.cn/roll/2026-11-23/doc-inizszeh8360416.shtml",
+      "publishedAt": "2026-11-23"
+     },
+     {
+      "title": "自变量机器人发布具身基础模型WALL-OSS-1.0",
+      "body": "11月23日，自变量机器人发布具身基础模型WALL-OSS-1.0，将动作数据前移至预训练阶段，与语言、视觉数据共同训练；公司称训练数据包括数十万小时操作轨迹和上千万条操作记录。",
+      "source": "新京报贝壳财经",
+      "url": "http://news.sina.com.cn/o/2026-11-23/doc-inizszea5537177.shtml",
+      "publishedAt": "2026-11-23"
+     },
+     {
+      "title": "大晓机器人发布具身通用模型ACE-Brain-0.7",
+      "body": "11月23日，大晓机器人发布具身通用模型ACE-Brain-0.7，引入基于真实执行状态的具身推理能力，面向酒店服务、即时零售等场景。",
+      "source": "新京报贝壳财经",
+      "url": "http://news.sina.com.cn/o/2026-11-23/doc-iniztfna2234676.shtml",
+      "publishedAt": "2026-11-23"
+     }
+    ],
+    "app": [
+     {
+      "title": "智元精灵G2在长电科技临港工厂并线试运行",
+      "body": "据报道，智元机器人精灵G2已在长电科技上海临港汽车电子工厂并线试运行，可在无人工干预下完成芯片测试料盘的上下料及良品与不良品分拣，双方计划向更多工序推广。",
+      "source": "每日经济新闻",
+      "url": "http://finance.sina.com.cn/roll/2026-11-23/doc-inizsuwn0747813.shtml",
+      "publishedAt": "2026-11-23"
+     },
+     {
+      "title": "人民投诉发布双11维权数据，AI导购承诺遭拒兑",
+      "body": "11月23日，人民网“人民投诉”平台发布2026年双11消费维权数据，涉及AI导购承诺优惠后商家拒绝兑现的投诉，部分商家称AI回复不算官方承诺；AI客服无法解决问题也是投诉焦点。",
+      "source": "人民网",
+      "url": "http://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztfnh0619078.shtml",
+      "publishedAt": "2026-11-23"
+     }
+    ],
+    "funding": [
+     {
+      "title": "英国防务AI公司Agon完成7000万美元A轮融资",
+      "body": "11月23日，伦敦防务AI初创公司Agon完成7000万美元A轮融资，估值4.5亿美元，前红杉资本掌门人Roelof Botha等参与。Agon成立于2026年1月，此前获3000万美元种子轮融资，提供无人机、海军及地面机器人行为模拟平台。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
+      "publishedAt": "2026-11-23"
+     },
+     {
+      "title": "工业具身智能公司微亿智造启动港股招股",
+      "body": "微亿智造（03275）11月23日至12月1日招股，拟发行3727.58万股，招股价12.07至15.69港元，预计12月4日在港交所上市。公司主营工业具身智能机器人。",
+      "source": "新浪财经",
+      "url": "http://finance.sina.com.cn/stock/hkstock/ggipo/2026-11-23/doc-inizskhn2380705.shtml",
+      "publishedAt": "2026-11-23"
+     }
+    ]
+   }
+  }
+ ]
+}
