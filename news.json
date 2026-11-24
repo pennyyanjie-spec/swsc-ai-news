@@ -1,6 +1,6 @@
 {
- "date": "2026-11-24",
- "updatedAt": "2026-11-24T19:37:58+08:00",
+ "date": "2026-11-25",
+ "updatedAt": "2026-11-25T07:43:48+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -9,112 +9,60 @@
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
   {
-   "slot": "evening",
-   "label": "晚间 20:00",
-   "fetchedAt": "2026-11-24T19:37:58+08:00",
-   "window": [
-    "2026-11-24T08:00+08:00",
-    "2026-11-24T19:37+08:00"
-   ],
-   "categories": {
-    "model": [
-     {
-      "title": "高德发布世界模型ABot-World 0.5，支持音画同步生成",
-      "body": "11月24日，阿里旗下高德发布世界模型ABot-World 0.5，新增攻击、跳跃、驾驶等技能，支持音画同步生成及通过自然语言实时重塑场景，在WBench世界模型评测中物理项与总分排名第一；提供可在消费级显卡本地运行的Iris版与通过API调用的云端Halo版。",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512454.html",
-      "publishedAt": "2026-11-24 18:30"
-     }
-    ],
-    "app": [
-     {
-      "title": "豆包AI个人助理“小豆”开启邀请制公测",
-      "body": "11月24日，豆包官宣AI个人助理“小豆”正式开启公测，用户凭邀请码使用，邀请好友可增加免费额度。小豆为独立App，付费档位包括标准版68元/月、加强版200元/月、高级版500元/月。",
-      "source": "快科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuxve5219692.shtml",
-      "publishedAt": "2026-11-24 10:59"
-     },
-     {
-      "title": "蚂蚁OceanBase发布AI数据平台OceanLake，AI收入破亿",
-      "body": "11月24日，蚂蚁旗下OceanBase在北京发布湖库一体AI数据平台OceanLake，并宣布开源核心引擎AI数据库（代号OceanSeek）。据披露，OceanBase 2026年AI业务收入首次超过1亿元，海外收入占比超15%，公有云收入增长80%。",
-      "source": "IT之家",
-      "url": "https://tech.ifeng.com/c/8yJJyKUoUnK",
-      "publishedAt": "2026-11-24 11:44"
-     }
-    ],
-    "funding": [
-     {
-      "title": "企业AI服务商迅合科技完成数千万元种子轮融资",
-      "body": "11月24日，迅合科技宣布完成数千万元人民币种子轮融资，投资方为产业投资方，资金将用于核心产品AIBOSS研发、知识库建设及重点行业场景落地。公司成立于2023年，已完成超700个企业AI交付项目。",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-24/doc-inizvuze8942707.shtml",
-      "publishedAt": "2026-11-24 18:27"
-     }
-    ]
-   }
-  },
-  {
    "slot": "morning",
    "label": "早间 08:00",
-   "fetchedAt": "2026-11-24T07:35:16+08:00",
+   "fetchedAt": "2026-11-25T07:43:48+08:00",
    "window": [
-    "2026-11-23T20:00+08:00",
-    "2026-11-24T07:35+08:00"
+    "2026-11-24T20:00+08:00",
+    "2026-11-25T07:43+08:00"
    ],
    "categories": {
     "model": [
      {
-      "title": "英伟达董事会恢复黄仁勋CEO职务",
-      "body": "11月23日，英伟达董事会宣布一致投票恢复黄仁勋总裁兼首席执行官职务，距其辞职不到两周。董事会称已征询美国政府高层意见，认定其复职不构成国家安全风险；临时CEO Colette Kress继续担任CFO。英伟达股价盘前一度上涨27%。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "publishedAt": "2026-11-23 22:21"
+      "title": "戴尔AI服务器积压订单达1323亿美元，上调全年指引",
+      "body": "11月24日美股盘后，戴尔公布第三财季业绩：营收549.4亿美元，AI优化服务器销售额220亿美元，同比增长291%；AI服务器积压订单达1323亿美元，全年AI服务器营收预期上调至780亿美元，并宣布250亿美元股票回购计划。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwwnp9655738.shtml",
+      "publishedAt": "2026-11-25 06:38"
      }
     ],
     "app": [
      {
-      "title": "Anthropic推出Claude Ship，智能体审查并批准代码",
-      "body": "11月23日，Anthropic发布Claude Ship，一组用于代码审查、修复和批准常规代码变更的AI智能体，包括已正式可用的Code Review及处于测试阶段的PR Steward和Claude Approvals。团队可用自然语言编写批准策略，产品正向GitHub上的Claude Team和Enterprise用户推出。",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "publishedAt": "2026-11-24 06:05"
-     },
-     {
-      "title": "思科与OpenAI推出开源项目Shirudo保障智能体AI安全",
-      "body": "11月23日，思科与OpenAI联合推出开源项目Shirudo，基于eBPF技术，可在补丁发布前为运行中的Linux系统提供防护且无需重启，防护规则经加密签名。项目已在GitHub上线，思科将于12月15日举办技术网络研讨会。",
-      "source": "思科官方新闻稿",
-      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html",
-      "publishedAt": "2026-11-24 05:20"
+      "title": "Workday三季度AI产品新增合同价值近1.5亿美元",
+      "body": "11月24日，Workday公布2027财年第三季度业绩：总营收27.05亿美元，同比增长11.2%；AI产品带来近1.5亿美元新增年度合同价值，是去年同期的三倍以上，已有超过2200家核心客户购买至少一款AI产品。",
+      "source": "Workday官方",
+      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Fiscal-2027-Third-Quarter-Financial-Results/default.aspx",
+      "publishedAt": "2026-11-25 05:01"
      }
     ],
     "funding": [
      {
-      "title": "Sierra完成17.5亿美元F轮融资，估值达300亿美元",
-      "body": "11月23日，Bret Taylor联合创立的企业客服AI公司Sierra宣布完成17.5亿美元F轮融资，估值300亿美元，由Greenoaks和Lightspeed领投，Benchmark、Sequoia、GV、Tiger Global跟投。公司年化经常性收入10月突破4亿美元，第三季度新增超1.5亿美元。",
-      "source": "Dealroom",
-      "url": "https://dealroom.co/news/175052-sierra-raises-1-75b-doubling-valuation-to-30b-in-six-months/",
-      "publishedAt": "2026-11-23 23:12"
+      "title": "xAI三位联合创始人创立Epochal，获1亿美元投入",
+      "body": "11月24日，xAI创始成员张国栋、Zihang Dai与Manuel Kroiss宣布创立AI初创公司Epochal，开发预测未来事件的AI智能体，张国栋个人投入1亿美元，未披露外部投资方；首款产品为Epochal Time Portal。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
+      "publishedAt": "2026-11-25 02:33"
      },
      {
-      "title": "亚马逊收购Decart优化技术及团队，据报约75亿美元",
-      "body": "11月23日，亚马逊宣布签署协议，收购Decart优化软件栈DOS背后的技术并吸纳其创始团队及研究人员，该技术可帮助AI模型在英伟达、亚马逊和谷歌硬件上高效运行。据彭博社报道交易金额约75亿美元，亚马逊正准备对外销售Trainium芯片。",
+      "title": "Anthropic股价盘中跌破83美元发行价",
+      "body": "11月24日，Anthropic股价盘中一度下跌9.4%，跌破83美元IPO发行价，据彭博社数据盘中低点为79.42美元；该股11月19日上市首日开盘价为111.50美元，前一交易日收于87.64美元。",
+      "source": "Gadget Review",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-shares-fall-below-ipo-181906660.html",
+      "publishedAt": "2026-11-25 02:19"
+     },
+     {
+      "title": "光互连公司Avicena完成超1亿美元C轮融资",
+      "body": "11月24日，美国微LED光互连初创公司Avicena宣布完成超1亿美元C轮融资，由InterVest领投，Tiger Global、SK海力士风投、三星Catalyst基金、AMD Ventures等参投，首款产品LightBundle计划明年上市。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
+      "publishedAt": "2026-11-24 21:11"
+     },
+     {
+      "title": "隐私AI应用公司Maple完成530万美元种子轮融资",
+      "body": "11月24日，隐私AI应用公司Maple完成530万美元超额认购种子轮融资，由EPIC Ventures领投，Draper Associates、Planetary VC、Epoch VC参投；公司在可信执行环境中运行开源模型，计划2027年上半年启动A轮融资。",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "publishedAt": "2026-11-24 01:14"
-     },
-     {
-      "title": "AI推理算力公司Marlowe完成2.77亿美元种子轮融资",
-      "body": "11月23日，为推理负载建设多芯片“AI工厂”的初创公司Marlowe宣布完成2.77亿美元种子轮融资，Accel、Bessemer、Altimeter、Atreides、Eclipse等参投。公司首个站点预计2026年12月投用，AMD计划于2027年与其合作部署Helios。",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/marlowe-raises-277m-seed-to-build-multi-silicon-ai-factories/",
-      "publishedAt": "2026-11-23 20:52"
-     },
-     {
-      "title": "知乎参投基金间接持有DeepSeek低个位数股权",
-      "body": "11月23日，知乎在港交所公告称，其认购合伙权益的天津砺思星深股权投资合伙企业已间接投资DeepSeek，持有DeepSeek低个位数百分比股权；知乎在该基金中的合伙权益低于30%。",
-      "source": "财联社",
-      "url": "https://finance.sina.cn/2026-11-23/detail-iniztsaa0541428.d.html",
-      "publishedAt": "2026-11-23 20:04"
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "publishedAt": "2026-11-25 05:19"
      }
     ]
    }

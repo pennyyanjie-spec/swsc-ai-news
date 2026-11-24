@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-25",
+ "updatedAt": "2026-11-25T07:43:48+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-25T07:43:48+08:00",
+   "window": [
+    "2026-11-24T20:00+08:00",
+    "2026-11-25T07:43+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "戴尔AI服务器积压订单达1323亿美元，上调全年指引",
+      "body": "11月24日美股盘后，戴尔公布第三财季业绩：营收549.4亿美元，AI优化服务器销售额220亿美元，同比增长291%；AI服务器积压订单达1323亿美元，全年AI服务器营收预期上调至780亿美元，并宣布250亿美元股票回购计划。",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwwnp9655738.shtml",
+      "publishedAt": "2026-11-25 06:38"
+     }
+    ],
+    "app": [
+     {
+      "title": "Workday三季度AI产品新增合同价值近1.5亿美元",
+      "body": "11月24日，Workday公布2027财年第三季度业绩：总营收27.05亿美元，同比增长11.2%；AI产品带来近1.5亿美元新增年度合同价值，是去年同期的三倍以上，已有超过2200家核心客户购买至少一款AI产品。",
+      "source": "Workday官方",
+      "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Announces-Fiscal-2027-Third-Quarter-Financial-Results/default.aspx",
+      "publishedAt": "2026-11-25 05:01"
+     }
+    ],
+    "funding": [
+     {
+      "title": "xAI三位联合创始人创立Epochal，获1亿美元投入",
+      "body": "11月24日，xAI创始成员张国栋、Zihang Dai与Manuel Kroiss宣布创立AI初创公司Epochal，开发预测未来事件的AI智能体，张国栋个人投入1亿美元，未披露外部投资方；首款产品为Epochal Time Portal。",
+      "source": "彭博社",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
+      "publishedAt": "2026-11-25 02:33"
+     },
+     {
+      "title": "Anthropic股价盘中跌破83美元发行价",
+      "body": "11月24日，Anthropic股价盘中一度下跌9.4%，跌破83美元IPO发行价，据彭博社数据盘中低点为79.42美元；该股11月19日上市首日开盘价为111.50美元，前一交易日收于87.64美元。",
+      "source": "Gadget Review",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-shares-fall-below-ipo-181906660.html",
+      "publishedAt": "2026-11-25 02:19"
+     },
+     {
+      "title": "光互连公司Avicena完成超1亿美元C轮融资",
+      "body": "11月24日，美国微LED光互连初创公司Avicena宣布完成超1亿美元C轮融资，由InterVest领投，Tiger Global、SK海力士风投、三星Catalyst基金、AMD Ventures等参投，首款产品LightBundle计划明年上市。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
+      "publishedAt": "2026-11-24 21:11"
+     },
+     {
+      "title": "隐私AI应用公司Maple完成530万美元种子轮融资",
+      "body": "11月24日，隐私AI应用公司Maple完成530万美元超额认购种子轮融资，由EPIC Ventures领投，Draper Associates、Planetary VC、Epoch VC参投；公司在可信执行环境中运行开源模型，计划2027年上半年启动A轮融资。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "publishedAt": "2026-11-25 05:19"
+     }
+    ]
+   }
+  }
+ ]
+}
