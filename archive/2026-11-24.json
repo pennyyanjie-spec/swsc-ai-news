@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "updatedAt": "2026-11-24T07:35:16+08:00",
+ "updatedAt": "2026-11-24T19:37:58+08:00",
  "categories": {
   "model": "大模型产业",
   "app": "AI应用产业",
@@ -8,6 +8,51 @@
  },
  "disclaimer": "公开资料整理，不涉及投资意见",
  "batches": [
+  {
+   "slot": "evening",
+   "label": "晚间 20:00",
+   "fetchedAt": "2026-11-24T19:37:58+08:00",
+   "window": [
+    "2026-11-24T08:00+08:00",
+    "2026-11-24T19:37+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "高德发布世界模型ABot-World 0.5，支持音画同步生成",
+      "body": "11月24日，阿里旗下高德发布世界模型ABot-World 0.5，新增攻击、跳跃、驾驶等技能，支持音画同步生成及通过自然语言实时重塑场景，在WBench世界模型评测中物理项与总分排名第一；提供可在消费级显卡本地运行的Iris版与通过API调用的云端Halo版。",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512454.html",
+      "publishedAt": "2026-11-24 18:30"
+     }
+    ],
+    "app": [
+     {
+      "title": "豆包AI个人助理“小豆”开启邀请制公测",
+      "body": "11月24日，豆包官宣AI个人助理“小豆”正式开启公测，用户凭邀请码使用，邀请好友可增加免费额度。小豆为独立App，付费档位包括标准版68元/月、加强版200元/月、高级版500元/月。",
+      "source": "快科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-24/doc-inizuxve5219692.shtml",
+      "publishedAt": "2026-11-24 10:59"
+     },
+     {
+      "title": "蚂蚁OceanBase发布AI数据平台OceanLake，AI收入破亿",
+      "body": "11月24日，蚂蚁旗下OceanBase在北京发布湖库一体AI数据平台OceanLake，并宣布开源核心引擎AI数据库（代号OceanSeek）。据披露，OceanBase 2026年AI业务收入首次超过1亿元，海外收入占比超15%，公有云收入增长80%。",
+      "source": "IT之家",
+      "url": "https://tech.ifeng.com/c/8yJJyKUoUnK",
+      "publishedAt": "2026-11-24 11:44"
+     }
+    ],
+    "funding": [
+     {
+      "title": "企业AI服务商迅合科技完成数千万元种子轮融资",
+      "body": "11月24日，迅合科技宣布完成数千万元人民币种子轮融资，投资方为产业投资方，资金将用于核心产品AIBOSS研发、知识库建设及重点行业场景落地。公司成立于2023年，已完成超700个企业AI交付项目。",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-24/doc-inizvuze8942707.shtml",
+      "publishedAt": "2026-11-24 18:27"
+     }
+    ]
+   }
+  },
   {
    "slot": "morning",
    "label": "早间 08:00",
