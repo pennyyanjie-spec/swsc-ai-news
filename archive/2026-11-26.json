@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-26",
+ "updatedAt": "2026-11-26T07:39:57+08:00",
+ "categories": {
+  "model": "大模型产业",
+  "app": "AI应用产业",
+  "funding": "投融资动态"
+ },
+ "disclaimer": "公开资料整理，不涉及投资意见",
+ "batches": [
+  {
+   "slot": "morning",
+   "label": "早间 08:00",
+   "fetchedAt": "2026-11-26T07:39:57+08:00",
+   "window": [
+    "2026-11-25T20:00+08:00",
+    "2026-11-26T07:39+08:00"
+   ],
+   "categories": {
+    "model": [
+     {
+      "title": "OpenAI向少数企业客户测试私有推理服务",
+      "body": "11月25日，OpenAI首席执行官奥特曼宣布，公司开始与一小批企业客户测试Alpha版Private Inference服务，利用机密计算在模型处理过程中保护提示词和回复内容。这是OpenAI私有智能产品的第二部分，更大规模推出取决于其仍在筹措的机密计算算力，暂无时间表。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-private-inference-testing-customers",
+      "publishedAt": "2026-11-26 03:27"
+     },
+     {
+      "title": "美国远程访问新规后，卖家为数千枚B300寻找买家",
+      "body": "据CNBC报道，美国商务部11月16日公布、19日生效的限制中国企业远程访问美国AI算力的新规出台后，二手市场上英伟达GPU挂售数量异常增多，卖家正为数千枚B300芯片寻找新买家。新规要求向中国企业提供大量先进算力的境外运营商申领许可，现有运营商有90天过渡期。",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/nvidia-chip-sellers-seek-buyers-after-new-u-s-restrictions-on-china",
+      "publishedAt": "2026-11-26 02:38"
+     }
+    ],
+    "app": [
+     {
+      "title": "ChatGPT合并Chat与Work，重度用户或更快触达额度",
+      "body": "11月25日，OpenAI开始向一小部分Pro订阅用户推出ChatGPT统一的Chat与Work体验，两者共用一个用量额度，Instant模型对话不计入额度且不限量。OpenAI表示大多数用户不受影响，但少数重度用户可能更快达到上限，共享额度计划于12月更大范围推出。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "publishedAt": "2026-11-26 04:03"
+     },
+     {
+      "title": "亚马逊与Meta据报谈判解除对Muse的封锁",
+      "body": "据《财富》11月25日报道，亚马逊与Meta已就让Meta的AI智能体Muse直接接入亚马逊商城进行多轮谈判，搜索结果呈现和广告处理是两大未决问题，协议需双方CEO批准。亚马逊自9月起阻止Muse在其网站下单，双方均未回应置评请求。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "publishedAt": "2026-11-25 22:10"
+     },
+     {
+      "title": "Cloudflare推出Search for Agents，供AI智能体站内搜索",
+      "body": "11月25日，Cloudflare面向包括免费版在内的全部客户推出Search for Agents测试版。开启后网站会被索引并在域名下增加标准搜索端点，供AI智能体检索原文而非抓取全站；用量按AI Search定价计费，12月1日起收费。Cloudflare此前称网络上AI智能体日请求量一年增长超1700%。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/cloudflare-search-for-agents-ai-website-search",
+      "publishedAt": "2026-11-26 00:25"
+     }
+    ],
+    "funding": [
+     {
+      "title": "ElevenLabs据报洽谈新融资，估值目标330亿美元",
+      "body": "据彭博社11月25日报道，AI语音公司ElevenLabs正就2027年一季度的新一轮融资进行初步谈判，估值目标330亿美元，较9月3亿美元股份出售时的220亿美元估值高出50%。知情人士称其年化经常性收入已达7亿美元，高于9月的6亿美元。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/elevenlabs-33bn-valuation-funding-talks-2027",
+      "publishedAt": "2026-11-26 04:03"
+     },
+     {
+      "title": "AI媒体与软件公司Every完成1750万美元A轮融资",
+      "body": "11月25日，聚焦职场AI应用的媒体与软件公司Every宣布完成1750万美元A轮融资，投后估值1.1亿美元，由IA Ventures领投，Betaworks及The Atlantic CEO Nicholas Thompson参投。公司约35名员工，拥有约13万免费订阅用户和近1万付费用户，资金将用于整合写作、软件与团队培训的统一订阅。",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/every-17-5m-series-a-ai-native-media",
+      "publishedAt": "2026-11-26 03:12"
+     }
+    ]
+   }
+  }
+ ]
+}
